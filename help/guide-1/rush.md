@@ -1,7 +1,7 @@
 ---
-title: New file
+title: Rush
 description: Description
 ---
 
-# New file
+# Rush
 

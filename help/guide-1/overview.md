@@ -1,13 +1,11 @@
 ---
-title: Overview
+title: Creative Cloud for enterprise
 description: This is the article overview.
 ---
 
-# Title
+# Creative Cloud for enterprise Learning Hub
 
-Welcome to the something something user guide.
-
-MORE...
+Welcome to the Creative Cloud for enterprise Learning Hub.
 
 <!--
 This is the landing page of the user guide. It should be the first list item in the TOC.md file.

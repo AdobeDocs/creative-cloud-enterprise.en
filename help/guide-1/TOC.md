@@ -7,7 +7,7 @@ product: creative-cloud
 # Creative Cloud Enterprise Learning Hub {#cce-learning-hub}
 
 + [Overview](overview.md)
-+ MAX 2020 {#MAX2020}
++ MAX 2020 {#max2020}
   + Desktop Products {#desktop-products}
     + [Acrobat & Sign](acrobat-sign.md)
     + [Dimension](dimension.md)

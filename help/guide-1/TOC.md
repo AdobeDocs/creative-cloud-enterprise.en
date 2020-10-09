@@ -4,11 +4,13 @@ solution: Creative Cloud
 product: creative-cloud
 ---
 
-# Creative Cloud Enterprise Learning Hub {#cce-learning-hub}
+# Creative Cloud for Enterprise Learning Hub {#cce-learning-hub}
 
 + [Overview](overview.md)
 + MAX 2020 {#max2020}
+  + [Overview](maxoverview.md)
   + Desktop Products {#desktop-products}
+    + [Overview](desktopoverview.md)
     + [Acrobat & Sign](acrobat-sign.md)
     + [Dimension](dimension.md)
     + [Illustrator](illustrator.md)
@@ -20,13 +22,4 @@ product: creative-cloud
     + [Overview](mobileapps-overview.md)
   + Integrations {#integrations}
     + [Overview](integrations-overview.md)
-
-
-<!--
-
-Articles must be added to this TOC file in order to render.
-
-Use this list format to specify links to articles and section headings that expand and collapse in the left rail of the user guide.
-
-An article link CANNOT be used as a section heading.
--->
+s

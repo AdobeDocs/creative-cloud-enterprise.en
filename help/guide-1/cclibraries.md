@@ -1,8 +1,9 @@
 ---
-title: Photoshop
+title: CC Libraries
 description: Description
 ---
 
-# Photoshop
+# CC Libraries
 
 ![Tutorial Hero Image](assets/hero_placeholder.png)
+

@@ -1,8 +1,8 @@
 ---
-title: Photoshop
+title: Fresco
 description: Description
 ---
 
-# Photoshop
+# Fresco
 
 ![Tutorial Hero Image](assets/hero_placeholder.png)

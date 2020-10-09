@@ -1,8 +1,9 @@
 ---
-title: Photoshop
+title: Illustrator on iPad
 description: Description
 ---
 
-# Photoshop
+# Illustrator on iPad
 
 ![Tutorial Hero Image](assets/hero_placeholder.png)
+

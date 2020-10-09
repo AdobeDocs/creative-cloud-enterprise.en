@@ -1,8 +1,8 @@
 ---
-title: Photoshop
+title: Capture
 description: Description
 ---
 
-# Photoshop
+# Capture
 
 ![Tutorial Hero Image](assets/hero_placeholder.png)

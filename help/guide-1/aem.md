@@ -1,8 +1,8 @@
 ---
-title: Photoshop
+title: AEM Assets & Asset Link
 description: Description
 ---
 
-# Photoshop
+# AEM Assets & Asset Link
 
 ![Tutorial Hero Image](assets/hero_placeholder.png)

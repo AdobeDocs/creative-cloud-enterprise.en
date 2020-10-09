@@ -5,5 +5,5 @@ description: CC Library Tutorials
 
 # CC Libraries
 
-![Tutorial Hero Image](assets/hero_placeholder.png)
+![Tutorial Hero Image](../assets/hero_placeholder.png)
 

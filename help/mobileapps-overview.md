@@ -11,7 +11,7 @@ description: Description
 <tr>
  <td>
     <a href="capture.md">
-      <img alt="Capture" src="assets/Quick-Tour.png" />
+      <img alt="Capture" src="assets/Whitespacer.png" />
     </a>
     <div>
     <a href="capture.md"><strong>Capture</strong></a>
@@ -20,7 +20,7 @@ description: Description
   </td>
   <td>
     <a href="fresco.md">
-      <img alt="Fresco" src="assets/Send-to-single-recipient.png" />
+      <img alt="Fresco" src="assets/Whitespacer.png" />
     </a>
     <div>
     <a href="fresco.md"><strong>Fresco</strong></a>
@@ -29,7 +29,7 @@ description: Description
   </td>
   <td>
     <a href="illustratoripad.md">
-      <img alt="Illustrator on iPad" src="assets/Sending-to-multiple-recipients.png" />
+      <img alt="Illustrator on iPad" src="assets/Whitespacer.png" />
     </a>
     <div>
     <a href="illustratoripad.md"><strong>Illustrator on iPad</strong></a>
@@ -40,7 +40,7 @@ description: Description
 <tr>
   <td>
     <a href="photoshopipad.md">
-      <img alt="Photoshop on iPad" src="assets/Sending-to-multiple-recipients.png" />
+      <img alt="Photoshop on iPad" src="assets/Whitespacer.png" />
     </a>
     <div>
     <a href="photoshopipad.md"><strong>Photoshop on iPad</strong></a>

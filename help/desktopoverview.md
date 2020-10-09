@@ -33,7 +33,7 @@ As an enterprise creative, you need to collaborate with distributed teams, estab
   </td>
   <td>
     <a href="illustrator.md">
-      <img alt="Illustrator" src="assets/Sending-to-multiple-recipients.png" />
+      <img alt="Illustrator" src="assets/Whitespacer.png" />
     </a>
     <div>
     <a href="illustrator.md"><strong>Illustrator</strong></a>
@@ -44,7 +44,7 @@ As an enterprise creative, you need to collaborate with distributed teams, estab
 <tr>
  <td>
     <a href="indesign.md">
-      <img alt="InDesign" src="assets/Quick-Tour.png" />
+      <img alt="InDesign" src="assets/Whitespacer.png" />
     </a>
     <div>
     <a href="indesign.md"><strong>InDesign</strong></a>
@@ -53,7 +53,7 @@ As an enterprise creative, you need to collaborate with distributed teams, estab
   </td>
   <td>
     <a href="photoshop.md">
-      <img alt="Photoshop" src="assets/Send-to-single-recipient.png" />
+      <img alt="Photoshop" src="assets/Whitespacer.png" />
     </a>
     <div>
     <a href="photoshop.md"><strong>Photoshop</strong></a>
@@ -62,7 +62,7 @@ As an enterprise creative, you need to collaborate with distributed teams, estab
   </td>
   <td>
     <a href="rush.md">
-      <img alt="Rush" src="assets/Sending-to-multiple-recipients.png" />
+      <img alt="Rush" src="assets/Whitespacer.png" />
     </a>
     <div>
     <a href="rush.md"><strong>Rush</strong></a>
@@ -73,7 +73,7 @@ As an enterprise creative, you need to collaborate with distributed teams, estab
 <tr>
  <td>
     <a href="xd.md">
-      <img alt="XD" src="assets/Sending-to-multiple-recipients.png" />
+      <img alt="XD" src="assets/Whitespacer.png" />
     </a>
     <div>
     <a href="xd.md"><strong>XD</strong></a>

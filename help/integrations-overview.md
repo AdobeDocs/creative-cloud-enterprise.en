@@ -11,7 +11,7 @@ description: Description
 <tr>
  <td>
     <a href="aem.md">
-      <img alt="AEM Assets & Asset Link" src="assets/Quick-Tour.png" />
+      <img alt="AEM Assets & Asset Link" src="assets/Whitespacer.png" />
     </a>
     <div>
     <a href="aem.md"><strong>AEM Assets & Asset Link</strong></a>
@@ -20,7 +20,7 @@ description: Description
   </td>
   <td>
     <a href="cclibraries.md">
-      <img alt="CC Libraries" src="assets/Send-to-single-recipient.png" />
+      <img alt="CC Libraries" src="assets/Whitespacer.png" />
     </a>
     <div>
     <a href="cclibraries.md"><strong>CC Libraries</strong></a>
@@ -29,7 +29,7 @@ description: Description
   </td>
   <td>
     <a href="indesignserver.md">
-      <img alt="InDesign Server" src="assets/Sending-to-multiple-recipients.png" />
+      <img alt="InDesign Server" src="assets/Whitespacer.png" />
     </a>
     <div>
     <a href="indesignserver.md"><strong>InDesign Server</strong></a>
@@ -40,7 +40,7 @@ description: Description
 <tr>
   <td>
     <a href="stock.md">
-      <img alt="Adobe Stock" src="assets/Sending-to-multiple-recipients.png" />
+      <img alt="Adobe Stock" src="assets/Whitespacer.png" />
     </a>
     <div>
     <a href="stock.md"><strong>Adobe Stock</strong></a>

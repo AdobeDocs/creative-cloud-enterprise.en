@@ -1,6 +1,6 @@
 ---
 title: Rush
-description: Description
+description: A listing of Rush tutorals.
 ---
 
 # Rush

@@ -1,6 +1,6 @@
 ---
 title: Photoshop on iPad
-description: Description
+description: A listing of Photoshop on iPad tutorials.
 ---
 
 # Photoshop on iPad

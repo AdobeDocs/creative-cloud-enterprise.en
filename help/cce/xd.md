@@ -1,8 +1,8 @@
 ---
-title: Illustrator
-description: Description
+title: XD
+description: A listiing of XD tutorials.
 ---
 
-# Illustrator
+# XD
 
 ![Tutorial Hero Image](assets/hero_placeholder.png)

@@ -1,6 +1,6 @@
 ---
 title: Integrations
-description: Description
+description: A listing of Integration tutorials.
 ---
 
 # Tutorials by Integration

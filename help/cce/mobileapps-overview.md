@@ -1,6 +1,6 @@
 ---
 title: Mobile Apps
-description: Description
+description: A listing of CCE Mobile App tutorials.
 ---
 
 # Tutorials by Mobile App

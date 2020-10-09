@@ -1,6 +1,6 @@
 ---
 title: InDesign
-description: Description
+description: A listing of InDesign tutorials.
 ---
 
 # InDesign

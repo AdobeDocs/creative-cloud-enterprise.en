@@ -1,6 +1,6 @@
 ---
 title: InDesign Server
-description: Description
+description: A listing of InDesign Server tutorials.
 ---
 
 # InDesign Server

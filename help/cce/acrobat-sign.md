@@ -1,6 +1,6 @@
 ---
 title: Acrobat & Sign
-description: Description
+description: A listing of Acrobat and Adobe Sign tutorials.
 ---
 
 # Acrobat & Sign

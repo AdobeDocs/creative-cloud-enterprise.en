@@ -1,6 +1,6 @@
 ---
-title: Desktop Overview
-description: This is the article overview.
+title: Desktop Products Overview
+description: Listing the Creative Cloud Desktop Products
 ---
 
 # Tutorials

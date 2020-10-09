@@ -1,6 +1,6 @@
 ---
 title: Stock
-description: Description
+description: A listing of Adobe Stock tutorials.
 ---
 
 # Stock

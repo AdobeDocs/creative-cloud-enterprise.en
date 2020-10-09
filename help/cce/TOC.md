@@ -1,6 +1,6 @@
 ---
-user-guide-title: Creative Cloud Enterprise Learning Hub
-solution: Creative Cloud
+user-guide-title: Creative Cloud for Enterprise Learning Hub
+solution: Creative Cloud for Enterprise
 product: creative-cloud
 ---
 

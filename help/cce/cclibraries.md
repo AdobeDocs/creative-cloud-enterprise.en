@@ -1,6 +1,6 @@
 ---
 title: CC Libraries
-description: Description
+description: CC Library Tutorials
 ---
 
 # CC Libraries

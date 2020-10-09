@@ -1,6 +1,6 @@
 ---
 title: Photoshop
-description: Description
+description: A listing of Photoshop tutorials.
 ---
 
 # Photoshop

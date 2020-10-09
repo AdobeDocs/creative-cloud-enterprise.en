@@ -1,6 +1,6 @@
 ---
 title: MAX 2020 Overview
-description: This is the article overview.
+description: These tutorials will help you learn new features in the 2021 release of Creative Cloud—from an enterprise perspective. 
 ---
 
 # MAX 2020 — the Enterprise Sessions

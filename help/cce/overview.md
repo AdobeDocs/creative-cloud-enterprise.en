@@ -1,6 +1,6 @@
 ---
 title: Creative Cloud for enterprise
-description: This is the article overview.
+description: Welcome to the Creative Cloud for enterprise Learning Hub.
 ---
 
 # Creative Cloud for enterprise Learning Hub

@@ -1,6 +1,6 @@
 ---
 title: Dimension
-description: Description
+description: A listing of Adobe Dimension tutorials.
 ---
 
 # Dimension

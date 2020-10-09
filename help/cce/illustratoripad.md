@@ -1,6 +1,6 @@
 ---
 title: Illustrator on iPad
-description: Description
+description: A listing of Illustrator on iPad tutorials.
 ---
 
 # Illustrator on iPad

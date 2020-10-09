@@ -22,4 +22,3 @@ product: creative-cloud
     + [Overview](mobileapps-overview.md)
   + Integrations {#integrations}
     + [Overview](integrations-overview.md)
-s

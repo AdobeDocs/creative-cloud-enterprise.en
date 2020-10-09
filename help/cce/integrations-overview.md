@@ -1,11 +1,11 @@
 ---
 title: Integrations
-description: Description
+description: A listing of Integration tutorials.
 ---
 
 # Tutorials by Integration
 
-![Tutorial Hero Image](assets/hero_placeholder.png)
+![Tutorial Hero Image](../assets/hero_placeholder.png)
 
 <table>
 <tr>

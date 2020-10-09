@@ -1,11 +1,11 @@
 ---
 title: Mobile Apps
-description: Description
+description: A listing of CCE Mobile App tutorials.
 ---
 
 # Tutorials by Mobile App
 
-![Tutorial Hero Image](assets/hero_placeholder.png)
+![Tutorial Hero Image](../assets/hero_placeholder.png)
 
 <table>
 <tr>

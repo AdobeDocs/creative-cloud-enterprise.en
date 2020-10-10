@@ -41,4 +41,4 @@ Insert product messaging copy here
 
 ## Tutorial 2 {#tutorial2}
 
-## Tutorial 3 #{tutorial3}
+## Tutorial 3 {#tutorial3}

@@ -16,21 +16,21 @@ Insert product messaging copy here
  <td>
     <img alt="Tutorial 1" src="../assets/Whitespacer.png" />
     <div>
-    [Tutorial 1] {#tutorial1}
+    <a href="acrobat-sign.md#tutorial1"><strong>Tutorial 1</strong></a>
     </div>
     <br>
   </td>
   <td>
     <img alt="Tutorial 2" src="../assets/Whitespacer.png" />
     <div>
-    [Tutorial 2] {#tutorial2}
+    <a href="acrobat-sign.md#tutorial2"><strong>Tutorial 2</strong></a>
     </div>
     <br>
   </td>
   <td>
    <img alt="Tutorial 3" src="../assets/Whitespacer.png" />
     <div>
-    [Tutorial 3] {#tutorial3}
+    <a href="acrobat-sign.md#tutorial3"><strong>Tutorial 3</strong></a>
     </div>
     <br>
   </td>

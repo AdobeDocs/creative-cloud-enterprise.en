@@ -14,69 +14,69 @@ As an enterprise creative, you need to collaborate with distributed teams, estab
 <table>
 <tr>
  <td>
-    <a href="max2020/acrobat-sign.md">
+    <a href="acrobat-sign.md">
       <img alt="Acrobat & Adobe Sign" src="../assets/Quick-Tour.png" />
     </a>
     <div>
-    <a href="max2020/acrobat-sign.md"><strong>Acrobat & Adobe Sign</strong></a>
+    <a href="acrobat-sign.md"><strong>Acrobat & Adobe Sign</strong></a>
     </div>
     <br>
   </td>
   <td>
-    <a href="max2020/dimension.md">
+    <a href="dimension.md">
       <img alt="Dimension" src="../assets/Send-to-single-recipient.png" />
     </a>
     <div>
-    <a href="max2020/dimension.md"><strong>Dimension</strong></a>
+    <a href="dimension.md"><strong>Dimension</strong></a>
     </div>
     <br>
   </td>
   <td>
-    <a href="max2020/illustrator.md">
+    <a href="illustrator.md">
       <img alt="Illustrator" src="../assets/Whitespacer.png" />
     </a>
     <div>
-    <a href="max2020/illustrator.md"><strong>Illustrator</strong></a>
+    <a href="illustrator.md"><strong>Illustrator</strong></a>
     </div>
     <br>
   </td>
 </tr>
 <tr>
  <td>
-    <a href="max2020/indesign.md">
+    <a href="indesign.md">
       <img alt="InDesign" src="../assets/Whitespacer.png" />
     </a>
     <div>
-    <a href="max2020/indesign.md"><strong>InDesign</strong></a>
+    <a href="indesign.md"><strong>InDesign</strong></a>
     </div>
     <br>
   </td>
   <td>
-    <a href="max2020/photoshop.md">
+    <a href="photoshop.md">
       <img alt="Photoshop" src="../assets/Whitespacer.png" />
     </a>
     <div>
-    <a href="max2020/photoshop.md"><strong>Photoshop</strong></a>
+    <a href="photoshop.md"><strong>Photoshop</strong></a>
     </div>
     <br>
   </td>
   <td>
-    <a href="max2020/rush.md">
+    <a href="rush.md">
       <img alt="Rush" src="../assets/Whitespacer.png" />
     </a>
     <div>
-    <a href="max2020/rush.md"><strong>Rush</strong></a>
+    <a href="rush.md"><strong>Rush</strong></a>
     </div>
     <br>
   </td>
 </tr>
 <tr>
  <td>
-    <a href="max2020/xd.md">
+    <a href="xd.md">
       <img alt="XD" src="../assets/Whitespacer.png" />
     </a>
     <div>
-    <a href="max2020/xd.md"><strong>XD</strong></a>
+    <a href="xd.md"><strong>XD</strong></a>
     </div>
     <br>
   </td>

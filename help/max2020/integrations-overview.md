@@ -10,40 +10,40 @@ description: A listing of Integration tutorials.
 <table>
 <tr>
  <td>
-    <a href="max2020/aem.md">
+    <a href="aem.md">
       <img alt="AEM Assets & Asset Link" src="../assets/Whitespacer.png" />
     </a>
     <div>
-    <a href="max2020/aem.md"><strong>AEM Assets & Asset Link</strong></a>
+    <a href="aem.md"><strong>AEM Assets & Asset Link</strong></a>
     </div>
     <br>
   </td>
   <td>
-    <a href="max2020.md/cclibraries.md">
+    <a href="cclibraries.md">
       <img alt="CC Libraries" src="../assets/Whitespacer.png" />
     </a>
     <div>
-    <a href="max2020/cclibraries.md"><strong>CC Libraries</strong></a>
+    <a href="cclibraries.md"><strong>CC Libraries</strong></a>
     </div>
     <br>
   </td>
   <td>
-    <a href="max2020/indesignserver.md">
+    <a href="indesignserver.md">
       <img alt="InDesign Server" src="../assets/Whitespacer.png" />
     </a>
     <div>
-    <a href="max2020/indesignserver.md"><strong>InDesign Server</strong></a>
+    <a href="indesignserver.md"><strong>InDesign Server</strong></a>
     </div>
     <br>
   </td>
 </tr>
 <tr>
   <td>
-    <a href="max2020/stock.md">
+    <a href="stock.md">
       <img alt="Adobe Stock" src="../assets/Whitespacer.png" />
     </a>
     <div>
-    <a href="max2020/stock.md"><strong>Adobe Stock</strong></a>
+    <a href="stock.md"><strong>Adobe Stock</strong></a>
     </div>
     <br>
   </td>

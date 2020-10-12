@@ -14,21 +14,21 @@ Insert product messaging copy here
 <table>
 <tr>
  <td>
-    <img alt="Tutorial 1" src="assets/Whitespacer.png" />
+    <img alt="Tutorial 1" src="../assets/Whitespacer.png" />
     <div>
     [Tutorial 1] {#tutorial1}
     </div>
     <br>
   </td>
   <td>
-    <img alt="Tutorial 2" src="assets/Whitespacer.png" />
+    <img alt="Tutorial 2" src="../assets/Whitespacer.png" />
     <div>
     [Tutorial 2] {#tutorial2}
     </div>
     <br>
   </td>
   <td>
-   <img alt="Tutorial 3" src="assets/Whitespacer.png" />
+   <img alt="Tutorial 3" src="../assets/Whitespacer.png" />
     <div>
     [Tutorial 3] {#tutorial3}
     </div>

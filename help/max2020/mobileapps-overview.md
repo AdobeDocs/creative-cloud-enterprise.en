@@ -1,5 +1,5 @@
 ---
-title: Mobile Apps
+title: Tutorials by Mobile App
 description: A listing of CCE Mobile App tutorials.
 ---
 
@@ -10,45 +10,45 @@ description: A listing of CCE Mobile App tutorials.
 <table>
 <tr>
  <td>
-    <a href="capture.md">
-      <img alt="Capture" src="assets/Whitespacer.png" />
+    <a href="max2020/capture.md">
+      <img alt="Capture" src="../assets/Whitespacer.png" />
     </a>
     <div>
-    <a href="capture.md"><strong>Capture</strong></a>
+    <a href="max2020/capture.md"><strong>Capture</strong></a>
     </div>
     <br>
   </td>
   <td>
-    <a href="fresco.md">
-      <img alt="Fresco" src="assets/Whitespacer.png" />
+    <a href="max2020/fresco.md">
+      <img alt="Fresco" src="../assets/Whitespacer.png" />
     </a>
     <div>
-    <a href="fresco.md"><strong>Fresco</strong></a>
+    <a href="max2020/fresco.md"><strong>Fresco</strong></a>
     </div>
     <br>
   </td>
   <td>
-    <a href="illustratoripad.md">
-      <img alt="Illustrator on iPad" src="assets/Whitespacer.png" />
+    <a href="max2020/illustratoripad.md">
+      <img alt="Illustrator on iPad" src="../assets/Whitespacer.png" />
     </a>
     <div>
-    <a href="illustratoripad.md"><strong>Illustrator on iPad</strong></a>
+    <a href="max2020/illustratoripad.md"><strong>Illustrator on iPad</strong></a>
     </div>
     <br>
   </td>
 </tr>
 <tr>
   <td>
-    <a href="photoshopipad.md">
-      <img alt="Photoshop on iPad" src="assets/Whitespacer.png" />
+    <a href="max2020/photoshopipad.md">
+      <img alt="Photoshop on iPad" src="../assets/Whitespacer.png" />
     </a>
     <div>
-    <a href="photoshopipad.md"><strong>Photoshop on iPad</strong></a>
+    <a href="max2020/photoshopipad.md"><strong>Photoshop on iPad</strong></a>
     </div>
     <br>
   </td>
   <td>
-    <img alt="Spacer" src="assets/Whitespacer.png" />
+    <img alt="Spacer" src="../assets/Whitespacer.png" />
     <div>
     <br>
   </td> 

@@ -52,5 +52,10 @@ description: A listing of CCE Mobile App tutorials.
     <div>
     <br>
   </td> 
+  <td>
+    <img alt="Spacer" src="../assets/Whitespacer.png" />
+    <div>
+    <br>
+  </td> 
 </tr>  
 </table>

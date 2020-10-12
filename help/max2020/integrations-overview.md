@@ -51,6 +51,11 @@ description: A listing of Integration tutorials.
     <img alt="Spacer" src="../assets/Whitespacer.png" />
     <div>
     <br>
+  </td>
+  <td>
+    <img alt="Spacer" src="../assets/Whitespacer.png" />
+    <div>
+    <br>
   </td> 
 </tr>  
 </table>

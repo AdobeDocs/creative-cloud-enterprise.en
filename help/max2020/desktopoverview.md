@@ -15,7 +15,7 @@ As an enterprise creative, you need to collaborate with distributed teams, estab
 <tr>
  <td>
     <a href="acrobat-sign.md">
-      <img alt="Acrobat & Adobe Sign" src="../assets/Quick-Tour.png" />
+      <img alt="Acrobat & Adobe Sign" src="../assets//Whitespacer.png" />
     </a>
     <div>
     <a href="acrobat-sign.md"><strong>Acrobat & Adobe Sign</strong></a>
@@ -24,7 +24,7 @@ As an enterprise creative, you need to collaborate with distributed teams, estab
   </td>
   <td>
     <a href="dimension.md">
-      <img alt="Dimension" src="../assets/Send-to-single-recipient.png" />
+      <img alt="Dimension" src="../assets//Whitespacer.png" />
     </a>
     <div>
     <a href="dimension.md"><strong>Dimension</strong></a>

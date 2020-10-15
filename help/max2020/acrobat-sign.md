@@ -15,78 +15,86 @@ Insert product messaging copy here
 <tr>
  <td>
    <a href="acrobat-sign.md#tutorial1">
-      <img alt="Acrobat & Adobe Sign" src="../assets//table_placeholder.png" />
+      <img alt="Initiating an Acrobat Shared Review" src="../assets//table_placeholder.png" />
    </a>
     <div>
-   <a href="acrobat-sign.md#tutorial1"><strong>Tutorial 1</strong></a>
+   <a href="acrobat-sign.md#tutorial1"><strong>Initiating an Acrobat Shared Review</strong></a>
     </div>
+    <em>Invite reviewers to add their comments to a PDF document</em>
     <br>
   </td>
   <td>
     <a href="acrobat-sign.md#tutorial2">
-        <img alt="Tutorial 2" src="../assets/table_placeholder.png" />
+        <img alt="Create Online Waiver Forms with Adobe Sign" src="../assets/table_placeholder.png" />
     </a>
     <div>
-    <a href="acrobat-sign.md#tutorial2"><strong>Tutorial 2</strong></a>
+    <a href="acrobat-sign.md#tutorial2"><strong>Create Online Waiver Forms with Adobe Sign</strong></a>
     </div>
+    <em>Quickly turn documents into online forms and post them online where anyone who needs them can fill and sign them</em>
     <br>
   </td>
   <td>
    <a href="acrobat-sign.md#tutorial3">
-      <img alt="Tutorial 3" src="../assets/table_placeholder.png" />
+      <img alt="Request a Signature with Adobe Sign" src="../assets/table_placeholder.png" />
    </a>
     <div>
-    <a href="acrobat-sign.md#tutorial3"><strong>Tutorial 3</strong></a>
+    <a href="acrobat-sign.md#tutorial3"><strong>Request a Signature with Adobe Sign</strong></a>
     </div>
+    <em>Insert tutorial description here</em>
     <br>
   </td>
 </tr>
 </table>
 
-## Tutorial 1 {#tutorial1}
+## Initiating an Acrobat Shared Review {#tutorial1}
 
 ![Video Hero Placeholder Image](../assets/table_placeholder.png)
 
 **Description**
 
-Insert tutorial description here
+Invite reviewers to add their comments to a PDF document. 
 
 In this tutorial, you will learn how to:
-* Feature 1
-* Feature 2
-* Feature 3
-* Feature 4
+* Host PDF commenting in the Document Cloud
+* Gather comments in one place
+* Simultaneous commenting encourages collaboration
 
-**Presented by:** SC Name
 
-## Tutorial 2 {#tutorial2}
+**Presented by:** 
+
+Dan Armstrong, Solution Consultant (Digital Media)
+Rick Borstein, Senior Manager Solution Consulting (Digital Media)
+
+## Create Online Waiver Forms with Adobe Sign {#tutorial2}
 
 ![Video Hero Placeholder Image](../assets/table_placeholder.png)
 
 **Description**
 
-Insert tutorial description here
+Quickly turn documents into online forms and post them online where anyone who needs them can fill and sign them. 
 
 In this tutorial, you will learn how to:
-* Feature 1
-* Feature 2
-* Feature 3
-* Feature 4
+* Go digital by turning paper forms into digital documents
+* Post digital forms to your website where customers can access them from their own device
+* Completed forms are automatically archived for your records.
 
-**Presented by:** SC Name
 
-## Tutorial 3 {#tutorial3}
+**Presented by:**
+
+Taylor Kobey, Solution Consultant (Digital Media)
+Emily Palmer, Solution Consultant (Digital Media)
+
+## Request a Signature with Adobe Sign {#tutorial3}
 
 ![Video Hero Placeholder Image](../assets/table_placeholder.png)
 
 **Description**
 
-Insert tutorial description here
+Go from Word to PDF and send for signature with Adobe Sign
 
 In this tutorial, you will learn how to:
-* Feature 1
-* Feature 2
-* Feature 3
-* Feature 4
+* Leverage the tools you use every day to send digital documents for signature
 
-**Presented by:** SC Name
+**Presented by:**
+
+Rick Borstein, Senior Manager Solution Consulting (Digital Media)

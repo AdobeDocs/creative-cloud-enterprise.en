@@ -47,7 +47,7 @@ Insert product messaging copy here
 
 ![Video Hero Placeholder Image](../assets/table_placeholder.png)
 
-### Details
+**Description**
 
 Insert tutorial description here
 
@@ -63,7 +63,7 @@ Presented by: SC Name
 
 ![Video Hero Placeholder Image](../assets/table_placeholder.png)
 
-### Details
+**Description**
 
 Insert tutorial description here
 
@@ -79,7 +79,7 @@ Presented by: SC Name
 
 ![Video Hero Placeholder Image](../assets/table_placeholder.png)
 
-### Details
+**Description**
 
 Insert tutorial description here
 

@@ -15,7 +15,7 @@ Premiere Rush is the first all-in-one, cross-device video editing app that makes
 <tr>
  <td>
    <a href="rush.md#tutorial1">
-      <img alt="Create a Social Media Video " src="../assets//table_placeholder.png" />
+      <img alt="Create a Social Media Video" src="../assets//table_placeholder.png" />
    </a>
     <div>
    <a href="rush.md#tutorial1"><strong>Create a Social Media Video</strong></a>
@@ -45,14 +45,14 @@ Premiere Rush is the first all-in-one, cross-device video editing app that makes
 
 ![Video Hero Placeholder Image](../assets/table_placeholder.png)
 
-### Description
+**Description**
 
 Tell your story using video and audio from Adobe Stock. Adobe Rush lets you work on any device and makes professional output easy enough for beginners. 
 
 In this tutorial, you will learn how to:
 * Take advantage of Auto Reframe uses AI technology to automatically reframe your videos and make them look polished without having to do any manual, tedious work
 
-### Presented by:
+Presented by:
 
 A.J. Wood, Solution Consultant (Digital Media)
 
@@ -60,8 +60,8 @@ A.J. Wood, Solution Consultant (Digital Media)
 
 ![Video Hero Placeholder Image](../assets/table_placeholder.png)
 
-### Description
+**Description**
 
 Insert description
 
-### Presented by:
+Presented by:

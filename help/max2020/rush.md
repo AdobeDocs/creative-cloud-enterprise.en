@@ -52,7 +52,7 @@ Tell your story using video and audio from Adobe Stock. Adobe Rush lets you work
 In this tutorial, you will learn how to:
 * Take advantage of Auto Reframe uses AI technology to automatically reframe your videos and make them look polished without having to do any manual, tedious work
 
-Presented by:
+**Presented by:**
 
 A.J. Wood, Solution Consultant (Digital Media)
 
@@ -64,4 +64,4 @@ A.J. Wood, Solution Consultant (Digital Media)
 
 Insert description
 
-Presented by:
+**Presented by:**

@@ -60,7 +60,7 @@ In this tutorial, you will learn how to:
 * Feature 3
 * Feature 4
 
-Presented by:
+**Presented by:**
 
 Emilie Enke, Associate Solution Consultant (Digital Media)
 
@@ -78,7 +78,7 @@ In this tutorial, you will learn how to:
 * Feature 3
 * Feature 4
 
-Presented by:
+**Presented by:**
 
 Emilie Enke, Associate Solution Consultant (Digital Media)
 
@@ -95,6 +95,6 @@ In this tutorial, you will learn how to:
 * Save time and effort in the creative process by visualizing your design on the finished product
 * Make better designs, which means more money!
 
-Presented by:
+**Presented by:**
 
 Patti Sokol, Principal Solution Consultant (Digital Media)

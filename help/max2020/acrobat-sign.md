@@ -57,7 +57,7 @@ In this tutorial, you will learn how to:
 * Feature 3
 * Feature 4
 
-Presented by: SC Name
+**Presented by:** SC Name
 
 ## Tutorial 2 {#tutorial2}
 
@@ -73,7 +73,7 @@ In this tutorial, you will learn how to:
 * Feature 3
 * Feature 4
 
-Presented by: SC Name
+**Presented by:** SC Name
 
 ## Tutorial 3 {#tutorial3}
 
@@ -89,4 +89,4 @@ In this tutorial, you will learn how to:
 * Feature 3
 * Feature 4
 
-Presented by: SC Name
+**Presented by:** SC Name

@@ -106,7 +106,7 @@ Services</strong></a>
 
 ![Video Hero Placeholder Image](../assets/table_placeholder.png)
 
-### Description
+**Description**
 
 Insert tutorial description here
 
@@ -116,7 +116,7 @@ In this tutorial, you will learn how to:
 * Feature 3
 * Feature 4
 
-### Presented by:
+Presented by:
 
 Insert presenter name
 
@@ -124,14 +124,14 @@ Insert presenter name
 
 ![Video Hero Placeholder Image](../assets/table_placeholder.png)
 
-### Description
+**Description**
 
 Generate QR code that links to a web site
 
 In this tutorial, you will learn how:
 * QR Codes help you quickly direct people to additional digital content from your print material
 
-### Presented by:
+Presented by:
 
 Patti Sokol, Principal Solution Consultant (Digital Media)
 
@@ -139,7 +139,7 @@ Patti Sokol, Principal Solution Consultant (Digital Media)
 
 ![Video Hero Placeholder Image](../assets/table_placeholder.png)
 
-### Description
+**Description**
 
 Insert tutorial description here
 
@@ -149,7 +149,7 @@ In this tutorial, you will learn how to:
 * Feature 3
 * Feature 4
 
-### Presented by:
+Presented by:
 
 Insert presenter name
 
@@ -157,7 +157,7 @@ Insert presenter name
 
 ![Video Hero Placeholder Image](../assets/table_placeholder.png)
 
-### Description
+**Description**
 
 InDesign Share for Review provides an even more seamless creative review experience for designers and their team members
 
@@ -167,7 +167,7 @@ In this tutorial, you will learn how to:
 * Feature 3
 * Feature 4
 
-### Presented by:
+Presented by:
 
 Emily Palmer, Solutions Consultant (Digital Media)
 
@@ -175,7 +175,7 @@ Emily Palmer, Solutions Consultant (Digital Media)
 
 ![Video Hero Placeholder Image](../assets/table_placeholder.png)
 
-### Description
+**Description**
 
 Import comments from a PDF directly into InDesign and quickly apply requested changes
 
@@ -183,7 +183,7 @@ In this tutorial, you will learn how to:
 * Supports existing PDF commenting workflows,
 * Works for PDFs combined from multiple sources
 
-### Presented by:
+Presented by:
 
 Michael Murphy, Senior Solution Consultant (Digital Media)
 
@@ -191,7 +191,7 @@ Michael Murphy, Senior Solution Consultant (Digital Media)
 
 ![Video Hero Placeholder Image](../assets/table_placeholder.png)
 
-### Description
+**Description**
 
 Compare InDesign and PDF Shared Reviews and when to use each. 
 
@@ -200,7 +200,7 @@ In this tutorial, you will learn how InDesign Review:
 * Works for PDFs combined from multiple sources
 * Compare InDesign and PDF Shared Reviews and when to use each
 
-### Presented by:
+Presented by:
 
 Patti Sokol, Principal Solution Consultant (Digital Media)
 Michael Murphy, Senior Solution Consultant (Digital Media)
@@ -209,7 +209,7 @@ Michael Murphy, Senior Solution Consultant (Digital Media)
 
 ![Video Hero Placeholder Image](../assets/table_placeholder.png)
 
-### Description
+**Description**
 
 Add video to InDesign. Output to PDF and publish online. 
 
@@ -217,6 +217,6 @@ In this tutorial, you will learn how to:
 * Add video to InDesign 
 * Output to PDF and publish online
 
-### Presented by:
+Presented by:
 
 Patti Sokol, Principal Solution Consultant (Digital Media)

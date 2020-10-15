@@ -50,7 +50,7 @@ Photoshop is the world’s best imaging and graphic design software, allowing un
 
 ![Video Hero Placeholder Image](../assets/table_placeholder.png)
 
-### Description
+**Description**
 
 Use the powerful selection and color editing tools in Adobe Photoshop to dramatically change an image to match your corporate branding needs
 
@@ -60,7 +60,7 @@ In this tutorial, you will learn how to:
 * Feature 3
 * Feature 4
 
-### Presented by:
+Presented by:
 
 Emilie Enke, Associate Solution Consultant (Digital Media)
 
@@ -68,7 +68,7 @@ Emilie Enke, Associate Solution Consultant (Digital Media)
 
 ![Video Hero Placeholder Image](../assets/table_placeholder.png)
 
-### Description
+**Description**
 
 Automatically select the sky in an image and replace with a sky of your choice, auto-adjusting the colors of the image to match your selection
 
@@ -78,7 +78,7 @@ In this tutorial, you will learn how to:
 * Feature 3
 * Feature 4
 
-### Presented by:
+Presented by:
 
 Emilie Enke, Associate Solution Consultant (Digital Media)
 
@@ -86,7 +86,7 @@ Emilie Enke, Associate Solution Consultant (Digital Media)
 
 ![Video Hero Placeholder Image](../assets/table_placeholder.png)
 
-### Description
+**Description**
 
 Create and publish your designs directly from Photoshop to Zazzle
 
@@ -95,6 +95,6 @@ In this tutorial, you will learn how to:
 * Save time and effort in the creative process by visualizing your design on the finished product
 * Make better designs, which means more money!
 
-### Presented by:
+Presented by:
 
 Patti Sokol, Principal Solution Consultant (Digital Media)

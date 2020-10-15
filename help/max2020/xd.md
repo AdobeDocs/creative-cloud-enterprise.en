@@ -113,7 +113,7 @@ States and Overlays</strong></a>
 
 ![Video Hero Placeholder Image](../assets/table_placeholder.png)
 
-### Description
+**Description**
 
 Create reusable, dynamically resizable, buttons for your interactive designs
 
@@ -121,7 +121,7 @@ In this tutorial, you will learn how to:
 * Make changes to a source main component and those changes are pushed automatically to all instances of that component, 
 * Use components for consistency, time saving, fewer clicks
 
-### Presented by:
+Presented by:
 
 Michael Murphy, Senior Solution Consultant (Digital Media)
 
@@ -129,7 +129,7 @@ Michael Murphy, Senior Solution Consultant (Digital Media)
 
 ![Video Hero Placeholder Image](../assets/table_placeholder.png)
 
-### Description
+**Description**
 
 Turn a single element into repeating grids with a simple click-and-drag
 
@@ -138,7 +138,7 @@ In this tutorial, you will learn how to:
 * Bring in real content and data and XD will magically place all images and text to your grid
 * Make changes once and apply it where you like, in any direction
 
-### Presented by:
+Presented by:
 
 Ashley Dvorin, Senior Solution Consultant (Digital Media)
 
@@ -146,7 +146,7 @@ Ashley Dvorin, Senior Solution Consultant (Digital Media)
 
 ![Video Hero Placeholder Image](../assets/table_placeholder.png)
 
-### Description
+**Description**
 
 Use the stack property to easily rearrange elements
 
@@ -154,7 +154,7 @@ In this tutorial, you will learn how to:
 * Maintain alignment and spacing between objects on your canvas even as your design changes
 * Insert new objects or reorder objects in a stack and everything adjusts automatically
 
-### Presented by:
+Presented by:
 
 Michael Murphy, Senior Solution Consultant (Digital Media)
 
@@ -162,11 +162,11 @@ Michael Murphy, Senior Solution Consultant (Digital Media)
 
 ![Video Hero Placeholder Image](../assets/table_placeholder.png)
 
-### Description
+**Description**
 
 Insert description
 
-### Presented by: 
+Presented by: 
 
 Insert presenter
 
@@ -174,7 +174,7 @@ Insert presenter
 
 ![Video Hero Placeholder Image](../assets/table_placeholder.png)
 
-### Description
+**Description**
 
 Add navigation and scrolling to a prototype
 
@@ -183,7 +183,7 @@ In this tutorial, you will learn how to:
 * Create activity feeds, image carousels, product listings, and more by defining areas that scroll independently from the rest of your designs.
 * Create groups that scroll vertically, horizontally, or both.
 
-### Presented by:
+Presented by:
 
 Michael Murphy, Senior Solution Consultant (Digital Media)
 
@@ -191,7 +191,7 @@ Michael Murphy, Senior Solution Consultant (Digital Media)
 
 ![Video Hero Placeholder Image](../assets/table_placeholder.png)
 
-### Description
+**Description**
 
 Add interactivity and an overlay menu to a prototype
 
@@ -199,7 +199,7 @@ In this tutorial, you will learn how to:
 * Create a non-linear interactive and animated user experience without the need for additional artboards
 * Author multiple prototype or interaction flows in a single XD document and publish unique shareable links for each flow
 
-### Presented by: 
+Presented by: 
 
 Emilie Enke, Associate Solution Consultant (Digital Media)
 
@@ -207,7 +207,7 @@ Emilie Enke, Associate Solution Consultant (Digital Media)
 
 ![Video Hero Placeholder Image](../assets/table_placeholder.png)
 
-### Description
+**Description**
 
 Turn a single element into repeating grids with a simple click-and-drag
 
@@ -216,7 +216,7 @@ In this tutorial, you will learn how to:
 * Bring in real content and data and XD will magically place all images and text to your grid
 * Make changes once and apply it where you like, in any direction
 
-### Presented by:
+Presented by:
 
 Victoria Torres, Solution Consultant (Digital Media)
 
@@ -224,7 +224,7 @@ Victoria Torres, Solution Consultant (Digital Media)
 
 ![Video Hero Placeholder Image](../assets/table_placeholder.png)
 
-### Description
+**Description**
 
 Use the stack property to easily rearrange elements
 
@@ -232,6 +232,6 @@ In this tutorial, you will learn how to:
 * Maintain alignment and spacing between objects on your canvas even as your design changes. 
 * Insert new objects or reorder objects in a stack and everything adjusts automatically.
 
-### Presented by:
+Presented by:
  
 Victoria Torres, Solution Consultant (Digital Media)

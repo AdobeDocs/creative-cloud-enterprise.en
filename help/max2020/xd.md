@@ -118,8 +118,8 @@ States and Overlays</strong></a>
 Create reusable, dynamically resizable, buttons for your interactive designs
 
 In this tutorial, you will learn how to:
-       * Make changes to a source main component and those changes are pushed automatically to all instances of that component, 
-       * Use components for consistency, time saving, fewer clicks
+* Make changes to a source main component and those changes are pushed automatically to all instances of that component, 
+* Use components for consistency, time saving, fewer clicks
 
 ### Presented by:
 
@@ -134,9 +134,9 @@ Michael Murphy, Senior Solution Consultant (Digital Media)
 Turn a single element into repeating grids with a simple click-and-drag
 
 In this tutorial, you will learn how to:
-       * Boost your workflow and drag out any sized grid you need, instantly
-       * Bring in real content and data and XD will magically place all images and text to your grid
-       * Make changes once and apply it where you like, in any direction
+* Boost your workflow and drag out any sized grid you need, instantly
+* Bring in real content and data and XD will magically place all images and text to your grid
+* Make changes once and apply it where you like, in any direction
 
 ### Presented by:
 
@@ -151,8 +151,8 @@ Ashley Dvorin, Senior Solution Consultant (Digital Media)
 Use the stack property to easily rearrange elements
 
 In this tutorial, you will learn how to:
-       * Maintain alignment and spacing between objects on your canvas even as your design changes
-       * Insert new objects or reorder objects in a stack and everything adjusts automatically
+* Maintain alignment and spacing between objects on your canvas even as your design changes
+* Insert new objects or reorder objects in a stack and everything adjusts automatically
 
 ### Presented by:
 
@@ -179,10 +179,9 @@ Insert presenter
 Add navigation and scrolling to a prototype
 
 In this tutorial, you will learn how to:
-       * Add links to your prototypes with an action that lets users jump to different points on the same artboard.  
-       * Create activity feeds, image carousels, product listings, and more by defining areas that scroll independently from the rest of your designs.
-       * Create groups that scroll vertically, horizontally, or both.
-
+* Add links to your prototypes with an action that lets users jump to different points on the same artboard.  
+* Create activity feeds, image carousels, product listings, and more by defining areas that scroll independently from the rest of your designs.
+* Create groups that scroll vertically, horizontally, or both.
 
 ### Presented by:
 
@@ -197,8 +196,8 @@ Michael Murphy, Senior Solution Consultant (Digital Media)
 Add interactivity and an overlay menu to a prototype
 
 In this tutorial, you will learn how to:
-       * Create a non-linear interactive and animated user experience without the need for additional artboards
-       * Author multiple prototype or interaction flows in a single XD document and publish unique shareable links for each flow
+* Create a non-linear interactive and animated user experience without the need for additional artboards
+* Author multiple prototype or interaction flows in a single XD document and publish unique shareable links for each flow
 
 ### Presented by: 
 
@@ -213,9 +212,9 @@ Emilie Enke, Associate Solution Consultant (Digital Media)
 Turn a single element into repeating grids with a simple click-and-drag
 
 In this tutorial, you will learn how to:
-       * Boost your workflow and drag out any sized grid you need, instantly
-       * Bring in real content and data and XD will magically place all images and text to your grid
-       * Make changes once and apply it where you like, in any direction
+* Boost your workflow and drag out any sized grid you need, instantly
+* Bring in real content and data and XD will magically place all images and text to your grid
+* Make changes once and apply it where you like, in any direction
 
 ### Presented by:
 
@@ -230,8 +229,8 @@ Victoria Torres, Solution Consultant (Digital Media)
 Use the stack property to easily rearrange elements
 
 In this tutorial, you will learn how to:
-       * Maintain alignment and spacing between objects on your canvas even as your design changes. 
-       * Insert new objects or reorder objects in a stack and everything adjusts automatically.
+* Maintain alignment and spacing between objects on your canvas even as your design changes. 
+* Insert new objects or reorder objects in a stack and everything adjusts automatically.
 
 ### Presented by:
  

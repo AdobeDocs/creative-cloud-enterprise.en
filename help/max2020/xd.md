@@ -121,7 +121,8 @@ In this tutorial, you will learn how to:
        * Make changes to a source main component and those changes are pushed automatically to all instances of that component, 
        * Use components for consistency, time saving, fewer clicks
 
-### Presented by: 
+### Presented by:
+
 Michael Murphy, Senior Solution Consultant (Digital Media)
 
 ## Create and Populate a Repeat Grid {#tutorial2}
@@ -137,7 +138,8 @@ In this tutorial, you will learn how to:
        * Bring in real content and data and XD will magically place all images and text to your grid
        * Make changes once and apply it where you like, in any direction
 
-### Presented by: 
+### Presented by:
+
 Ashley Dvorin, Senior Solution Consultant (Digital Media)
 
 ## Work with Stacks {#tutorial3}
@@ -152,7 +154,8 @@ In this tutorial, you will learn how to:
        * Maintain alignment and spacing between objects on your canvas even as your design changes
        * Insert new objects or reorder objects in a stack and everything adjusts automatically
 
-### Presented by: 
+### Presented by:
+
 Michael Murphy, Senior Solution Consultant (Digital Media)
 
 ## Tutorial 4 {#tutorial4}
@@ -181,7 +184,8 @@ In this tutorial, you will learn how to:
        * Create groups that scroll vertically, horizontally, or both.
 
 
-### Presented by: 
+### Presented by:
+
 Michael Murphy, Senior Solution Consultant (Digital Media)
 
 ## Create a Prototype—Interactive Component States and Overlays {#tutorial6}
@@ -213,7 +217,8 @@ In this tutorial, you will learn how to:
        * Bring in real content and data and XD will magically place all images and text to your grid
        * Make changes once and apply it where you like, in any direction
 
-### Presented by: 
+### Presented by:
+
 Victoria Torres, Solution Consultant (Digital Media)
 
 ## Email - Work with Stacks {#tutorial8}
@@ -228,5 +233,6 @@ In this tutorial, you will learn how to:
        * Maintain alignment and spacing between objects on your canvas even as your design changes. 
        * Insert new objects or reorder objects in a stack and everything adjusts automatically.
 
-### Presented by: 
+### Presented by:
+ 
 Victoria Torres, Solution Consultant (Digital Media)

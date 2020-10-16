@@ -5,7 +5,7 @@ description: A listing of Rush tutorals.
 
 # Rush
 
-![Tutorial Hero Image](../assets/hero_placeholder.png)
+![Tutorial Hero Image](../assets/Rush.jpg)
 
 Premiere Rush is the first all-in-one, cross-device video editing app that makes creating and sharing online content easier than ever. This integrated desktop and mobile solution automatically syncs your projects and edits to the cloud — allowing you to work anywhere, on any device.
 

@@ -5,7 +5,7 @@ description: A listiing of XD tutorials.
 
 # XD
 
-![Tutorial Hero Image](../assets/hero_placeholder.png)
+![Tutorial Hero Image](../assets/XD.jpg)
 
 Adobe XD is a user experience design and prototyping tool for designing websites, apps, voice interfaces, games, and other types of digital experiences.
 

@@ -48,7 +48,7 @@ Photoshop is the world’s best imaging and graphic design software, allowing un
 
 ## Edit Images to Match your Campaign {#tutorial1}
 
-![Video Hero Placeholder Image](../assets/table_placeholder.png)
+![Video Hero Placeholder Image](../assets/Photoshop.jpg)
 
 **Description**
 

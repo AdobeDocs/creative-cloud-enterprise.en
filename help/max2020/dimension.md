@@ -5,7 +5,7 @@ description: A listing of Adobe Dimension tutorials.
 
 # Dimension
 
-![Tutorial Hero Image](../assets/hero_placeholder.png)
+![Tutorial Hero Image](../assets/Dimenio.jpg)
 
 Insert product description
 

@@ -5,7 +5,7 @@ description: A listing of Photoshop tutorials.
 
 # Photoshop
 
-![Tutorial Hero Image](../assets/hero_placeholder.png)
+![Tutorial Hero Image](../assets/Photoshop.jpg)
 
 Photoshop is the world’s best imaging and graphic design software, allowing unlimited creativity for professionals across devices. Now anyone can create anything they imagine, anywhere inspiration strikes. If you can think it, you can make it with Photoshop.
 
@@ -48,7 +48,7 @@ Photoshop is the world’s best imaging and graphic design software, allowing un
 
 ## Edit Images to Match your Campaign {#tutorial1}
 
-![Video Hero Placeholder Image](../assets/Photoshop.jpg)
+![Video Hero Placeholder Image](../assets/table_placeholder.png))
 
 **Description**
 

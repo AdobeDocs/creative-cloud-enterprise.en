@@ -5,7 +5,7 @@ description: A listing of Acrobat and Adobe Sign tutorials.
 
 # Acrobat & Sign
 
-![Tutorial Hero Image](../assets/DC-jpg)
+![Tutorial Hero Image](../assets/DC.jpg)
 
 Insert product messaging copy here
 

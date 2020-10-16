@@ -5,7 +5,7 @@ description: CC Library Tutorials
 
 # CC Libraries
 
-![Tutorial Hero Image](../assets/CCLibs.jpg)
+![Tutorial Hero Image](../assets/hero_placeholder.png)
 
 Keep your assets on hand and your projects on brand.
 

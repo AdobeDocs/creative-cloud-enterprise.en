@@ -5,7 +5,7 @@ description: A listing of Capture tutorials.
 
 # Capture
 
-![Tutorial Hero Image](../assets/hero_placeholder.png)
+![Tutorial Hero Image](../assets/Capture.jpg)
 
 Adobe Capture turns mobile phones and tablets into a design collection tool. Users can create many different types of assets (individual digital elements for artwork).   These assets automatically sync with other desktop and mobile Adobe applications. Users can bring them into their creative projects or easily share them with collaborators.
 

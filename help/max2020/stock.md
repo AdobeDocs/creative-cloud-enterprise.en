@@ -15,12 +15,12 @@ Creatives  are  under  pressure  to  quickly  deliver  new, visually compelling 
 <tr>
  <td>
    <a href="stock.md#tutorial1">
-      <img alt="Intro to Illustrator on the iPad" src="../assets//table_placeholder.png" />
+      <img alt="Add title" src="../assets//table_placeholder.png" />
    </a>
     <div>
-   <a href="stock.md#tutorial1"><strong>Intro to Illustrator on the iPad</strong></a>
+   <a href="stock.md#tutorial1"><strong>Add description</strong></a>
     </div>
-    <em>Create a distressed location icon and turn it into a pattern that you can apply to your Dimension and Zazzle project!</em>
+    <em>Add description</em>
     <br>
   </td>
   <td>
@@ -36,13 +36,13 @@ Creatives  are  under  pressure  to  quickly  deliver  new, visually compelling 
 </tr>
 </table>
 
-## Intro to Illustrator on the iPad {#tutorial1}
+## Add description {#tutorial1}
 
 ![Video Hero Placeholder Image](../assets/table_placeholder.png))
 
 **Description**
 
-This quick Illustrator for iPad overview will get you up-and-running quickly to create a distressed location icon and turn it into a pattern that you can apply to your Dimension and Zazzle project!
+Add description
 
 In this tutorial, you will learn how to:
 *
@@ -50,5 +50,3 @@ In this tutorial, you will learn how to:
 *
 
 **Presented by:**
-
-Dave Weinberg, Senior Solution Consultant (Digital Media)

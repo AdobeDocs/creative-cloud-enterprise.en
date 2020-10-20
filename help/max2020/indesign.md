@@ -81,7 +81,7 @@ Services</strong></a>
 <tr>
  <td>
    <a href="indesign.md#tutorial7">
-      <img alt="Add Video File to InDesign Document" src="../assets//table_placeholder.png" />
+      <img alt="Add Video File to InDesign Document" src="../assets/indesign_video_sokol_thumbnail.jpg" />
    </a>
     <div>
    <a href="indesign.md#tutorial7"><strong>Add Video File to InDesign Document</strong></a>
@@ -207,7 +207,7 @@ Michael Murphy, Senior Solution Consultant (Digital Media)
 
 ## Add Video File to InDesign Document {#tutorial7}
 
-![Video Hero Placeholder Image](../assets/table_placeholder.png)
+>[!VIDEO](https://video.tv.adobe.com/v/326757?hidetitle=true)
 
 **Description**
 

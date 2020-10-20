@@ -25,7 +25,7 @@ Adobe XD is a user experience design and prototyping tool for designing websit
   </td>
   <td>
     <a href="xd.md#tutorial2">
-        <img alt="Create and Populate a Repeat Grid" src="../assets/table_placeholder.png" />
+        <img alt="Create and Populate a Repeat Grid" src="../assets/xd_repeat_torres.jpg" />
     </a>
     <div>
     <a href="xd.md#tutorial2"><strong>Create and Populate a Repeat Grid</strong></a>
@@ -35,7 +35,7 @@ Adobe XD is a user experience design and prototyping tool for designing websit
   </td>
   <td>
    <a href="xd.md#tutorial3">
-      <img alt="Work with Stacks" src="../assets/table_placeholder.png" />
+      <img alt="Work with Stacks" src="../assets/xd_stacks_torres.jpg" />
    </a>
     <div>
     <a href="xd.md#tutorial3"><strong>Work with Stacks</strong></a>
@@ -205,7 +205,7 @@ Emilie Enke, Associate Solution Consultant (Digital Media)
 
 ## Email - Create and Populate a Repeat Grid {#tutorial7}
 
-![Video Hero Placeholder Image](../assets/table_placeholder.png)
+>[!VIDEO](https://video.tv.adobe.com/v/326775?hidetitle=true)
 
 **Description**
 
@@ -222,7 +222,7 @@ Victoria Torres, Solution Consultant (Digital Media)
 
 ## Email - Work with Stacks {#tutorial8}
 
-![Video Hero Placeholder Image](../assets/table_placeholder.png)
+>[!VIDEO](https://video.tv.adobe.com/v/326759?hidetitle=true)
 
 **Description**
 

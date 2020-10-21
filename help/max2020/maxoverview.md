@@ -11,8 +11,6 @@ description: These tutorials will help you learn new features in the 2021 releas
 
 As an enterprise creative, you need to collaborate with distributed teams, establish scalable processes, and comply with corporate systems and guidelines. These tutorials will help you learn new features in the 2021 release of Creative Cloud—-from an enterprise perspective. 
 
-## Tutorials
-
 ### Tutorials by Desktop Products
 
 <table>
@@ -92,12 +90,12 @@ As an enterprise creative, you need to collaborate with distributed teams, estab
     <br>
   </td>
   <td>
-    <img alt="Spacer" src="../assets/table_placeholder.png" />
+    <img alt="Spacer" src="../assets/Whitespacer.png" />
     <div>
     <br>
   </td>
   <td>
-    <img alt="Spacer" src="../assets/table_placeholder.png" />
+    <img alt="Spacer" src="../assets/Whitespacer.png" />
     <div>
     <br>
   </td>
@@ -151,12 +149,12 @@ As an enterprise creative, you need to collaborate with distributed teams, estab
     <br>
   </td>
   <td>
-    <img alt="Spacer" src="../assets/table_placeholder.png" />
+    <img alt="Spacer" src="../assets/Whitespacer.png" />
     <div>
     <br>
   </td>
   <td>
-    <img alt="Spacer" src="../assets/table_placeholder.png" />
+    <img alt="Spacer" src="../assets/Whitespacer.png" />
     <div>
     <br>
   </td>
@@ -210,12 +208,12 @@ As an enterprise creative, you need to collaborate with distributed teams, estab
     <br>
   </td>
   <td>
-    <img alt="Spacer" src="../assets/table_placeholder.png" />
+    <img alt="Spacer" src="../assets/Whitespacer.png" />
     <div>
     <br>
   </td>
   <td>
-    <img alt="Spacer" src="../assets/table_placeholder.png" />
+    <img alt="Spacer" src="../assets/Whitespacer.png" />
     <div>
     <br>
   </td>

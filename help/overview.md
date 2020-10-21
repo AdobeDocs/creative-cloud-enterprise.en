@@ -14,7 +14,7 @@ Welcome to the Creative Cloud for enterprise Learning Hub. You'll find a wide ra
 <table>
 <tr>
  <td>
-   <a href="maxoverview.md">
+   <a href="max2020/maxoverview.md">
       <img alt="MAX 2020 — the Enterprise Sessions" src="../assets/MAX.jpg" />
    </a>
     <div>

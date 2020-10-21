@@ -46,7 +46,7 @@ Insert product messaging copy here
 </tr>
 </table>
 
-## Initiating an Acrobat Shared Review {#tutorial1}
+## Initiating an Acrobat Shared Review (3:48) {#tutorial1}
 
 >[!VIDEO](https://video.tv.adobe.com/v/326777?hidetitle=true)
 
@@ -64,7 +64,7 @@ In this tutorial, you will learn how to:
 Dan Armstrong, Solution Consultant (Digital Media)
 Rick Borstein, Senior Manager Solution Consulting (Digital Media)
 
-## Create Online Waiver Forms with Adobe Sign {#tutorial2}
+## Create Online Waiver Forms with Adobe Sign (5:19) {#tutorial2}
 
 >[!VIDEO](https://video.tv.adobe.com/v/326776?hidetitle=true)
 
@@ -82,7 +82,7 @@ In this tutorial, you will learn how to:
 Taylor Kobey, Solution Consultant (Digital Media)
 Emily Palmer, Solution Consultant (Digital Media)
 
-## Request a Signature with Adobe Sign {#tutorial3}
+## Request a Signature with Adobe Sign (3:21) {#tutorial3}
 
 >[!VIDEO](https://video.tv.adobe.com/v/326801?hidetitle=true)
 

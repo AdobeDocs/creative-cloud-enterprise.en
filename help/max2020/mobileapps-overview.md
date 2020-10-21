@@ -5,7 +5,7 @@ description: A listing of CCE Mobile App tutorials.
 
 # Tutorials by Mobile App
 
-![Tutorial Hero Image](../assets/Products.jpg)
+![Tutorial Hero Image](../assets/MAX.jpg)
 
 <table>
 <tr>

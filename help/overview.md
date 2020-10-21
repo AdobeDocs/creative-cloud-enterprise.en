@@ -18,7 +18,7 @@ Welcome to the Creative Cloud for enterprise Learning Hub. You'll find a wide ra
       <img alt="MAX 2020 — the Enterprise Sessions" src="../assets/MAX.jpg" />
    </a>
     <div>
-   <a href="maxoverview.md"><strong>MAX 2020 — the Enterprise Sessions</strong></a>
+   <a href="../maxoverview.md"><strong>MAX 2020 — the Enterprise Sessions</strong></a>
     </div>
     <em>These tutorials will help you learn new features in the 2021 release of Creative Cloud—from an enterprise perspective</em>
     <br>

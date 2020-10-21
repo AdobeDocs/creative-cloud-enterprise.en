@@ -47,7 +47,7 @@ The modern app for illustrations and graphics. Create logos, icons, illustration
 
 ## Use Symbols to Update Multiple Icon Instances (5:08) {#tutorial1}
 
->[!VIDEO](hhttps://video.tv.adobe.com/v/326816?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/326816?hidetitle=true)
 
 **Description**
 Reduce manual work and maintain consistency with symbols 

@@ -15,7 +15,7 @@ Keep your assets on hand and your projects on brand.
 <tr>
  <td>
    <a href="cclibraries.md#tutorial1">
-      <img alt="Create CC Libraries" src="../assets//table_placeholder.png" />
+      <img alt="Create CC Libraries" src="../assets//libraries_create_dvorin_thumbnail.jpg" />
    </a>
     <div>
    <a href="cclibraries.md#tutorial1"><strong>Create CC Libraries</strong></a>
@@ -25,7 +25,7 @@ Keep your assets on hand and your projects on brand.
   </td>
    <td>
    <a href="cclibraries.md#tutorial2">
-      <img alt="Share CC Libraries" src="../assets//table_placeholder.png" />
+      <img alt="Share CC Libraries" src="../assets/libraries_share_dvorin_thumbnail.jpg" />
    </a>
     <div>
    <a href="cclibraries.md#tutorial2"><strong>Share CC Libraries</strong></a>
@@ -41,9 +41,9 @@ Keep your assets on hand and your projects on brand.
 </tr>
 </table>
 
-## Create CC Libraries {#tutorial1}
+## Create CC Libraries (4:38) {#tutorial1}
 
-![Video Hero Placeholder Image](../assets/table_placeholder.png)
+>[!VIDEO](https://video.tv.adobe.com/v/326802?hidetitle=true)
 
 **Description**
 
@@ -57,9 +57,9 @@ In this tutorial, you will learn how to:
 
 Ashley Dvorin, Senior Solution Consultant (Digital Media)
 
-## Share CC Libraries {#tutorial2}
+## Share CC Libraries (4:14) {#tutorial2}
 
-![Video Hero Placeholder Image](../assets/table_placeholder.png)
+>[!VIDEO](https://video.tv.adobe.com/v/326803?hidetitle=true)
 
 **Description**
 

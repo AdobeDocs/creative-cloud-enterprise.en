@@ -5,7 +5,7 @@ description: A listing of Integration tutorials.
 
 # Tutorials by Integration
 
-![Tutorial Hero Image](../assets/Products.jpg)
+![Tutorial Hero Image](../assets/MAX.jpg)
 
 <table>
 <tr>

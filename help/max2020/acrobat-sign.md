@@ -46,14 +46,11 @@ Insert product messaging copy here
 </tr>
 </table>
 
-## Initiating an Acrobat Shared Review {#tutorial1}
-
-**Duration: 3:48**
+## Initiating an Acrobat Shared Review (3:49) {#tutorial1}
 
 >[!VIDEO](https://video.tv.adobe.com/v/326777?hidetitle=true)
 
 **Description**
-
 Invite reviewers to add their comments to a PDF document. 
 
 In this tutorial, you will learn how to:
@@ -62,18 +59,14 @@ In this tutorial, you will learn how to:
 * Simultaneous commenting encourages collaboration
 
 **Presented by:** 
-
 Dan Armstrong, Solution Consultant (Digital Media)
 Rick Borstein, Senior Manager Solution Consulting (Digital Media)
 
-## Create Online Waiver Forms with Adobe Sign {#tutorial2}
-
-**Duration: 5:19**
+## Create Online Waiver Forms with Adobe Sign (5:19) {#tutorial2}
 
 >[!VIDEO](https://video.tv.adobe.com/v/326776?hidetitle=true)
 
 **Description**
-
 Quickly turn documents into online forms and post them online where anyone who needs them can fill and sign them. 
 
 In this tutorial, you will learn how to:
@@ -82,23 +75,18 @@ In this tutorial, you will learn how to:
 * Completed forms are automatically archived for your records.
 
 **Presented by:**
-
 Taylor Kobey, Solution Consultant (Digital Media)
 Emily Palmer, Solution Consultant (Digital Media)
 
-## Request a Signature with Adobe Sign {#tutorial3}
-
-**Duration: 3:21**
+## Request a Signature with Adobe Sign (3:21) {#tutorial3}
 
 >[!VIDEO](https://video.tv.adobe.com/v/326801?hidetitle=true)
 
 **Description**
-
 Go from Word to PDF and send for signature with Adobe Sign
 
 In this tutorial, you will learn how to:
 * Leverage the tools you use every day to send digital documents for signature
 
 **Presented by:**
-
 Rick Borstein, Senior Manager Solution Consulting (Digital Media)

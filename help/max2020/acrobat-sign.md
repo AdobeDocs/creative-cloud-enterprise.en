@@ -40,13 +40,13 @@ Insert product messaging copy here
     <div>
     <a href="acrobat-sign.md#tutorial3"><strong>Request a Signature with Adobe Sign</strong></a>
     </div>
-    <em>Insert tutorial description here</em>
+    <em>Go from Word to PDF and send for signature with Adobe Sign</em>
     <br>
   </td>
 </tr>
 </table>
 
-## Initiating an Acrobat Shared Review (3:48) {#tutorial1}
+## Initiating an Acrobat Shared Review \(3:48) {#tutorial1}
 
 >[!VIDEO](https://video.tv.adobe.com/v/326777?hidetitle=true)
 

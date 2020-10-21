@@ -15,7 +15,7 @@ Insert product messaging copy here
 <tr>
  <td>
    <a href="acrobat-sign.md#tutorial1">
-      <img alt="Initiating an Acrobat Shared Review" src="../assets//table_placeholder.png" />
+      <img alt="Initiating an Acrobat Shared Review" src="../assets/acrobat_sharedreview_armstrong.jpg" />
    </a>
     <div>
    <a href="acrobat-sign.md#tutorial1"><strong>Initiating an Acrobat Shared Review</strong></a>
@@ -25,7 +25,7 @@ Insert product messaging copy here
   </td>
   <td>
     <a href="acrobat-sign.md#tutorial2">
-        <img alt="Create Online Waiver Forms with Adobe Sign" src="../assets/table_placeholder.png" />
+        <img alt="Create Online Waiver Forms with Adobe Sign" src="../assets/sign_webforms_palmer-kobey_thumbnail.jpg" />
     </a>
     <div>
     <a href="acrobat-sign.md#tutorial2"><strong>Create Online Waiver Forms with Adobe Sign</strong></a>
@@ -35,7 +35,7 @@ Insert product messaging copy here
   </td>
   <td>
    <a href="acrobat-sign.md#tutorial3">
-      <img alt="Request a Signature with Adobe Sign" src="../assets/table_placeholder.png" />
+      <img alt="Request a Signature with Adobe Sign" src="../assets/sign_request-signature_borstein_thumbnail.jpg" />
    </a>
     <div>
     <a href="acrobat-sign.md#tutorial3"><strong>Request a Signature with Adobe Sign</strong></a>
@@ -48,7 +48,7 @@ Insert product messaging copy here
 
 ## Initiating an Acrobat Shared Review {#tutorial1}
 
-![Video Hero Placeholder Image](../assets/table_placeholder.png)
+>[!VIDEO](https://video.tv.adobe.com/v/326777?hidetitle=true)
 
 **Description**
 
@@ -59,7 +59,6 @@ In this tutorial, you will learn how to:
 * Gather comments in one place
 * Simultaneous commenting encourages collaboration
 
-
 **Presented by:** 
 
 Dan Armstrong, Solution Consultant (Digital Media)
@@ -67,7 +66,7 @@ Rick Borstein, Senior Manager Solution Consulting (Digital Media)
 
 ## Create Online Waiver Forms with Adobe Sign {#tutorial2}
 
-![Video Hero Placeholder Image](../assets/table_placeholder.png)
+>[!VIDEO](https://video.tv.adobe.com/v/326776?hidetitle=true)
 
 **Description**
 
@@ -78,7 +77,6 @@ In this tutorial, you will learn how to:
 * Post digital forms to your website where customers can access them from their own device
 * Completed forms are automatically archived for your records.
 
-
 **Presented by:**
 
 Taylor Kobey, Solution Consultant (Digital Media)
@@ -86,7 +84,7 @@ Emily Palmer, Solution Consultant (Digital Media)
 
 ## Request a Signature with Adobe Sign {#tutorial3}
 
-![Video Hero Placeholder Image](../assets/table_placeholder.png)
+>[!VIDEO](https://video.tv.adobe.com/v/326801?hidetitle=true)
 
 **Description**
 

@@ -15,7 +15,7 @@ Keep your assets on hand and your projects on brand.
 <tr>
  <td>
    <a href="cclibraries.md#tutorial1">
-      <img alt="Create CC Libraries" src="../assets//libraries_create_dvorin_thumbnail.jpg" />
+      <img alt="Create CC Libraries" src="../assets/libraries_create_dvorin_thumbnail.jpg" />
    </a>
     <div>
    <a href="cclibraries.md#tutorial1"><strong>Create CC Libraries</strong></a>

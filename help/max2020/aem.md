@@ -46,7 +46,6 @@ Adobe Experience Manager is the industry-leading digital experience management s
 ![Video Hero Placeholder Image](../assets/table_placeholder.png)
 
 **Description**
-
 Make real-time updates to assets stored in AEM with Asset Link
 
 In this tutorial, you will learn how to:
@@ -55,7 +54,6 @@ In this tutorial, you will learn how to:
 * Check out and check in assets from the DAM into your design program to make real-time updates
 
 **Presented by:**
-
 Eric Rowse, Senior Solution Consultant (Digital Media)
 
 ## InDesign Files Hosted in AEM {#tutorial2}
@@ -63,7 +61,6 @@ Eric Rowse, Senior Solution Consultant (Digital Media)
 ![Video Hero Placeholder Image](../assets/table_placeholder.png)
 
 **Description**
-
 Host your InDesign document in AEM so multiple users can create content variations - at the same time.
 
 In this tutorial, you will learn how to:
@@ -72,5 +69,4 @@ In this tutorial, you will learn how to:
 * Document fields are pre-formatted allowing for quick edits or changes to content
 
 **Presented by:**
-
 Eric Rowse, Senior Solution Consultant (Digital Media)

@@ -15,7 +15,7 @@ Adobe Capture turns mobile phones and tablets into a design collection tool. Use
 <tr>
  <td>
    <a href="capture.md#tutorial1">
-      <img alt="Capture Inspiration from the World Around You" src="../assets//table_placeholder.png" />
+      <img alt="Capture Inspiration from the World Around You" src="../assets/table_placeholder.png" />
    </a>
     <div>
    <a href="capture.md#tutorial1"><strong>Capture Inspiration from the World Around You</strong></a>
@@ -36,12 +36,11 @@ Adobe Capture turns mobile phones and tablets into a design collection tool. Use
 </tr>
 </table>
 
-## Capture Inspiration from the World Around You {#tutorial1}
+## Capture Inspiration from the World Around You (2:56) {#tutorial1}
 
-![Video Hero Placeholder Image](../assets/table_placeholder.png))
+>[!VIDEO](https://video.tv.adobe.com/v/326825?hidetitle=true)
 
 **Description**
-
 Transform images and video on your mobile device into creative building blocks for all your designs
 
 In this tutorial, you will learn how to:
@@ -50,5 +49,4 @@ In this tutorial, you will learn how to:
 * Access thousands of Adobe Fonts
 
 **Presented by:**
-
 Emily Palmer, Solution Consultant (Digital Media)

@@ -15,7 +15,7 @@ Keep your assets on hand and your projects on brand.
 <tr>
  <td>
    <a href="cclibraries.md#tutorial1">
-      <img alt="Create CC Libraries" src="../assets/libraries_create_dvorin_thumbnail.jpg" />
+      <img alt="Create CC Libraries" src="../assets/libraries_create_dvorin_thumbnail_1280.jpg" />
    </a>
     <div>
    <a href="cclibraries.md#tutorial1"><strong>Create CC Libraries</strong></a>
@@ -25,7 +25,7 @@ Keep your assets on hand and your projects on brand.
   </td>
    <td>
    <a href="cclibraries.md#tutorial2">
-      <img alt="Share CC Libraries" src="../assets/libraries_share_dvorin_thumbnail.jpg" />
+      <img alt="Share CC Libraries" src="../assets/libraries_share_dvorin_thumbnail_1280.jpg" />
    </a>
     <div>
    <a href="cclibraries.md#tutorial2"><strong>Share CC Libraries</strong></a>
@@ -46,7 +46,6 @@ Keep your assets on hand and your projects on brand.
 >[!VIDEO](https://video.tv.adobe.com/v/326802?hidetitle=true)
 
 **Description**
-
 With Adobe Creative Cloud Libraries you can manage, organize, and access your logos, colors, and more in your favorite Creative Cloud apps. 
 
 In this tutorial, you will learn how to:
@@ -54,7 +53,6 @@ In this tutorial, you will learn how to:
 * New! Full integration with Adobe XD
 
 **Presented by:**
-
 Ashley Dvorin, Senior Solution Consultant (Digital Media)
 
 ## Share CC Libraries (4:14) {#tutorial2}
@@ -62,7 +60,6 @@ Ashley Dvorin, Senior Solution Consultant (Digital Media)
 >[!VIDEO](https://video.tv.adobe.com/v/326803?hidetitle=true)
 
 **Description**
-
 Work more efficiently, ensure creative consistency, and easily stay in sync with your team 
 
 In this tutorial, you will learn how to:
@@ -70,5 +67,4 @@ In this tutorial, you will learn how to:
 * Easily collaborate on projects directly from your favorite apps
 
 **Presented by:**
-
 Ashley Dvorin, Senior Solution Consultant (Digital Media)

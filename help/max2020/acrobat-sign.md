@@ -62,8 +62,6 @@ In this tutorial, you will learn how to:
 Dan Armstrong, Solution Consultant (Digital Media)
 Rick Borstein, Senior Manager Solution Consulting (Digital Media)
 
-
-
 ## Create Online Waiver Forms with Adobe Sign (5:19) {#tutorial2}
 
 >[!VIDEO](https://video.tv.adobe.com/v/326776?hidetitle=true)
@@ -79,8 +77,6 @@ In this tutorial, you will learn how to:
 **Presented by:**
 Taylor Kobey, Solution Consultant (Digital Media)
 Emily Palmer, Solution Consultant (Digital Media)
-
-
 
 ## Request a Signature with Adobe Sign (3:21) {#tutorial3}
 

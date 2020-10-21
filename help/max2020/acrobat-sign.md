@@ -15,7 +15,7 @@ Insert product messaging copy here
 <tr>
  <td>
    <a href="acrobat-sign.md#tutorial1">
-      <img alt="Initiating an Acrobat Shared Review" src="../assets/acrobat_sharedreview_armstrong.jpg" />
+      <img alt="Initiating an Acrobat Shared Review" src="../assets/acrobat_sharedreview_armstrong_1280.jpg" />
    </a>
     <div>
    <a href="acrobat-sign.md#tutorial1"><strong>Initiating an Acrobat Shared Review</strong></a>
@@ -25,7 +25,7 @@ Insert product messaging copy here
   </td>
   <td>
     <a href="acrobat-sign.md#tutorial2">
-        <img alt="Create Online Waiver Forms with Adobe Sign" src="../assets/sign_webforms_palmer-kobey_thumbnail.jpg" />
+        <img alt="Create Online Waiver Forms with Adobe Sign" src="../assets/sign_webforms_palmer-kobey_thumbnail_1280.jpg" />
     </a>
     <div>
     <a href="acrobat-sign.md#tutorial2"><strong>Create Online Waiver Forms with Adobe Sign</strong></a>
@@ -35,7 +35,7 @@ Insert product messaging copy here
   </td>
   <td>
    <a href="acrobat-sign.md#tutorial3">
-      <img alt="Request a Signature with Adobe Sign" src="../assets/sign_request-signature_borstein_thumbnail.jpg" />
+      <img alt="Request a Signature with Adobe Sign" src="../assets/sign_request-signature_borstein_thumbnail_1280.jpg" />
    </a>
     <div>
     <a href="acrobat-sign.md#tutorial3"><strong>Request a Signature with Adobe Sign</strong></a>
@@ -46,7 +46,9 @@ Insert product messaging copy here
 </tr>
 </table>
 
-## Initiating an Acrobat Shared Review \(3:48) {#tutorial1}
+## Initiating an Acrobat Shared Review {#tutorial1}
+
+**Duration: 3:48**
 
 >[!VIDEO](https://video.tv.adobe.com/v/326777?hidetitle=true)
 
@@ -64,7 +66,9 @@ In this tutorial, you will learn how to:
 Dan Armstrong, Solution Consultant (Digital Media)
 Rick Borstein, Senior Manager Solution Consulting (Digital Media)
 
-## Create Online Waiver Forms with Adobe Sign (5:19) {#tutorial2}
+## Create Online Waiver Forms with Adobe Sign {#tutorial2}
+
+**Duration: 5:19**
 
 >[!VIDEO](https://video.tv.adobe.com/v/326776?hidetitle=true)
 
@@ -82,7 +86,9 @@ In this tutorial, you will learn how to:
 Taylor Kobey, Solution Consultant (Digital Media)
 Emily Palmer, Solution Consultant (Digital Media)
 
-## Request a Signature with Adobe Sign (3:21) {#tutorial3}
+## Request a Signature with Adobe Sign {#tutorial3}
+
+**Duration: 3:21**
 
 >[!VIDEO](https://video.tv.adobe.com/v/326801?hidetitle=true)
 

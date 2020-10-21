@@ -46,7 +46,6 @@ Adobe Fresco is a cross-platform app for creating drawings and paintings using b
 ![Video Hero Placeholder Image](../assets/table_placeholder.png))
 
 **Description**
-
 Discover Adobe Fresco for creating drawings and paintings using brush-based methods combining vector and raster workflows with cloud documents
 
 In this tutorial, you will learn how to:
@@ -55,7 +54,6 @@ In this tutorial, you will learn how to:
 *
 
 **Presented by:**
-
 Liz Tanonis, Solution Consultant (Digital Media)
 
 ## Create Textured Artwork—Fresco to Illustrator {#tutorial2}
@@ -63,7 +61,6 @@ Liz Tanonis, Solution Consultant (Digital Media)
 ![Video Hero Placeholder Image](../assets/table_placeholder.png))
 
 **Description**
-
 Paint and draw textures in Adobe Fresco and learn how to  use them in Illustrator
 
 In this tutorial, you will learn how to:
@@ -72,5 +69,4 @@ In this tutorial, you will learn how to:
 *
 
 **Presented by:**
-
 Liz Tanonis, Solution Consultant (Digital Media)

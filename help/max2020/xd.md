@@ -114,7 +114,6 @@ States and Overlays</strong></a>
 ![Video Hero Placeholder Image](../assets/table_placeholder.png)
 
 **Description**
-
 Create reusable, dynamically resizable, buttons for your interactive designs
 
 In this tutorial, you will learn how to:
@@ -122,7 +121,6 @@ In this tutorial, you will learn how to:
 * Use components for consistency, time saving, fewer clicks
 
 **Presented by:**
-
 Michael Murphy, Senior Solution Consultant (Digital Media)
 
 ## Create and Populate a Repeat Grid {#tutorial2}
@@ -130,7 +128,6 @@ Michael Murphy, Senior Solution Consultant (Digital Media)
 ![Video Hero Placeholder Image](../assets/table_placeholder.png)
 
 **Description**
-
 Turn a single element into repeating grids with a simple click-and-drag
 
 In this tutorial, you will learn how to:
@@ -139,7 +136,6 @@ In this tutorial, you will learn how to:
 * Make changes once and apply it where you like, in any direction
 
 **Presented by:**
-
 Ashley Dvorin, Senior Solution Consultant (Digital Media)
 
 ## Work with Stacks {#tutorial3}
@@ -147,7 +143,6 @@ Ashley Dvorin, Senior Solution Consultant (Digital Media)
 ![Video Hero Placeholder Image](../assets/table_placeholder.png)
 
 **Description**
-
 Use the stack property to easily rearrange elements
 
 In this tutorial, you will learn how to:
@@ -155,7 +150,6 @@ In this tutorial, you will learn how to:
 * Insert new objects or reorder objects in a stack and everything adjusts automatically
 
 **Presented by:**
-
 Michael Murphy, Senior Solution Consultant (Digital Media)
 
 ## Tutorial 4 {#tutorial4}
@@ -163,11 +157,9 @@ Michael Murphy, Senior Solution Consultant (Digital Media)
 ![Video Hero Placeholder Image](../assets/table_placeholder.png)
 
 **Description**
-
 Insert description
 
 **Presented by:** 
-
 Insert presenter
 
 ## Create a Prototype—Anchor Links and Scroll Groups {#tutorial5}
@@ -175,7 +167,6 @@ Insert presenter
 ![Video Hero Placeholder Image](../assets/table_placeholder.png)
 
 **Description**
-
 Add navigation and scrolling to a prototype
 
 In this tutorial, you will learn how to:
@@ -184,7 +175,6 @@ In this tutorial, you will learn how to:
 * Create groups that scroll vertically, horizontally, or both.
 
 **Presented by:**
-
 Michael Murphy, Senior Solution Consultant (Digital Media)
 
 ## Create a Prototype—Interactive Component States and Overlays {#tutorial6}
@@ -192,7 +182,6 @@ Michael Murphy, Senior Solution Consultant (Digital Media)
 ![Video Hero Placeholder Image](../assets/table_placeholder.png)
 
 **Description**
-
 Add interactivity and an overlay menu to a prototype
 
 In this tutorial, you will learn how to:
@@ -200,15 +189,13 @@ In this tutorial, you will learn how to:
 * Author multiple prototype or interaction flows in a single XD document and publish unique shareable links for each flow
 
 **Presented by:** 
-
 Emilie Enke, Associate Solution Consultant (Digital Media)
 
-## Email - Create and Populate a Repeat Grid {#tutorial7}
+## Email - Create and Populate a Repeat Grid (4:45) {#tutorial7}
 
-![Video Hero Placeholder Image](../assets/table_placeholder.png)
+>[!VIDEO](https://video.tv.adobe.com/v/326775?hidetitle=true)
 
 **Description**
-
 Turn a single element into repeating grids with a simple click-and-drag
 
 In this tutorial, you will learn how to:
@@ -217,15 +204,13 @@ In this tutorial, you will learn how to:
 * Make changes once and apply it where you like, in any direction
 
 **Presented by:**
-
 Victoria Torres, Solution Consultant (Digital Media)
 
-## Email - Work with Stacks {#tutorial8}
+## Email - Work with Stacks (3:38) {#tutorial8}
 
 >[!VIDEO](https://video.tv.adobe.com/v/326759?hidetitle=true)
 
 **Description**
-
 Use the stack property to easily rearrange elements
 
 In this tutorial, you will learn how to:
@@ -233,5 +218,4 @@ In this tutorial, you will learn how to:
 * Insert new objects or reorder objects in a stack and everything adjusts automatically.
 
 **Presented by:**
- 
-Victoria Torres, Solution Consultant (Digital Media)
+ Victoria Torres, Solution Consultant (Digital Media)

@@ -45,19 +45,17 @@ The modern app for illustrations and graphics. Create logos, icons, illustration
 </tr>
 </table>
 
-## Use Symbols to Update Multiple Icon Instances {#tutorial1}
+## Use Symbols to Update Multiple Icon Instances (5:08) {#tutorial1}
 
-![Video Hero Placeholder Image](../assets/table_placeholder.png)
+>[!VIDEO](hhttps://video.tv.adobe.com/v/326816?hidetitle=true)
 
 **Description**
-
 Reduce manual work and maintain consistency with symbols 
 
 In this tutorial, you will learn how to:
 * Reduce manual work and maintain consistency with symbols. 
 
 **Presented by:**
-
 Patti Sokol, Principal Solution Consultant (Digital Media)
 
 ## Align Text and Images with Glyph Snapping {#tutorial2}
@@ -65,28 +63,24 @@ Patti Sokol, Principal Solution Consultant (Digital Media)
 ![Video Hero Placeholder Image](../assets/table_placeholder.png)
 
 **Description**
-
 Quickly snap glyphs to important regions of the document
 
 In this tutorial, you will learn how to:
 * Quickly snap glyphs to important regions of the document.
 
 **Presented by:**
-
 Patti Sokol, Principal Solution Consultant (Digital Media)
 
 ## Create a Seamless Pattern {#tutorial3}
 
-![Video Hero Placeholder Image](../assets/table_placeholder.png)
+>[!VIDEO](https://video.tv.adobe.com/v/326817?hidetitle=true)
 
 **Description**
-
 Transform a group of elements into a repeating pattern
 
 In this tutorial, you will learn how to:
 * Transform a group of elements into a repeating pattern
 
 **Presented by:**
-
 Patti Sokol, Principal Solution Consultant (Digital Media)
 Dave Weinberg, Senior Solution Consultant (Digital Media)

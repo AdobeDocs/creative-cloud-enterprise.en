@@ -15,7 +15,7 @@ Adobe Capture turns mobile phones and tablets into a design collection tool. Use
 <tr>
  <td>
    <a href="capture.md#tutorial1">
-      <img alt="Capture Inspiration from the World Around You" src="../assets//table_placeholder.png" />
+      <img alt="Capture Inspiration from the World Around You" src="../assets/table_placeholder.png" />
    </a>
     <div>
    <a href="capture.md#tutorial1"><strong>Capture Inspiration from the World Around You</strong></a>

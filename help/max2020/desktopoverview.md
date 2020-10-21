@@ -5,7 +5,7 @@ description: Listing the Creative Cloud Desktop Products
 
 # Desktop Products Tutorials
 
-![Tutorial Hero Image](../assets/hero_placeholder.png)
+![Tutorial Hero Image](../assets/Products.jpg)
 
 As an enterprise creative, you need to collaborate with distributed teams, establish scalable processes, and comply with corporate systems and guidelines. These tutorials will help you learn new features in the 2021 release of Creative Cloud—from an enterprise perspective. 
 

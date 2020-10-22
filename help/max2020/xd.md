@@ -111,7 +111,7 @@ States and Overlays</strong></a>
 
 ## Create Components with Hover States {#tutorial1}
 
-![Video Hero Placeholder Image](../assets/table_placeholder.png)
+>[!VIDEO](https://video.tv.adobe.com/v/326874?hidetitle=true)
 
 **Description**
 Create reusable, dynamically resizable, buttons for your interactive designs
@@ -125,7 +125,7 @@ Michael Murphy, Senior Solution Consultant (Digital Media)
 
 ## Create and Populate a Repeat Grid {#tutorial2}
 
-![Video Hero Placeholder Image](../assets/table_placeholder.png)
+>[!VIDEO](https://video.tv.adobe.com/v/326955?hidetitle=true)
 
 **Description**
 Turn a single element into repeating grids with a simple click-and-drag
@@ -140,7 +140,7 @@ Ashley Dvorin, Senior Solution Consultant (Digital Media)
 
 ## Work with Stacks {#tutorial3}
 
-![Video Hero Placeholder Image](../assets/table_placeholder.png)
+>[!VIDEO](https://video.tv.adobe.com/v/326956?hidetitle=true)
 
 **Description**
 Use the stack property to easily rearrange elements
@@ -164,7 +164,7 @@ Insert presenter
 
 ## Create a Prototype—Anchor Links and Scroll Groups {#tutorial5}
 
-![Video Hero Placeholder Image](../assets/table_placeholder.png)
+>[!VIDEO](https://video.tv.adobe.com/v/326957?hidetitle=true)
 
 **Description**
 Add navigation and scrolling to a prototype
@@ -179,7 +179,7 @@ Michael Murphy, Senior Solution Consultant (Digital Media)
 
 ## Create a Prototype—Interactive Component States and Overlays {#tutorial6}
 
-![Video Hero Placeholder Image](../assets/table_placeholder.png)
+>[!VIDEO](https://video.tv.adobe.com/v/326958?hidetitle=true)
 
 **Description**
 Add interactivity and an overlay menu to a prototype

@@ -48,7 +48,7 @@ Photoshop is the world’s best imaging and graphic design software, allowing un
 
 ## Edit Images to Match your Campaign {#tutorial1}
 
-![Video Hero Placeholder Image](../assets/table_placeholder.png))
+>[!VIDEO](https://video.tv.adobe.com/v/326950?hidetitle=true)
 
 **Description**
 Use the powerful selection and color editing tools in Adobe Photoshop to dramatically change an image to match your corporate branding needs
@@ -64,7 +64,7 @@ Emilie Enke, Associate Solution Consultant (Digital Media)
 
 ## Select and Replace the Sky {#tutorial2}
 
-![Video Hero Placeholder Image](../assets/table_placeholder.png)
+>[!VIDEO](https://video.tv.adobe.com/v/326953?hidetitle=true)
 
 **Description**
 Automatically select the sky in an image and replace with a sky of your choice, auto-adjusting the colors of the image to match your selection
@@ -80,7 +80,7 @@ Emilie Enke, Associate Solution Consultant (Digital Media)
 
 ## Publish your Design to a Zazzle Face Mask {#tutorial3}
 
-![Video Hero Placeholder Image](../assets/table_placeholder.png)
+>[!VIDEO](https://video.tv.adobe.com/v/326954?hidetitle=true)
 
 **Description**
 Create and publish your designs directly from Photoshop to Zazzle

@@ -15,7 +15,7 @@ Insert product messaging copy here
 <tr>
  <td>
    <a href="acrobat-sign.md#tutorial1">
-      <img alt="Initiating an Acrobat Shared Review" src="../assets/acrobat_sharedreview_armstrong_1280.jpg" />
+      <img alt="Initiating an Acrobat Shared Review" src="../assets/acrobat_sharedreview_armstrong.jpg" />
    </a>
     <div>
    <a href="acrobat-sign.md#tutorial1"><strong>Initiating an Acrobat Shared Review</strong></a>
@@ -25,7 +25,7 @@ Insert product messaging copy here
   </td>
   <td>
     <a href="acrobat-sign.md#tutorial2">
-        <img alt="Create Online Waiver Forms with Adobe Sign" src="../assets/sign_webforms_palmer-kobey_thumbnail_1280.jpg" />
+        <img alt="Create Online Waiver Forms with Adobe Sign" src="../assets/sign_webforms_palmer-kobey_thumbnail.jpg" />
     </a>
     <div>
     <a href="acrobat-sign.md#tutorial2"><strong>Create Online Waiver Forms with Adobe Sign</strong></a>
@@ -35,7 +35,7 @@ Insert product messaging copy here
   </td>
   <td>
    <a href="acrobat-sign.md#tutorial3">
-      <img alt="Request a Signature with Adobe Sign" src="../assets/sign_request-signature_borstein_thumbnail_1280.jpg" />
+      <img alt="Request a Signature with Adobe Sign" src="../assets/sign_request-signature_borstein_thumbnail.jpg" />
    </a>
     <div>
     <a href="acrobat-sign.md#tutorial3"><strong>Request a Signature with Adobe Sign</strong></a>

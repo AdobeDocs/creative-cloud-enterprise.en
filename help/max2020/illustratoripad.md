@@ -15,7 +15,7 @@ Adobe Illustrator on the iPad is a vector design experience reimagined for touch
 <tr>
  <td>
    <a href="illustratoripad.md#tutorial1">
-      <img alt="Intro to Illustrator on the iPad" src="../assets//table_placeholder.png" />
+      <img alt="Intro to Illustrator on the iPad" src="../assets/illustrator-iPad_repeat_weinberg_thumbnail.jpg" />
    </a>
     <div>
    <a href="illustratoripad.md#tutorial1"><strong>Intro to Illustrator on the iPad</strong></a>
@@ -38,15 +38,16 @@ Adobe Illustrator on the iPad is a vector design experience reimagined for touch
 
 ## Intro to Illustrator on the iPad (9:21) {#tutorial1}
 
-![Video Hero Placeholder Image](../assets/table_placeholder.png))
+>[!VIDEO](https://video.tv.adobe.com/v/326823?hidetitle=true)
 
 **Description**
 This quick Illustrator for iPad overview will get you up-and-running quickly to create a distressed location icon and turn it into a pattern that you can apply to your Dimension and Zazzle project!
 
 In this tutorial, you will learn how to:
-*
-*
-*
+* Illustrator reimagined for iPad transforms productivity, accelerates collaboration, expands creative skillsets and empowers creativity for all
+* Touch interface enables more tactile and precision experience using Apple Pencil
+* Access graphics and colors from CC Libraries
+* Roundtrip workflow across mobile and desktop Illustrator.
 
 **Presented by:**
 Dave Weinberg, Senior Solution Consultant (Digital Media)

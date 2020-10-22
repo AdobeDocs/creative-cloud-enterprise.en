@@ -25,7 +25,7 @@ The industry-standard app to create beautiful documents for print and digital pu
   </td>
   <td>
     <a href="indesign.md#tutorial2">
-        <img alt="Generate QR Codes" src="../assets/table_placeholder.png" />
+        <img alt="Generate QR Codes" src="../assets/InDesign_qrCodes_sokol_thumbnail.jpg" />
     </a>
     <div>
     <a href="indesign.md#tutorial2"><strong>Generate QR Codes</strong></a>
@@ -46,7 +46,7 @@ The industry-standard app to create beautiful documents for print and digital pu
 <tr>
  <td>
    <a href="indesign.md#tutorial4">
-      <img alt="Share for Review from InDesign" src="../assets//table_placeholder.png" />
+      <img alt="Share for Review from InDesign" src="../assets/indesign_shareforreview_palmer_thumbnail.jpg" />
    </a>
     <div>
    <a href="indesign.md#tutorial1"><strong>Share for Review from InDesign</strong></a>
@@ -57,7 +57,7 @@ The industry-standard app to create beautiful documents for print and digital pu
   <td>
     <a href="indesign.md#tutorial5">
         <img alt="Import PDF Comments from a Document 
-Cloud Review" src="../assets/table_placeholder.png" />
+Cloud Review" src="../assets/indesign_pdfcomments_murphy_thumbnail.jpg" />
     </a>
     <div>
     <a href="indesign.md#tutorial2"><strong>Import PDF Comments from a Document 
@@ -118,7 +118,7 @@ In this tutorial, you will learn how to:
 **Presented by:**
 Insert presenter name
 
-## Generate QR Codes {#tutorial2}
+## Generate QR Codes (2:34) {#tutorial2}
 
 >[!VIDEO](https://video.tv.adobe.com/v/326818?hidetitle=true)
 

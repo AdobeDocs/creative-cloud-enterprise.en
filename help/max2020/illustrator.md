@@ -15,7 +15,7 @@ The modern app for illustrations and graphics. Create logos, icons, illustration
 <tr>
  <td>
    <a href="illustrator.md#tutorial1">
-      <img alt="Use Symbols to Update Multiple Icon Instances" src="../assets//table_placeholder.png" />
+      <img alt="Use Symbols to Update Multiple Icon Instances" src="../assets/Illustrator_symbols_sokol_thumbnail.jpg" />
    </a>
     <div>
    <a href="illustrator.md#tutorial1"><strong>Use Symbols to Update Multiple Icon Instances</strong></a>
@@ -25,7 +25,7 @@ The modern app for illustrations and graphics. Create logos, icons, illustration
   </td>
   <td>
     <a href="illustrator.md#tutorial2">
-        <img alt="Align Text and Images with Glyph Snapping" src="../assets/table_placeholder.png" />
+        <img alt="Align Text and Images with Glyph Snapping" src="../assets/illustrator_glyphAlign_sokol_thumbnail.jpg" />
     </a>
     <div>
     <a href="illustrator.md#tutorial2"><strong>Align Text and Images with Glyph Snapping</strong></a>
@@ -58,9 +58,9 @@ In this tutorial, you will learn how to:
 **Presented by:**
 Patti Sokol, Principal Solution Consultant (Digital Media)
 
-## Align Text and Images with Glyph Snapping {#tutorial2}
+## Align Text and Images with Glyph Snapping (6:48) {#tutorial2}
 
-![Video Hero Placeholder Image](../assets/table_placeholder.png)
+>[!VIDEO](https://video.tv.adobe.com/v/326817?hidetitle=true)
 
 **Description**
 Quickly snap glyphs to important regions of the document

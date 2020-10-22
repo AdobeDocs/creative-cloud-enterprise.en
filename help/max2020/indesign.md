@@ -49,7 +49,7 @@ The industry-standard app to create beautiful documents for print and digital pu
       <img alt="Share for Review from InDesign" src="../assets/indesign_shareforreview_palmer_thumbnail.jpg" />
    </a>
     <div>
-   <a href="indesign.md#tutorial1"><strong>Share for Review from InDesign</strong></a>
+   <a href="indesign.md#tutorial4"><strong>Share for Review from InDesign</strong></a>
     </div>
     <em>Seamless creative review experience for designers and their team members</em>
     <br>
@@ -60,7 +60,7 @@ The industry-standard app to create beautiful documents for print and digital pu
 Cloud Review" src="../assets/indesign_pdfcomments_murphy_thumbnail.jpg" />
     </a>
     <div>
-    <a href="indesign.md#tutorial2"><strong>Import PDF Comments from a Document 
+    <a href="indesign.md#tutorial5"><strong>Import PDF Comments from a Document 
 Cloud Review</strong></a>
     </div>
     <em>Import comments from a PDF directly into InDesign and quickly apply requested changes</em>
@@ -72,7 +72,7 @@ Cloud Review</strong></a>
 Services" src="../assets/table_placeholder.png" />
     </a>
     <div>
-    <a href="indesign.md#tutorial3"><strong>Compare InDesign and PDF Shared Review 
+    <a href="indesign.md#tutorial6"><strong>Compare InDesign and PDF Shared Review 
 Services</strong></a>
     </div>
     <em>Compare InDesign and PDF Shared Reviews and when to use each</em>
@@ -107,7 +107,7 @@ Services</strong></a>
 ![Video Hero Placeholder Image](../assets/table_placeholder.png)
 
 **Description**
-Insert tutorial description here
+Insert tutorial description here.
 
 In this tutorial, you will learn how to:
 * Feature 1
@@ -123,7 +123,7 @@ Insert presenter name
 >[!VIDEO](https://video.tv.adobe.com/v/326818?hidetitle=true)
 
 **Description**
-Generate QR code that links to a web site
+Generate QR code that links to a web site.
 
 In this tutorial, you will learn how:
 * QR Codes help you quickly direct people to additional digital content from your print material
@@ -136,7 +136,7 @@ Patti Sokol, Principal Solution Consultant (Digital Media)
 ![Video Hero Placeholder Image](../assets/table_placeholder.png)
 
 **Description**
-Insert tutorial description here
+Insert tutorial description here.
 
 In this tutorial, you will learn how to:
 * Feature 1
@@ -152,7 +152,7 @@ Insert presenter name
 >[!VIDEO](https://video.tv.adobe.com/v/326824?hidetitle=true)
 
 **Description**
-InDesign Share for Review provides an even more seamless creative review experience for designers and their team members
+InDesign Share for Review provides an even more seamless creative review experience for designers and their team members.
 
 In this tutorial, you will learn how to:
 * Feature 1
@@ -165,13 +165,13 @@ Emily Palmer, Solutions Consultant (Digital Media)
 
 ## Import PDF Comments from a Document Cloud Review (4:52) {#tutorial5}
 
-![Video Hero Placeholder Image](../assets/table_placeholder.png)
+>[!VIDEO](https://video.tv.adobe.com/v/326959?hidetitle=true)
 
 **Description**
-Import comments from a PDF directly into InDesign and quickly apply requested changes
+Import comments from a PDF directly into InDesign and quickly apply requested changes.
 
 In this tutorial, you will learn how to:
-* Supports existing PDF commenting workflows,
+* Supports existing PDF commenting workflows
 * Works for PDFs combined from multiple sources
 
 **Presented by:**
@@ -185,7 +185,7 @@ Michael Murphy, Senior Solution Consultant (Digital Media)
 Compare InDesign and PDF Shared Reviews and when to use each. 
 
 In this tutorial, you will learn how InDesign Review:
-* Supports existing PDF commenting workflows,
+* Supports existing PDF commenting workflows
 * Works for PDFs combined from multiple sources
 * Compare InDesign and PDF Shared Reviews and when to use each
 

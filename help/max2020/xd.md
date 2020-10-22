@@ -83,7 +83,7 @@ States and Overlays</strong></a>
 <tr>
  <td>
    <a href="xd.md#tutorial7">
-      <img alt="Email - Create and Populate a Repeat Grid" src="../assets/table_placeholder.png" />
+      <img alt="Email - Create and Populate a Repeat Grid" src="../assets/xd_repeat_torres.jpg" />
    </a>
     <div>
    <a href="xd.md#tutorial7"><strong>Email - Create and Populate a Repeat Grid</strong></a>
@@ -93,7 +93,7 @@ States and Overlays</strong></a>
   </td>
   <td>
     <a href="xd.md#tutorial8">
-        <img alt="Email - Work with Stacks" src="../assets/table_placeholder.png" />
+        <img alt="Email - Work with Stacks" src="../assets/xd_stacks_torres.jpg" />
     </a>
     <div>
     <a href="xd.md#tutorial8"><strong>Email - Work with Stacks</strong></a>
@@ -114,10 +114,10 @@ States and Overlays</strong></a>
 >[!VIDEO](https://video.tv.adobe.com/v/326874?hidetitle=true)
 
 **Description**
-Create reusable, dynamically resizable, buttons for your interactive designs
+Create reusable, dynamically resizable, buttons for your interactive designs.
 
 In this tutorial, you will learn how to:
-* Make changes to a source main component and those changes are pushed automatically to all instances of that component, 
+* Make changes to a source main component and those changes are pushed automatically to all instances of that component
 * Use components for consistency, time saving, fewer clicks
 
 **Presented by:**
@@ -128,7 +128,7 @@ Michael Murphy, Senior Solution Consultant (Digital Media)
 >[!VIDEO](https://video.tv.adobe.com/v/326955?hidetitle=true)
 
 **Description**
-Turn a single element into repeating grids with a simple click-and-drag
+Turn a single element into repeating grids with a simple click-and-drag.
 
 In this tutorial, you will learn how to:
 * Boost your workflow and drag out any sized grid you need, instantly
@@ -143,7 +143,7 @@ Ashley Dvorin, Senior Solution Consultant (Digital Media)
 >[!VIDEO](https://video.tv.adobe.com/v/326956?hidetitle=true)
 
 **Description**
-Use the stack property to easily rearrange elements
+Use the stack property to easily rearrange elements.
 
 In this tutorial, you will learn how to:
 * Maintain alignment and spacing between objects on your canvas even as your design changes
@@ -167,12 +167,12 @@ Insert presenter
 >[!VIDEO](https://video.tv.adobe.com/v/326957?hidetitle=true)
 
 **Description**
-Add navigation and scrolling to a prototype
+Add navigation and scrolling to a prototype.
 
 In this tutorial, you will learn how to:
-* Add links to your prototypes with an action that lets users jump to different points on the same artboard.  
-* Create activity feeds, image carousels, product listings, and more by defining areas that scroll independently from the rest of your designs.
-* Create groups that scroll vertically, horizontally, or both.
+* Add links to your prototypes with an action that lets users jump to different points on the same artboard  
+* Create activity feeds, image carousels, product listings, and more by defining areas that scroll independently from the rest of your designs
+* Create groups that scroll vertically, horizontally, or both
 
 **Presented by:**
 Michael Murphy, Senior Solution Consultant (Digital Media)
@@ -182,7 +182,7 @@ Michael Murphy, Senior Solution Consultant (Digital Media)
 >[!VIDEO](https://video.tv.adobe.com/v/326958?hidetitle=true)
 
 **Description**
-Add interactivity and an overlay menu to a prototype
+Add interactivity and an overlay menu to a prototype.
 
 In this tutorial, you will learn how to:
 * Create a non-linear interactive and animated user experience without the need for additional artboards
@@ -196,7 +196,7 @@ Emilie Enke, Associate Solution Consultant (Digital Media)
 >[!VIDEO](https://video.tv.adobe.com/v/326775?hidetitle=true)
 
 **Description**
-Turn a single element into repeating grids with a simple click-and-drag
+Turn a single element into repeating grids with a simple click-and-drag.
 
 In this tutorial, you will learn how to:
 * Boost your workflow and drag out any sized grid you need, instantly
@@ -211,11 +211,11 @@ Victoria Torres, Solution Consultant (Digital Media)
 >[!VIDEO](https://video.tv.adobe.com/v/326759?hidetitle=true)
 
 **Description**
-Use the stack property to easily rearrange elements
+Use the stack property to easily rearrange elements.
 
 In this tutorial, you will learn how to:
-* Maintain alignment and spacing between objects on your canvas even as your design changes. 
-* Insert new objects or reorder objects in a stack and everything adjusts automatically.
+* Maintain alignment and spacing between objects on your canvas even as your design changes
+* Insert new objects or reorder objects in a stack and everything adjusts automatically
 
 **Presented by:**
  Victoria Torres, Solution Consultant (Digital Media)

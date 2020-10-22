@@ -50,10 +50,10 @@ The modern app for illustrations and graphics. Create logos, icons, illustration
 >[!VIDEO](https://video.tv.adobe.com/v/326816?hidetitle=true)
 
 **Description**
-Reduce manual work and maintain consistency with symbols 
+Reduce manual work and maintain consistency with symbols.
 
 In this tutorial, you will learn how to:
-* Reduce manual work and maintain consistency with symbols. 
+* Reduce manual work and maintain consistency with symbols
 
 **Presented by:**
 Patti Sokol, Principal Solution Consultant (Digital Media)
@@ -63,10 +63,10 @@ Patti Sokol, Principal Solution Consultant (Digital Media)
 >[!VIDEO](https://video.tv.adobe.com/v/326817?hidetitle=true)
 
 **Description**
-Quickly snap glyphs to important regions of the document
+Quickly snap glyphs to important regions of the document.
 
 In this tutorial, you will learn how to:
-* Quickly snap glyphs to important regions of the document.
+* Quickly snap glyphs to important regions of the document
 
 **Presented by:**
 Patti Sokol, Principal Solution Consultant (Digital Media)
@@ -76,7 +76,7 @@ Patti Sokol, Principal Solution Consultant (Digital Media)
 >[!VIDEO](https://video.tv.adobe.com/v/326948?hidetitle=true)
 
 **Description**
-Transform a group of elements into a repeating pattern
+Transform a group of elements into a repeating pattern.
 
 In this tutorial, you will learn how to:
 * Transform a group of elements into a repeating pattern

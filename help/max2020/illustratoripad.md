@@ -47,7 +47,7 @@ In this tutorial, you will learn how to:
 * Illustrator reimagined for iPad transforms productivity, accelerates collaboration, expands creative skillsets and empowers creativity for all
 * Touch interface enables more tactile and precision experience using Apple Pencil
 * Access graphics and colors from CC Libraries
-* Roundtrip workflow across mobile and desktop Illustrator.
+* Roundtrip workflow across mobile and desktop Illustrator
 
 **Presented by:**
 Dave Weinberg, Senior Solution Consultant (Digital Media)

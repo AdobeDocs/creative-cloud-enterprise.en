@@ -41,7 +41,7 @@ Adobe Capture turns mobile phones and tablets into a design collection tool. Use
 >[!VIDEO](https://video.tv.adobe.com/v/326825?hidetitle=true)
 
 **Description**
-Transform images and video on your mobile device into creative building blocks for all your designs
+Transform images and video on your mobile device into creative building blocks for all your designs.
 
 In this tutorial, you will learn how to:
 * Design Anywhere

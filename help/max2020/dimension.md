@@ -79,7 +79,7 @@ Dave Weinberg, Senior Solution Consultant (Digital Media)
 ![Video Hero Placeholder Image](../assets/table_placeholder.png)
 
 **Description**
-Insert tutorial description here
+Insert tutorial description here.
 
 In this tutorial, you will learn how to:
 * Feature 1

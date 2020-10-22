@@ -25,7 +25,7 @@ Adobe Experience Manager is the industry-leading digital experience management s
   </td>
    <td>
    <a href="aem.md#tutorial2">
-      <img alt="InDesign Files Hosted in AEM" src="../assets//table_placeholder.png" />
+      <img alt="InDesign Files Hosted in AEM" src="../assets/table_placeholder.png" />
    </a>
     <div>
    <a href="aem.md#tutorial2"><strong>InDesign Files Hosted in AEM</strong></a>

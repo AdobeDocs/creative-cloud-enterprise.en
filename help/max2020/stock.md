@@ -62,7 +62,7 @@ In this tutorial, you will learn how to:
 >[!VIDEO](https://video.tv.adobe.com/v/326952?hidetitle=true)
 
 **Description**
-Insert description here
+Insert description .
 
 In this tutorial, you will learn how to:
 *

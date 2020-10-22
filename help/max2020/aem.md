@@ -46,7 +46,7 @@ Adobe Experience Manager is the industry-leading digital experience management s
 >[!VIDEO](https://video.tv.adobe.com/v/326828?hidetitle=true)
 
 **Description**
-Make real-time updates to assets stored in AEM with Asset Link
+Make real-time updates to assets stored in AEM with Asset Link.
 
 In this tutorial, you will learn how to:
 * Find what you need, when you need it with a dedicated panel to search and browse assets inside your design programs

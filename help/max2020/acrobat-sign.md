@@ -83,7 +83,7 @@ Emily Palmer, Solution Consultant (Digital Media)
 >[!VIDEO](https://video.tv.adobe.com/v/326801?hidetitle=true)
 
 **Description**
-Go from Word to PDF and send for signature with Adobe Sign
+Go from Word to PDF and send for signature with Adobe Sign.
 
 In this tutorial, you will learn how to:
 * Leverage the tools you use every day to send digital documents for signature

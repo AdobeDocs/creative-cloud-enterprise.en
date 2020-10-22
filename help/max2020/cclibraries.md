@@ -60,7 +60,7 @@ Ashley Dvorin, Senior Solution Consultant (Digital Media)
 >[!VIDEO](https://video.tv.adobe.com/v/326803?hidetitle=true)
 
 **Description**
-Work more efficiently, ensure creative consistency, and easily stay in sync with your team 
+Work more efficiently, ensure creative consistency, and easily stay in sync with your team.
 
 In this tutorial, you will learn how to:
 * Keep your assets on hand and your projects on brand

@@ -15,7 +15,7 @@ Adobe Fresco is a cross-platform app for creating drawings and paintings using b
 <tr>
  <td>
    <a href="fresco.md#tutorial1">
-      <img alt="Intro to Drawing with Adobe Fresco" src="../assets//table_placeholder.png" />
+      <img alt="Intro to Drawing with Adobe Fresco" src="../assets/table_placeholder.png" />
    </a>
     <div>
    <a href="fresco.md#tutorial1"><strong>Intro to Drawing with Adobe Fresco</strong></a>
@@ -25,7 +25,7 @@ Adobe Fresco is a cross-platform app for creating drawings and paintings using b
   </td>
   <td>
    <a href="fresco.md#tutorial2">
-      <img alt="Create Textured Artwork—Fresco to Illustrator" src="../assets//table_placeholder.png" />
+      <img alt="Create Textured Artwork—Fresco to Illustrator" src="../assets/table_placeholder.png" />
    </a>
     <div>
    <a href="fresco.md#tutorial2"><strong>Create Textured Artwork—Fresco to Illustrator</strong></a>

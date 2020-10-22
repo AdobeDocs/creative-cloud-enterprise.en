@@ -15,7 +15,7 @@ Insert product description
 <tr>
  <td>
    <a href="dimension.md#tutorial1">
-      <img alt="Apply Substance Materials to 3D Models" src="../assets//table_placeholder.png" />
+      <img alt="Apply Substance Materials to 3D Models" src="../assets/table_placeholder.png" />
    </a>
     <div>
    <a href="dimension.md#tutorial1"><strong>Apply Substance Materials to 3D Models</strong></a>

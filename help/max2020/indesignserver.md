@@ -20,7 +20,7 @@ Adobe Adobe® InDesign® Server  software delivers a robust and scalable engine 
     <div>
    <a href="indesignserver.md#tutorial1"><strong>Data Driven InDesign Server Content</strong></a>
     </div>
-    <em>Data driven design can be achieved, programatically, with InDesign Server</em>
+    <em>Data-driven design can be achieved, programatically, with InDesign Server</em>
     <br>
   </td>
   <td>
@@ -36,13 +36,12 @@ Adobe Adobe® InDesign® Server  software delivers a robust and scalable engine 
 </tr>
 </table>
 
-## Data Driven InDesign Server Content {#tutorial1}
+## Data-Driven InDesign Server Content (4:14) {#tutorial1}
 
-![Video Hero Placeholder Image](../assets/table_placeholder.png)
+>[!VIDEO](https://video.tv.adobe.com/v/326901?hidetitle=true)
 
 **Description**
-
-Data driven design can be achieved, programatically, with InDesign Server. 
+Data-driven design can be achieved, programatically, with InDesign Server. 
 
 In this tutorial, you will learn how to:
 * Create InDesign templates with pre-formatted text or object styles
@@ -50,5 +49,4 @@ In this tutorial, you will learn how to:
 * Generate spot-on PDFs, or tie into other AEM driven output formats, of your layout
 
 **Presented by:**
-
 Eric Rowse, Senior Solution Consultant (Digital Media)

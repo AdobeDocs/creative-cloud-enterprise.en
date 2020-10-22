@@ -26,7 +26,7 @@ Creatives  are  under  pressure  to  quickly  deliver  new, visually compelling 
   <td>
    <a href="stock.md#tutorial2">
       <img alt="Search and License Stock Assets in 
-Adobe Experience Manager" src="../assets/table_placeholder.png" />
+Adobe Experience Manager" src="../assets/stock_aemintegration_palmer_thimbnail.jpg" />
    </a>
     <div>
    <a href="stock.md#tutorial2"><strong>Search and License Stock Assets in 
@@ -62,7 +62,7 @@ In this tutorial, you will learn how to:
 >[!VIDEO](https://video.tv.adobe.com/v/326952?hidetitle=true)
 
 **Description**
-Insert description .
+Insert description.
 
 In this tutorial, you will learn how to:
 *

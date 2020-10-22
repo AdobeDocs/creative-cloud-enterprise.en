@@ -25,7 +25,7 @@ Insert product description
   </td>
   <td>
     <a href="dimension.md#tutorial2">
-        <img alt="Place Graphics and Patterns  on 3D Model" src="../assets/table_placeholder.png" />
+        <img alt="Place Graphics and Patterns  on 3D Model" src="../assets/dimension_substanceAndGraphics_babbage_thumbnail.jpg" />
     </a>
     <div>
     <a href="dimension.md#tutorial2"><strong>Place Graphics and Patterns on 3D Model</strong></a>

@@ -15,7 +15,7 @@ Photoshop is the world’s best imaging and graphic design software, allowing un
 <tr>
  <td>
    <a href="photoshop.md#tutorial1">
-      <img alt="Edit Images to Match your Campaign" src="../assets/table_placeholder.png" />
+      <img alt="Edit Images to Match your Campaign" src="../assets/PS_ObjectSelect_ContentAware_wood.jpg" />
    </a>
     <div>
    <a href="photoshop.md#tutorial1"><strong>Edit Images to Match your Campaign</strong></a>
@@ -25,7 +25,7 @@ Photoshop is the world’s best imaging and graphic design software, allowing un
   </td>
   <td>
     <a href="photoshop.md#tutorial2">
-        <img alt="Select and Replace the Sky" src="../assets/table_placeholder.png" />
+        <img alt="Select and Replace the Sky" src="../assets/PS_Sky_Replace_wood.jpg" />
     </a>
     <div>
     <a href="photoshop.md#tutorial2"><strong>Select and Replace the Sky</strong></a>

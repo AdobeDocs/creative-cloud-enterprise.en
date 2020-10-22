@@ -179,7 +179,7 @@ Michael Murphy, Senior Solution Consultant (Digital Media)
 
 ## Compare InDesign and PDF Shared Review Services {#tutorial6}
 
-![Video Hero Placeholder Image](../assets/table_placeholder.png)
+>[!VIDEO](https://video.tv.adobe.com/v/326949?hidetitle=true)
 
 **Description**
 Compare InDesign and PDF Shared Reviews and when to use each. 

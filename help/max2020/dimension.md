@@ -47,7 +47,7 @@ Insert product description
 
 ## Apply Substance Materials to 3D Models {#tutorial1}
 
-![Video Hero Placeholder Image](../assets/table_placeholder.png)
+>[!VIDEO](https://video.tv.adobe.com/v/326944?hidetitle=true)
 
 **Description**
 Substance materials support thousands of variations of pattern and design in a single material.
@@ -60,7 +60,7 @@ Jim Babbage, Senior Solution Consultant (Digital Media)
 
 ## Place Graphics and Patterns on 3D Model {#tutorial2}
 
-![Video Hero Placeholder Image](../assets/table_placeholder.png)
+>[!VIDEO](https://video.tv.adobe.com/v/326945?hidetitle=true)
 
 **Description**
 Import a linked graphic from Illustrator and position it on your 3D model. 

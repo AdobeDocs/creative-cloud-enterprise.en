@@ -45,7 +45,7 @@ Adobe Experience Manager</strong></a>
 
 ## Find the best assets faster with Adobe Stock (10:19) {#tutorial1}
 
-![Video Hero Placeholder Image](../assets/table_placeholder.png)
+>[!VIDEO](https://video.tv.adobe.com/v/326951?hidetitle=true)
 
 **Description**
 Find the perfect royalty-free stock image to enhance your creative project using better, faster search results powered by Adobe Sensei, our artificial intelligence engine.
@@ -59,7 +59,7 @@ In this tutorial, you will learn how to:
 
 ## Search and License Stock Assets in Adobe Experience Manager {#tutorial2}
 
-![Video Hero Placeholder Image](../assets/table_placeholder.png)
+>[!VIDEO](https://video.tv.adobe.com/v/326952?hidetitle=true)
 
 **Description**
 Insert description here

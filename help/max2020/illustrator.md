@@ -73,7 +73,7 @@ Patti Sokol, Principal Solution Consultant (Digital Media)
 
 ## Create a Seamless Pattern {#tutorial3}
 
->[!VIDEO](https://video.tv.adobe.com/v/326817?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/326948?hidetitle=true)
 
 **Description**
 Transform a group of elements into a repeating pattern

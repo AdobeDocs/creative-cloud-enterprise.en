@@ -15,7 +15,7 @@ Adobe XD is a user experience design and prototyping tool for designing websit
 <tr>
  <td>
    <a href="xd.md#tutorial1">
-      <img alt="Create Components with Hover States" src="../assets//table_placeholder.png" />
+      <img alt="Create Components with Hover States" src="../assets/table_placeholder.png" />
    </a>
     <div>
    <a href="xd.md#tutorial1"><strong>Create Components with Hover States</strong></a>
@@ -47,7 +47,7 @@ Adobe XD is a user experience design and prototyping tool for designing websit
 <tr>
  <td>
    <a href="xd.md#tutorial4">
-      <img alt="Insert Title" src="../assets//table_placeholder.png" />
+      <img alt="Insert Title" src="../assets/table_placeholder.png" />
    </a>
     <div>
    <a href="xd.md#tutorial4"><strong>Insert Title</strong></a>
@@ -83,7 +83,7 @@ States and Overlays</strong></a>
 <tr>
  <td>
    <a href="xd.md#tutorial7">
-      <img alt="Email - Create and Populate a Repeat Grid" src="../assets//table_placeholder.png" />
+      <img alt="Email - Create and Populate a Repeat Grid" src="../assets/table_placeholder.png" />
    </a>
     <div>
    <a href="xd.md#tutorial7"><strong>Email - Create and Populate a Repeat Grid</strong></a>

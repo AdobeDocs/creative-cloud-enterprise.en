@@ -15,17 +15,24 @@ Creatives  are  under  pressure  to  quickly  deliver  new, visually compelling 
 <tr>
  <td>
    <a href="stock.md#tutorial1">
-      <img alt="Add title" src="../assets//table_placeholder.png" />
+      <img alt="Find the best assets faster with Adobe Stock" src="../assets/stock_torres_thumbnail.jpg" />
    </a>
     <div>
-   <a href="stock.md#tutorial1"><strong>Add description</strong></a>
+   <a href="stock.md#tutorial1"><strong>Find the best assets faster with Adobe Stock</strong></a>
     </div>
-    <em>Add description</em>
+    <em>Find the perfect royalty-free stock image to enhance your creative project using better, faster search results powered by Adobe Sensei, our artificial intelligence engine</em>
     <br>
   </td>
   <td>
-    <img alt="Spacer" src="../assets/Whitespacer.png" />
+   <a href="stock.md#tutorial2">
+      <img alt="Search and License Stock Assets in 
+Adobe Experience Manager" src="../assets//table_placeholder.png" />
+   </a>
     <div>
+   <a href="stock.md#tutorial1"><strong>Search and License Stock Assets in 
+Adobe Experience Manager</strong></a>
+    </div>
+    <em>Insert description here</em>
     <br>
   </td>
   <td>
@@ -36,13 +43,26 @@ Creatives  are  under  pressure  to  quickly  deliver  new, visually compelling 
 </tr>
 </table>
 
-## Add description {#tutorial1}
+## Find the best assets faster with Adobe Stock (10:19) {#tutorial1}
 
-![Video Hero Placeholder Image](../assets/table_placeholder.png))
+![Video Hero Placeholder Image](../assets/table_placeholder.png)
 
 **Description**
+Find the perfect royalty-free stock image to enhance your creative project using better, faster search results powered by Adobe Sensei, our artificial intelligence engine.
 
-Add description
+In this tutorial, you will learn how to:
+*
+*
+*
+
+**Presented by:**
+
+## Search and License Stock Assets in Adobe Experience Manager {#tutorial2}
+
+![Video Hero Placeholder Image](../assets/table_placeholder.png)
+
+**Description**
+Insert description here
 
 In this tutorial, you will learn how to:
 *

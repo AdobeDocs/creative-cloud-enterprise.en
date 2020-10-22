@@ -163,7 +163,7 @@ In this tutorial, you will learn how to:
 **Presented by:**
 Emily Palmer, Solutions Consultant (Digital Media)
 
-## Import PDF Comments from a Document Cloud Review {#tutorial5}
+## Import PDF Comments from a Document Cloud Review (4:52) {#tutorial5}
 
 ![Video Hero Placeholder Image](../assets/table_placeholder.png)
 
@@ -193,7 +193,7 @@ In this tutorial, you will learn how InDesign Review:
 Patti Sokol, Principal Solution Consultant (Digital Media)
 Michael Murphy, Senior Solution Consultant (Digital Media)
 
-## Add Video File to InDesign Document {#tutorial7}
+## Add Video File to InDesign Document (5:58) {#tutorial7}
 
 >[!VIDEO](https://video.tv.adobe.com/v/326757?hidetitle=true)
 

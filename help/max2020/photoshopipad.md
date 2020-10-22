@@ -15,12 +15,12 @@ Photoshop is the world’s best imaging and graphic design software, allowing un
 <tr>
  <td>
    <a href="photoshopipad.md#tutorial1">
-      <img alt="Intro to Photoshop on the iPad" src="../assets//table_placeholder.png" />
+      <img alt="Intro to Photoshop on the iPad" src="../assets/PSoniPad.jpg" />
    </a>
     <div>
    <a href="photoshopipad.md#tutorial1"><strong>Intro to Photoshop on the iPad</strong></a>
     </div>
-    <em>Insert description</em>
+    <em>Take an interface tour and learn a few features found in Photoshop reimagined for use on the Apple iPad</em>
     <br>
   </td>
   <td>
@@ -36,19 +36,18 @@ Photoshop is the world’s best imaging and graphic design software, allowing un
 </tr>
 </table>
 
-## Intro to Photoshop on the iPad {#tutorial1}
+## Intro to Photoshop on the iPad (5:14) {#tutorial1}
 
-![Video Hero Placeholder Image](../assets/table_placeholder.png)
+>[!VIDEO](https://video.tv.adobe.com/v/326899?hidetitle=true)
 
 **Description**
-
-Insert description
+Take an interface tour and learn a few features found in Photoshop reimagined for use on the Apple iPad. 
 
 In this tutorial, you will learn how to:
-* 
-* 
-* 
+* Access your favorite Photoshop tools on the 
+* Precise editing on mobile without sacrificing quality
+* More immersive and natural experience
+* Seamless workflow with Cloud Docs
 
 **Presented by:**
-
-A.J. Wood, Solution Consultant (Digital Media)
+Dan Armstrong, Solutions Consultant (Digital Media)s

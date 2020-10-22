@@ -15,7 +15,7 @@ Insert product description
 <tr>
  <td>
    <a href="dimension.md#tutorial1">
-      <img alt="Apply Substance Materials to 3D Models" src="../assets/table_placeholder.png" />
+      <img alt="Apply Substance Materials to 3D Models" src="../assets/dimension_substanceAndGraphics_babbage_thumbnail.jpg" />
    </a>
     <div>
    <a href="dimension.md#tutorial1"><strong>Apply Substance Materials to 3D Models</strong></a>
@@ -25,7 +25,7 @@ Insert product description
   </td>
   <td>
     <a href="dimension.md#tutorial2">
-        <img alt="Place Graphics and Patterns  on 3D Model" src="../assets/dimension_substanceAndGraphics_babbage_thumbnail.jpg" />
+        <img alt="Place Graphics and Patterns  on 3D Model" src="../assets/table_placeholder.png" />
     </a>
     <div>
     <a href="dimension.md#tutorial2"><strong>Place Graphics and Patterns on 3D Model</strong></a>

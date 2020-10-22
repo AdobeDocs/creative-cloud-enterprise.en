@@ -28,7 +28,7 @@ Insert product description
         <img alt="Place Graphics and Patterns  on 3D Model" src="../assets/table_placeholder.png" />
     </a>
     <div>
-    <a href="dimension.md#tutorial2"><strong>Place Graphics and Patterns  on 3D Model</strong></a>
+    <a href="dimension.md#tutorial2"><strong>Place Graphics and Patterns on 3D Model</strong></a>
     </div>
     <em>Import a linked graphic from Illustrator and position it on your 3D model</em>
     <br>
@@ -50,14 +50,12 @@ Insert product description
 ![Video Hero Placeholder Image](../assets/table_placeholder.png)
 
 **Description**
-
 Substance materials support thousands of variations of pattern and design in a single material.
 
 In this tutorial, you will learn how to:
 * Create engaging content in 3D faster, with high-quality models, materials, and lighting
 
 **Presented by:**
-
 Jim Babbage, Senior Solution Consultant (Digital Media)
 
 ## Place Graphics and Patterns on 3D Model {#tutorial2}
@@ -65,7 +63,6 @@ Jim Babbage, Senior Solution Consultant (Digital Media)
 ![Video Hero Placeholder Image](../assets/table_placeholder.png)
 
 **Description**
-
 Import a linked graphic from Illustrator and position it on your 3D model. 
 
 In this tutorial, you will learn how to:
@@ -75,7 +72,6 @@ In this tutorial, you will learn how to:
 * Feature 4
 
 **Presented by:**
-
 Dave Weinberg, Senior Solution Consultant (Digital Media)
 
 ## Tutorial 3 {#tutorial3}
@@ -83,7 +79,6 @@ Dave Weinberg, Senior Solution Consultant (Digital Media)
 ![Video Hero Placeholder Image](../assets/table_placeholder.png)
 
 **Description**
-
 Insert tutorial description here
 
 In this tutorial, you will learn how to:
@@ -93,5 +88,4 @@ In this tutorial, you will learn how to:
 * Feature 4
 
 **Presented by:**
-
 Insert presenter name

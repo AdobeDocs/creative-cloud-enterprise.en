@@ -26,7 +26,7 @@ Creatives  are  under  pressure  to  quickly  deliver  new, visually compelling 
   <td>
    <a href="stock.md#tutorial2">
       <img alt="Search and License Stock Assets in 
-Adobe Experience Manager" src="../assets/stock_aemintegration_palmer_thimbnail.jpg" />
+Adobe Experience Manager" src="../assets/stock_aemintegration_palmer_thumbnail.jpg" />
    </a>
     <div>
    <a href="stock.md#tutorial2"><strong>Search and License Stock Assets in 

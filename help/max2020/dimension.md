@@ -36,7 +36,7 @@ Create engaging content in 3D faster with high-quality models, materials, and li
 </tr>
 </table>
 
-## Apply Substance Materials to 3D Models {#tutorial1}
+## Apply Substance Materials to 3D Models (11:42) {#tutorial1}
 
 >[!VIDEO](https://video.tv.adobe.com/v/326944?hidetitle=true)
 

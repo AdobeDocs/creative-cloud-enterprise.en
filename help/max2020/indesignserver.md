@@ -18,7 +18,7 @@ Adobe Adobe® InDesign® Server  software delivers a robust and scalable engine 
       <img alt="Data-Driven InDesign Server Content" src="../assets/table_placeholder.png" />
    </a>
     <div>
-   <a href="indesignserver.md#tutorial1"><strong>Data Driven InDesign Server Content</strong></a>
+   <a href="indesignserver.md#tutorial1"><strong>Data-Driven InDesign Server Content</strong></a>
     </div>
     <em>Data-driven design can be achieved, programatically, with InDesign Server</em>
     <br>

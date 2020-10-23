@@ -46,7 +46,7 @@ Photoshop is the world’s best imaging and graphic design software, allowing un
 </tr>
 </table>
 
-## Edit Images to Match your Campaign {#tutorial1}
+## Edit Images to Match your Campaign (5:45) {#tutorial1}
 
 >[!VIDEO](https://video.tv.adobe.com/v/326950?hidetitle=true)
 
@@ -62,7 +62,7 @@ In this tutorial, you will learn how to:
 **Presented by:**
 Emilie Enke, Associate Solution Consultant (Digital Media)
 
-## Select and Replace the Sky {#tutorial2}
+## Select and Replace the Sky (2:16) {#tutorial2}
 
 >[!VIDEO](https://video.tv.adobe.com/v/326953?hidetitle=true)
 

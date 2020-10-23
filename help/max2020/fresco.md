@@ -15,7 +15,7 @@ Adobe Fresco is a cross-platform app for creating drawings and paintings using b
 <tr>
  <td>
    <a href="fresco.md#tutorial1">
-      <img alt="Intro to Drawing with Adobe Fresco" src="../assets/table_placeholder.png" />
+      <img alt="Intro to Drawing with Adobe Fresco" src="../assets/fresco_drawingPaintingIntro_tanonis_thumbnail.jpg" />
    </a>
     <div>
    <a href="fresco.md#tutorial1"><strong>Intro to Drawing with Adobe Fresco</strong></a>
@@ -25,7 +25,7 @@ Adobe Fresco is a cross-platform app for creating drawings and paintings using b
   </td>
   <td>
    <a href="fresco.md#tutorial2">
-      <img alt="Create Textured Artwork—Fresco to Illustrator" src="../assets/table_placeholder.png" />
+      <img alt="Create Textured Artwork—Fresco to Illustrator" src="../assets/fresco_textureToVector_tanonis_thumbnail.jpg" />
    </a>
     <div>
    <a href="fresco.md#tutorial2"><strong>Create Textured Artwork—Fresco to Illustrator</strong></a>
@@ -41,7 +41,7 @@ Adobe Fresco is a cross-platform app for creating drawings and paintings using b
 </tr>
 </table>
 
-## Intro to Drawing with Adobe Fresco {#tutorial1}
+## Intro to Drawing with Adobe Fresco (19:07) {#tutorial1}
 
 >[!VIDEO](https://video.tv.adobe.com/v/326946?hidetitle=true)
 
@@ -56,7 +56,7 @@ In this tutorial, you will learn how to:
 **Presented by:**
 Liz Tanonis, Solution Consultant (Digital Media)
 
-## Create Textured Artwork—Fresco to Illustrator {#tutorial2}
+## Create Textured Artwork—Fresco to Illustrator (4:10) {#tutorial2}
 
 >[!VIDEO](https://video.tv.adobe.com/v/326947?hidetitle=true)
 

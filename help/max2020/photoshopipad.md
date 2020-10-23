@@ -15,7 +15,7 @@ Photoshop is the world’s best imaging and graphic design software, allowing un
 <tr>
  <td>
    <a href="photoshopipad.md#tutorial1">
-      <img alt="Intro to Photoshop on the iPad" src="../assets/table_placeholder.png" />
+      <img alt="Intro to Photoshop on the iPad" src="../assets/PSiPad_thumbnail.jpg" />
    </a>
     <div>
    <a href="photoshopipad.md#tutorial1"><strong>Intro to Photoshop on the iPad</strong></a>

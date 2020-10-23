@@ -15,7 +15,7 @@ Adobe XD is a user experience design and prototyping tool for designing websit
 <tr>
  <td>
    <a href="xd.md#tutorial1">
-      <img alt="Create Components with Hover States" src="../assets/table_placeholder.png" />
+      <img alt="Create Components with Hover States" src="../assets/Whitespacer.png" />
    </a>
     <div>
    <a href="xd.md#tutorial1"><strong>Create Components with Hover States</strong></a>
@@ -25,7 +25,7 @@ Adobe XD is a user experience design and prototyping tool for designing websit
   </td>
   <td>
     <a href="xd.md#tutorial2">
-        <img alt="Create and Populate a Repeat Grid" src="../assets/table_placeholder.png" />
+        <img alt="Create and Populate a Repeat Grid" src="../assets/Whitespacer.png" />
     </a>
     <div>
     <a href="xd.md#tutorial2"><strong>Create and Populate a Repeat Grid</strong></a>
@@ -35,7 +35,7 @@ Adobe XD is a user experience design and prototyping tool for designing websit
   </td>
   <td>
    <a href="xd.md#tutorial3">
-      <img alt="Work with Stacks" src="../assets/table_placeholder.png" />
+      <img alt="Work with Stacks" src="../assets/Whitespacer.png" />
    </a>
     <div>
     <a href="xd.md#tutorial3"><strong>Work with Stacks</strong></a>
@@ -48,7 +48,7 @@ Adobe XD is a user experience design and prototyping tool for designing websit
  <td>
     <a href="xd.md#tutorial4">
         <img alt="Create a Prototype—Anchor Links and 
-Scroll Groups" src="../assets/table_placeholder.png" />
+Scroll Groups" src="../assets/Whitespacer.png" />
     </a>
     <div>
     <a href="xd.md#tutorial4"><strong>Create a Prototype—Anchor Links and 
@@ -90,7 +90,6 @@ Scroll Groups</strong></a>
     <br>
   </td>
   <td>
-   <td>
     <img alt="Spacer" src="../assets/Whitespacer.png" />
     <div>
     <br>

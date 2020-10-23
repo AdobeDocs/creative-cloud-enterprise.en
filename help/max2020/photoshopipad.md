@@ -50,4 +50,4 @@ In this tutorial, you will learn how to:
 * Seamless workflow with Cloud Docs
 
 **Presented by:**
-Dan Armstrong, Solutions Consultant (Digital Media)s
+Dan Armstrong, Solutions Consultant (Digital Media)

@@ -47,27 +47,21 @@ Cloud Review</strong></a>
   </td>
 </tr>
 <tr>
- <td>
-    <a href="indesign.md#tutorial4">
-        <img alt="Compare InDesign and PDF Shared Review 
-Services" src="../assets/table_placeholder.png" />
-    </a>
-    <div>
-    <a href="indesign.md#tutorial4"><strong>Compare InDesign and PDF Shared Review 
-Services</strong></a>
-    </div>
-    <em>Compare InDesign and PDF Shared Reviews and when to use each</em>
-  </td>
- <td>
-   <a href="indesign.md#tutorial5">
+<td>
+   <a href="indesign.md#tutorial4">
       <img alt="Add Video File to InDesign Document" src="../assets/indesign_video_sokol_thumbnail.jpg" />
    </a>
     <div>
-   <a href="indesign.md#tutorial5"><strong>Add Video File to InDesign Document</strong></a>
+   <a href="indesign.md#tutorial4"><strong>Add Video File to InDesign Document</strong></a>
     </div>
     <em>Add video to InDesign. Output to PDF and publish online</em>
     <br>
   </td>
+ <td>
+    <img alt="Spacer" src="../assets/Whitespacer.png" />
+    <div>
+    <br>
+ </td>
  <td>
     <img alt="Spacer" src="../assets/Whitespacer.png" />
     <div>
@@ -119,23 +113,7 @@ In this tutorial, you will learn how to:
 **Presented by:**
 Michael Murphy, Senior Solution Consultant (Digital Media)
 
-## Compare InDesign and PDF Shared Review Services {#tutorial4}
-
->[!VIDEO](https://video.tv.adobe.com/v/326949?hidetitle=true)
-
-**Description**
-Compare InDesign and PDF Shared Reviews and when to use each. 
-
-In this tutorial, you will learn how InDesign Review:
-* Supports existing PDF commenting workflows
-* Works for PDFs combined from multiple sources
-* Compare InDesign and PDF Shared Reviews and when to use each
-
-**Presented by:**
-Patti Sokol, Principal Solution Consultant (Digital Media)
-Michael Murphy, Senior Solution Consultant (Digital Media)
-
-## Add Video File to InDesign Document (5:58) {#tutorial5}
+## Add Video File to InDesign Document (5:58) {#tutorial4}
 
 >[!VIDEO](https://video.tv.adobe.com/v/326757?hidetitle=true)
 

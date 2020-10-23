@@ -8,7 +8,7 @@ tutorials-title: Tutorials
 tutorials-url: https://helpx.adobe.com/creative-cloud/tutorials-explore.html
 mini-toc-levels: 2
 git-repo: https://github.com/AdobeDocs/creative-cloud-enterprise.en
-index: no
+index: yes
 ---
 
 # Metadata for internal use

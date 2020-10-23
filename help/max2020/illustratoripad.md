@@ -7,7 +7,7 @@ description: A listing of Illustrator on iPad tutorials.
 
 ![Tutorial Hero Image](../assets/AIoniPad.jpg)
 
-Adobe Illustrator on the iPad is a vector design experience reimagined for touch, the Apple Pencil, and iPad
+Adobe Illustrator on the iPad is a vector design experience reimagined for touch, the Apple Pencil, and iPad.
 
 ## Browse Product Tutorials
 

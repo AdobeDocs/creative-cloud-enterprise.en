@@ -24,12 +24,12 @@ Welcome to the Creative Cloud for enterprise Learning Hub. You'll find a wide ra
     <br>
   </td>
   <td>
-    <img alt="Spacer" src="../assets/WhiteBanner_Placeholder.png" />
+    <img alt="Spacer" src="../assets/WhiteBanner_Spacer.png" />
     <div>
     <br>
   </td>
   <td>
-    <img alt="Spacer" src="../assets/WhiteBanner_Placeholder.png" />
+    <img alt="Spacer" src="../assets/WhiteBanner_Spacer.png" />
     <div>
     <br>
   </td>

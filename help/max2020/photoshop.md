@@ -35,7 +35,7 @@ Photoshop is the world’s best imaging and graphic design software, allowing un
   </td>
   <td>
     <a href="photoshop.md#tutorial3">
-      <img alt="Publish your Design to a Zazzle Face Mask" src="../assets/table_placeholder.png" />
+      <img alt="Publish your Design to a Zazzle Face Mask" src="../assets/Whitespacer.png" />
    </a>
     <div>
    <a href="photoshop.md#tutorial3"><strong>Publish your Design to a Zazzle Face Mask</strong></a>

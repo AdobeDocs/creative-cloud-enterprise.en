@@ -35,7 +35,7 @@ The modern app for illustrations and graphics. Create logos, icons, illustration
   </td>
   <td>
     <a href="illustrator.md#tutorial3">
-        <img alt="Create a Seamless Pattern" src="../assets/table_placeholder.png" />
+        <img alt="Create a Seamless Pattern" src="../assets/Whitespacer.png" />
     </a>
     <div>
     <a href="illustrator.md#tutorial3"><strong>Create a Seamless Pattern</strong></a>

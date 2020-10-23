@@ -60,7 +60,7 @@ In this tutorial, you will learn how to:
 * Feature 4
 
 **Presented by:**
-Emilie Enke, Associate Solution Consultant (Digital Media)
+A.J Wood, Senior Solution Consultant (Digital Media)
 
 ## Select and Replace the Sky (2:16) {#tutorial2}
 
@@ -76,7 +76,7 @@ In this tutorial, you will learn how to:
 * Feature 4
 
 **Presented by:**
-Emilie Enke, Associate Solution Consultant (Digital Media)
+A.J Wood, Senior Solution Consultant (Digital Media)
 
 ## Publish your Design to a Zazzle Face Mask {#tutorial3}
 

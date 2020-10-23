@@ -46,25 +46,25 @@ Adobe XD is a user experience design and prototyping tool for designing websit
 </tr>
 <tr>
  <td>
-   <a href="xd.md#tutorial4">
-      <img alt="Insert Title" src="../assets/table_placeholder.png" />
-   </a>
-    <div>
-   <a href="xd.md#tutorial4"><strong>Insert Title</strong></a>
-    </div>
-    <em>Insert description</em>
-    <br>
-  </td>
-  <td>
-    <a href="xd.md#tutorial5">
+    <a href="xd.md#tutorial4">
         <img alt="Create a Prototype—Anchor Links and 
 Scroll Groups" src="../assets/table_placeholder.png" />
     </a>
     <div>
-    <a href="xd.md#tutorial5"><strong>Create a Prototype—Anchor Links and 
+    <a href="xd.md#tutorial4"><strong>Create a Prototype—Anchor Links and 
 Scroll Groups</strong></a>
     </div>
     <em>Add navigation and scrolling to a prototype</em>
+    <br>
+  </td>
+  <td>
+    <a href="xd.md#tutorial5">
+        <img alt="Create a Prototype—Interactive Component States and Overlays" src="../assets/table_placeholder.png" />
+    </a>
+    <div>
+    <a href="xd.md#tutorial5"><strong>Create a Prototype—Interactive Component States and Overlays</strong></a>
+    </div>
+    <em>Add interactivity and an overlay menu to a prototype</em>
     <br>
   </td>
   <td>
@@ -152,17 +152,22 @@ In this tutorial, you will learn how to:
 **Presented by:**
 Michael Murphy, Senior Solution Consultant (Digital Media)
 
-## Tutorial 4 {#tutorial4}
+## Create a Prototype—Anchor Links and Scroll Groups {#tutorial4}
 
 ![Video Hero Placeholder Image](../assets/table_placeholder.png)
 
 **Description**
-Insert description
+Add navigation and scrolling to a prototype.
+
+In this tutorial, you will learn how to:
+* Add links to your prototypes with an action that lets users jump to different points on the same artboard  
+* Create activity feeds, image carousels, product listings, and more by defining areas that scroll independently from the rest of your designs
+* Create groups that scroll vertically, horizontally, or both
 
 **Presented by:** 
-Insert presenter
+Michael Murphy, Senior Solution Consultant (Digital Media)
 
-## Create a Prototype—Anchor Links and Scroll Groups {#tutorial5}
+## Create a Prototype—Interactive Component States and Overlays {#tutorial5}
 
 >[!VIDEO](https://video.tv.adobe.com/v/326957?hidetitle=true)
 

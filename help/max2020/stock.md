@@ -57,7 +57,7 @@ In this tutorial, you will learn how to:
 
 **Presented by:**
 
-## Search and License Stock Assets in Adobe Experience Manager {#tutorial2}
+## Search and License Stock Assets in Adobe Experience Manager (6:46) {#tutorial2}
 
 >[!VIDEO](https://video.tv.adobe.com/v/326952?hidetitle=true)
 

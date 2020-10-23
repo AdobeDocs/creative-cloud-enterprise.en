@@ -90,12 +90,12 @@ As an enterprise creative, you need to collaborate with distributed teams, estab
     <br>
   </td>
   <td>
-    <img alt="Spacer" src="../assets/Whitespacer.png" />
+    <img alt="Spacer" src="../assets/WhiteBanner_Spacer.png" />
     <div>
     <br>
   </td>
   <td>
-    <img alt="Spacer" src="../assets/Whitespacer.png" />
+    <img alt="Spacer" src="../assets/WhiteBanner_Spacer.png" />
     <div>
     <br>
   </td>
@@ -149,12 +149,12 @@ As an enterprise creative, you need to collaborate with distributed teams, estab
     <br>
   </td>
   <td>
-    <img alt="Spacer" src="../assets/Whitespacer.png" />
+    <img alt="Spacer" src="../assets/GrayBanner_Spacer.png" />
     <div>
     <br>
   </td>
   <td>
-    <img alt="Spacer" src="../assets/Whitespacer.png" />
+    <img alt="Spacer" src="../assets/GrayBanner_Spacer.png" />
     <div>
     <br>
   </td>
@@ -208,12 +208,12 @@ As an enterprise creative, you need to collaborate with distributed teams, estab
     <br>
   </td>
   <td>
-    <img alt="Spacer" src="../assets/Whitespacer.png" />
+    <img alt="Spacer" src="../assets/GrayBanner_Spacer.png" />
     <div>
     <br>
   </td>
   <td>
-    <img alt="Spacer" src="../assets/Whitespacer.png" />
+    <img alt="Spacer" src="../assets/GrayBanner_Spacer.png" />
     <div>
     <br>
   </td>

@@ -91,10 +91,10 @@ Patti Sokol, Principal Solution Consultant (Digital Media)
 InDesign Share for Review provides an even more seamless creative review experience for designers and their team members.
 
 In this tutorial, you will learn how to:
-* Feature 1
-* Feature 2
-* Feature 3
-* Feature 4
+* Initiate a review directly from InDesign without having to create a PDF
+* Review and comment from a web browser 
+* Gather feedback from multiple stakeholders in one place 
+* Manage feedback in-app where changes can be made immediately.
 
 **Presented by:**
 Emily Palmer, Solutions Consultant (Digital Media)

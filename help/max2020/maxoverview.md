@@ -172,7 +172,7 @@ As an enterprise creative, you need to collaborate with distributed teams, estab
     <div>
     <a href="aem.md"><strong>AEM Assets & Asset Link</strong></a>
     </div>
-    <em>Insert product description copy here</em>
+    <em>Next generation digital asset management</em>
     <br>
   </td>
   <td>
@@ -192,7 +192,7 @@ As an enterprise creative, you need to collaborate with distributed teams, estab
     <div>
     <a href="indesignserver.md"><strong>InDesign Server</strong></a>
     </div>
-    <em>Insert product description copy here</em>
+    <em>The sophisticated tools of InDesign paired with customized automation</em>
     <br>
   </td>
 </tr>
@@ -204,7 +204,7 @@ As an enterprise creative, you need to collaborate with distributed teams, estab
     <div>
     <a href="stock.md"><strong>Adobe Stock</strong></a>
     </div>
-    <em>Insert product description copy here</em>
+    <em>High-quality digital images, illustrations, videos, audio, templates and more</em>
     <br>
   </td>
   <td>

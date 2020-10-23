@@ -48,7 +48,7 @@ Adobe XD is a user experience design and prototyping tool for designing websit
  <td>
     <a href="xd.md#tutorial4">
         <img alt="Create a Prototype—Anchor Links and 
-Scroll Groups" src="../assets/Whitespacer.png" />
+Scroll Groups" src="../assets/Gray_thumbnail.png" />
     </a>
     <div>
     <a href="xd.md#tutorial4"><strong>Create a Prototype—Anchor Links and 
@@ -59,7 +59,7 @@ Scroll Groups</strong></a>
   </td>
   <td>
     <a href="xd.md#tutorial5">
-        <img alt="Create a Prototype—Interactive Component States and Overlays" src="../assets/table_placeholder.png" />
+        <img alt="Create a Prototype—Interactive Component States and Overlays" src="../assets/Gray_thumbnail.png" />
     </a>
     <div>
     <a href="xd.md#tutorial5"><strong>Create a Prototype—Interactive Component States and Overlays</strong></a>

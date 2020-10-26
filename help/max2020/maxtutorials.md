@@ -174,6 +174,16 @@ As an enterprise creative, you need to collaborate with distributed teams, estab
     <br>
   </td>
   <td>
+    <a href="handsonproject.md">
+      <img alt="Hands-on Project" src="../assets/DN_faceMaskShare_sokol_thumbnail.jpg" />
+    </a>
+    <div>
+    <a href="handsonproject.md"><strong>Hands-on Project</strong></a>
+    </div>
+    <em>Customize your own Zazzle face mask</em>
+    <br>
+  </td>
+  <td>
     <a href="cclibraries.md">
       <img alt="CC Libraries" src="../assets/CCLibs.jpg" />
     </a>
@@ -183,7 +193,9 @@ As an enterprise creative, you need to collaborate with distributed teams, estab
     <em>Keep your assets on hand and your projects on brand</em>
     <br>
   </td>
-  <td>
+</tr>
+<tr>
+<td>
     <a href="indesignserver.md">
       <img alt="InDesign Server" src="../assets/InDesignServer.jpg" />
     </a>
@@ -193,8 +205,6 @@ As an enterprise creative, you need to collaborate with distributed teams, estab
     <em>The sophisticated tools of InDesign paired with customized automation</em>
     <br>
   </td>
-</tr>
-<tr>
  <td>
     <a href="stock.md">
       <img alt="Adobe Stock" src="../assets/Stock.jpg" />
@@ -210,15 +220,10 @@ As an enterprise creative, you need to collaborate with distributed teams, estab
     <div>
     <br>
   </td>
-  <td>
-    <img alt="Spacer" src="../assets/GrayBanner_Spacer.png" />
-    <div>
-    <br>
-  </td>
 </tr>
 </table>
 
-### Hands-on Project: Customize a Face Mask
+### Hands-on Project: Create your own Face Mask
 
 <table>
 <tr>

@@ -217,3 +217,30 @@ As an enterprise creative, you need to collaborate with distributed teams, estab
   </td>
 </tr>
 </table>
+
+### Hands-on Project: Customize a Face Mask
+
+<table>
+<tr>
+ <td>
+    <a href="handsonproject.md">
+      <img alt="Create your own Face Mask" src="../assets/AEM.jpg" />
+    </a>
+    <div>
+    <a href="handsonproject.md"><strong>Create your own Face Mask</strong></a>
+    </div>
+    <em>With the Adobe Design to Print plug-in, you can visualize your designs on hundreds of Zazzle products, and publish directly to their online marketplace</em>
+    <br>
+  </td>
+  <td>
+    <img alt="Spacer" src="../assets/Whitespacer.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+    <img alt="Spacer" src="../assets/Whitespacer.png" />
+    <div>
+    <br>
+  </td>
+</tr>
+</table>

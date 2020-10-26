@@ -32,3 +32,5 @@ product: creative-cloud
       + [CC Libraries](max2020/cclibraries.md)
       + [InDesign Server](max2020/indesignserver.md)
       + [Stock](max2020/stock.md)
+    + Hands-on Project {#project}
+      + [Create your own Face Mask](handsonproject.md)

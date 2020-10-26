@@ -33,4 +33,4 @@ product: creative-cloud
       + [InDesign Server](max2020/indesignserver.md)
       + [Stock](max2020/stock.md)
     + Hands-on Project {#project}
-      + [Create your own Face Mask](handsonproject.md)
+      + [Create your own Face Mask](max2020/handsonproject.md)

@@ -29,6 +29,7 @@ product: creative-cloud
       + [Photoshop on iPad](max2020/photoshopipad.md)
     + Integrations {#integrations}
       + [AEM](max2020/aem.md)
+      + [Creative Cloud Desktop App](max2020/creativeclouddesktopapp.md)
       + [CC Libraries](max2020/cclibraries.md)
       + [InDesign Server](max2020/indesignserver.md)
       + [Stock](max2020/stock.md)

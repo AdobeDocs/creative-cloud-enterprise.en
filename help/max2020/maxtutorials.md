@@ -3,9 +3,9 @@ title: MAX 2020 Tutorials
 description: These tutorials will help you learn new features in the 2021 release of Creative Cloud—from an enterprise perspective. 
 ---
 
-![Max 2020 Hero Image](../assets/MAX.jpg)
-
 # Tutorials
+
+![Max 2020 Hero Image](../assets/MAX.jpg)
 
 As an enterprise creative, you need to collaborate with distributed teams, establish scalable processes, and comply with corporate systems and guidelines. These tutorials will help you learn new features in the 2021 release of Creative Cloud—from an enterprise perspective. 
 

@@ -47,7 +47,7 @@ With Adobe Document Cloud — which includes the world’s leading PDF and elect
 <tr>
  <td>
    <a href="acrobat-sign.md#tutorial4">
-      <img alt="View Menus on Mobile with Liquid Mode" src="../assets/Gray_thumbnail.jpg" />
+      <img alt="View Menus on Mobile with Liquid Mode" src="../assets/Gray_thumbnail.png" />
    </a>
     <div>
    <a href="acrobat-sign.md#tutorial4"><strong>View Menus on Mobile with Liquid Mode</strong></a>
@@ -57,7 +57,7 @@ With Adobe Document Cloud — which includes the world’s leading PDF and elect
   </td>
   <td>
     <a href="acrobat-sign.md#tutorial5">
-        <img alt="Scan Documents to PDFs from your Mobile Phone" src="../assets/Gray_thumbnail.jpg" />
+        <img alt="Scan Documents to PDFs from your Mobile Phone" src="../assets/Gray_thumbnail.png" />
     </a>
     <div>
     <a href="acrobat-sign.md#tutorial5"><strong>Scan Documents to PDFs from your Mobile Phone</strong></a>

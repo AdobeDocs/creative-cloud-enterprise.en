@@ -66,7 +66,7 @@ With Adobe Document Cloud — which includes the world’s leading PDF and elect
     <br>
   </td>
   <td>
-    <img alt="Spacer" src="../assets/Gray_thumbnail.png" />
+    <img alt="Spacer" src="../assets/Whitespacer.png" />
     <div>
     <br>
   </td>
@@ -149,7 +149,9 @@ In this tutorial, you will learn how to:
 Emilie Enke, Associate Solutions Consultant (Digital Media)
 
 ![Max 2020 Hero Image](../assets/Doc-Cloud-256.png)
+
 **Acrobat & Adobe Sign Resources**
 [Learn & Support](https://helpx.adobe.com/support/document-cloud.html) is your hub for additional tutorials, What’s New, and links to community forums.
+
 **October 2020 Release**
 Start using these features (and more!) by downloading the latest update from your Creative Cloud Desktop App.

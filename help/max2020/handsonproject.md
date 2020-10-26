@@ -3,7 +3,7 @@ title: Hands-on Project–Customize a Face Mask
 description: Hands-on project to customize a face mask
 ---
 
-# Hands-on Project–Customize a Face Mask
+# Create your own Face Mask
 
 ![Tutorial Hero Image](../assets/table_placeholder.png)
 

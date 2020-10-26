@@ -44,6 +44,33 @@ With Adobe Document Cloud — which includes the world’s leading PDF and elect
     <br>
   </td>
 </tr>
+<tr>
+ <td>
+   <a href="acrobat-sign.md#tutorial4">
+      <img alt="View Menus on Mobile with Liquid Mode" src="../assets/Gray_thumbnail.jpg" />
+   </a>
+    <div>
+   <a href="acrobat-sign.md#tutorial4"><strong>View Menus on Mobile with Liquid Mode</strong></a>
+    </div>
+    <em>Use Liquid Mode to enhance the reader experience of PDF on mobile devices</em>
+    <br>
+  </td>
+  <td>
+    <a href="acrobat-sign.md#tutorial5">
+        <img alt="Scan Documents to PDFs from your Mobile Phone" src="../assets/Gray_thumbnail.jpg" />
+    </a>
+    <div>
+    <a href="acrobat-sign.md#tutorial5"><strong>Scan Documents to PDFs from your Mobile Phone</strong></a>
+    </div>
+    <em>With Adobe Scan, easily capture and convert documents, forms, business cards, and whiteboards into high-quality Adobe PDFs</em>
+    <br>
+  </td>
+  <td>
+    <img alt="Spacer" src="../assets/Gray_thumbnail.png" />
+    <div>
+    <br>
+  </td>
+</tr>
 </table>
 
 ## Initiating an Acrobat Shared Review (3:49) {#tutorial1}
@@ -59,8 +86,8 @@ In this tutorial, you will learn how to:
 * Simultaneous commenting encourages collaboration
 
 **Presented by:** 
-Dan Armstrong, Solution Consultant (Digital Media)
-Rick Borstein, Senior Manager Solution Consulting (Digital Media)
+Dan Armstrong, Solutions Consultant (Digital Media)
+Rick Borstein, Senior Manager Solutions Consulting (Digital Media)
 
 ## Create Online Waiver Forms with Adobe Sign (5:19) {#tutorial2}
 
@@ -75,8 +102,8 @@ In this tutorial, you will learn how to:
 * Completed forms are automatically archived for your records.
 
 **Presented by:**
-Taylor Kobey, Solution Consultant (Digital Media)
-Emily Palmer, Solution Consultant (Digital Media)
+Taylor Kobey, Solutions Consultant (Digital Media)
+Emily Palmer, Solutions Consultant (Digital Media)
 
 ## Request a Signature with Adobe Sign (3:21) {#tutorial3}
 
@@ -89,4 +116,40 @@ In this tutorial, you will learn how to:
 * Leverage the tools you use every day to send digital documents for signature
 
 **Presented by:**
-Rick Borstein, Senior Manager Solution Consulting (Digital Media)
+Rick Borstein, Senior Manager Solutions Consulting (Digital Media)
+
+## View Menus on Mobile with Liquid Mode (2:57) {#tutorial4}
+
+>[!VIDEO](https://video.tv.adobe.com/v/327093?hidetitle=true)
+
+**Description**
+Use Liquid Mode to enhance the reader experience of PDF on mobile devices. 
+
+In this tutorial, you will learn how to:
+* Make PDF files responsive for mobile devices
+* Enhance your PDF layout 
+* Add features on-the-fly to help you easily read documents on your phone and tablet
+
+**Presented by:**
+Emilie Enke, Associate Solutions Consultant (Digital Media)
+
+## Scan Documents to PDFs from your Mobile Phone (5:53) {#tutorial5}
+
+>[!VIDEO](https://video.tv.adobe.com/v/327094?hidetitle=true)
+
+**Description**
+With Adobe Scan, easily capture and convert documents, forms, business cards, and whiteboards into high-quality Adobe PDFs.
+
+In this tutorial, you will learn how to:
+* Use your mobile phone to capture and convert documents, forms, business cards, and whiteboards into high-quality Adobe PDFs
+* Automatically identify and sharpen handwritten or printed text, while removing elements you don’t want, like glare and shadow
+* Open the scanned PDF in Acrobat Reader to make notes and comments and review with your team
+
+**Presented by:**
+Emilie Enke, Associate Solutions Consultant (Digital Media)
+
+![Max 2020 Hero Image](../assets/Doc-Cloud-256.png)
+**Acrobat & Adobe Sign Resources**
+[Learn & Support](https://helpx.adobe.com/support/document-cloud.html) is your hub for additional tutorials, What’s New, and links to community forums.
+**October 2020 Release**
+Start using these features (and more!) by downloading the latest update from your Creative Cloud Desktop App.

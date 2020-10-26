@@ -47,7 +47,7 @@ With Adobe Document Cloud — which includes the world’s leading PDF and elect
 <tr>
  <td>
    <a href="acrobat-sign.md#tutorial4">
-      <img alt="View Menus on Mobile with Liquid Mode" src="../assets/Gray_thumbnail.png" />
+      <img alt="View Menus on Mobile with Liquid Mode" src="../assets/acrobat_liquidmode_enke_thumbnail.jpg" />
    </a>
     <div>
    <a href="acrobat-sign.md#tutorial4"><strong>View Menus on Mobile with Liquid Mode</strong></a>
@@ -57,7 +57,7 @@ With Adobe Document Cloud — which includes the world’s leading PDF and elect
   </td>
   <td>
     <a href="acrobat-sign.md#tutorial5">
-        <img alt="Scan Documents to PDFs from your Mobile Phone" src="../assets/Gray_thumbnail.png" />
+        <img alt="Scan Documents to PDFs from your Mobile Phone" src="../assets/acrobat_scan_enke.jpg" />
     </a>
     <div>
     <a href="acrobat-sign.md#tutorial5"><strong>Scan Documents to PDFs from your Mobile Phone</strong></a>
@@ -149,7 +149,9 @@ In this tutorial, you will learn how to:
 Emilie Enke, Associate Solutions Consultant (Digital Media)
 
 ![Max 2020 Hero Image](../assets/Doc-Cloud-256.png)
+
 **Acrobat & Adobe Sign Resources**
 [Learn & Support](https://helpx.adobe.com/support/document-cloud.html) is your hub for additional tutorials, What’s New, and links to community forums.
+
 **October 2020 Release**
 Start using these features (and more!) by downloading the latest update from your Creative Cloud Desktop App.

@@ -49,4 +49,4 @@ In this tutorial, you will learn how to:
 * Access thousands of Adobe Fonts
 
 **Presented by:**
-Emily Palmer, Solution Consultant (Digital Media)
+Emily Palmer, Solutions Consultant (Digital Media)

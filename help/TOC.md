@@ -13,7 +13,7 @@ product: creative-cloud
 + MAX 2020 {#max2020}
   + [Overview](max2020/maxoverview.md)
   + Tutorials {#tutorials}
-    + [Tutorials](max2020/maxtutorials.md)
+    + [Overview](max2020/maxtutorials.md)
     + Desktop Products {#desktop-products}
       + [Acrobat & Sign](max2020/acrobat-sign.md)
       + [Dimension](max2020/dimension.md)
@@ -29,6 +29,7 @@ product: creative-cloud
       + [Photoshop on iPad](max2020/photoshopipad.md)
     + Integrations {#integrations}
       + [AEM](max2020/aem.md)
+      + [Creative Cloud Desktop App](max2020/creativeclouddesktopapp.md)
       + [CC Libraries](max2020/cclibraries.md)
       + [InDesign Server](max2020/indesignserver.md)
       + [Stock](max2020/stock.md)

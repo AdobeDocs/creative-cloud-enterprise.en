@@ -114,7 +114,7 @@ In this tutorial, you will learn how to:
 * Use components for consistency, time saving, fewer clicks
 
 **Presented by:**
-Michael Murphy, Senior Solution Consultant (Digital Media)
+Michael Murphy, Senior Solutions Consultant (Digital Media)
 
 ## Create and Populate a Repeat Grid (2:57) {#tutorial2}
 
@@ -129,7 +129,7 @@ In this tutorial, you will learn how to:
 * Make changes once and apply it where you like, in any direction
 
 **Presented by:**
-Ashley Dvorin, Senior Solution Consultant (Digital Media)
+Ashley Dvorin, Senior Solutions Consultant (Digital Media)
 
 ## Work with Stacks (5:33) {#tutorial3}
 
@@ -143,11 +143,11 @@ In this tutorial, you will learn how to:
 * Insert new objects or reorder objects in a stack and everything adjusts automatically
 
 **Presented by:**
-Michael Murphy, Senior Solution Consultant (Digital Media)
+Michael Murphy, Senior Solutions Consultant (Digital Media)
 
-## Create a Prototype—Anchor Links and Scroll Groups {#tutorial4}
+## Create a Prototype—Anchor Links and Scroll Groups (9:55) {#tutorial4}
 
-![Video Hero Placeholder Image](../assets/table_placeholder.png)
+>[!VIDEO](https://video.tv.adobe.com/v/326957?hidetitle=true)
 
 **Description**
 Add navigation and scrolling to a prototype.
@@ -158,9 +158,9 @@ In this tutorial, you will learn how to:
 * Create groups that scroll vertically, horizontally, or both
 
 **Presented by:** 
-Michael Murphy, Senior Solution Consultant (Digital Media)
+Michael Murphy, Senior Solutions Consultant (Digital Media)
 
-## Create a Prototype—Interactive Component States and Overlays {#tutorial5}
+## Create a Prototype—Interactive Component States and Overlays (8:55) {#tutorial5}
 
 >[!VIDEO](https://video.tv.adobe.com/v/326957?hidetitle=true)
 
@@ -172,7 +172,7 @@ In this tutorial, you will learn how to:
 * Author multiple prototype or interaction flows in a single XD document and publish unique shareable links for each flow
 
 **Presented by:**
-Michael Murphy, Senior Solution Consultant (Digital Media)
+Michael Murphy, Senior Solutions Consultant (Digital Media)
 
 ## Email - Create and Populate a Repeat Grid (4:45) {#tutorial6}
 
@@ -187,7 +187,7 @@ In this tutorial, you will learn how to:
 * Make changes once and apply it where you like, in any direction
 
 **Presented by:**
-Victoria Torres, Solution Consultant (Digital Media)
+Victoria Torres, Solutions Consultant (Digital Media)
 
 ## Email - Work with Stacks (3:38) {#tutorial7}
 
@@ -201,4 +201,4 @@ In this tutorial, you will learn how to:
 * Insert new objects or reorder objects in a stack and everything adjusts automatically
 
 **Presented by:**
- Victoria Torres, Solution Consultant (Digital Media)
+ Victoria Torres, Solutions Consultant (Digital Media)

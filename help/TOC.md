@@ -12,7 +12,8 @@ product: creative-cloud
 + [Overview](overview.md)
 + MAX 2020 {#max2020}
   + [Overview](max2020/maxoverview.md)
-  + [Tutorials](max2020/maxtutorials.md)
+  + Tutorials {#tutorials}
+    + [Tutorials](max2020/maxtutorials.md)
     + Desktop Products {#desktop-products}
       + [Acrobat & Sign](max2020/acrobat-sign.md)
       + [Dimension](max2020/dimension.md)

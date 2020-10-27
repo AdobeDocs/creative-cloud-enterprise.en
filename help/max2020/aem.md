@@ -25,7 +25,7 @@ Adobe Experience Manager is the industry-leading digital experience management s
   </td>
    <td>
    <a href="aem.md#tutorial2">
-      <img alt="InDesign Files Hosted in AEM" src="../assets/Whitespacer.png" />
+      <img alt="InDesign Files Hosted in AEM" src="../assets/InDesign-Files-Hosten-in-AEM.jpg" />
    </a>
     <div>
    <a href="aem.md#tutorial2"><strong>InDesign Files Hosted in AEM</strong></a>
@@ -54,7 +54,7 @@ In this tutorial, you will learn how to:
 * Check out and check in assets from the DAM into your design program to make real-time updates
 
 **Presented by:**
-Eric Rowse, Senior Solution Consultant (Digital Media)
+Eric Rowse, Senior Solutions Consultant (Digital Media)
 
 ## InDesign Files Hosted in AEM (3:16) {#tutorial2}
 
@@ -69,4 +69,39 @@ In this tutorial, you will learn how to:
 * Document fields are pre-formatted allowing for quick edits or changes to content
 
 **Presented by:**
-Eric Rowse, Senior Solution Consultant (Digital Media)
+Eric Rowse, Senior Solutions Consultant (Digital Media)
+
+<table>
+<tr>
+ <td>
+   <a href="https://www.adobe.com/marketing/experience-manager.html">
+      <img alt="Adobe Experience Manager" src="../assets/AEM_Thumbnail.jpg" />
+   </a>
+    <div>
+   <a href="https://www.adobe.com/marketing/experience-manager.html"><strong>Adobe Experience Manager</strong></a>
+    </div>
+    <em>A powerhouse combo for your content and digital asset management needs</em>
+    <br>
+  </td>
+  <td>
+   <a href="https://www.adobe.com/marketing/experience-manager-assets.html">
+      <img alt="InDesign Server: Find a Partner" src="../assets/AEM_Thumbnail.jpg" />
+   </a>
+    <div>
+   <a href="https://www.adobe.com/marketing/experience-manager-assets.html"><strong>AEM Assets</strong></a>
+    </div>
+    <em>Next generation digital asset management</em>
+    <br>
+  </td>
+  <td>
+   <a href="https://www.adobe.com/marketing/experience-manager-assets/benefits.html">
+      <img alt="InDesign Server: Find a Partner" src="../assets/AEM_Thumbnail.jpg" />
+   </a>
+    <div>
+   <a href="https://www.adobe.com/marketing/experience-manager-assets/benefits.html"><strong>AEM Assets: Benefits</strong></a>
+    </div>
+    <em>Make your digital assets work for you</em>
+    <br>
+  </td>
+</tr>
+</table>

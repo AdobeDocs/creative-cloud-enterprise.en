@@ -34,13 +34,9 @@ The modern app for illustrations and graphics. Create logos, icons, illustration
     <br>
   </td>
   <td>
-    <a href="illustrator.md#tutorial3">
-        <img alt="Create a Seamless Pattern" src="../assets/Whitespacer.png" />
-    </a>
+    <img alt="Spacer" src="../assets/Whitespacer.png" />
     <div>
-    <a href="illustrator.md#tutorial3"><strong>Create a Seamless Pattern</strong></a>
-    </div>
-    <em>Transform a group of elements into a repeating pattern</em>
+    <br>
   </td>
 </tr>
 </table>
@@ -56,7 +52,7 @@ In this tutorial, you will learn how to:
 * Reduce manual work and maintain consistency with symbols
 
 **Presented by:**
-Patti Sokol, Principal Solution Consultant (Digital Media)
+Patti Sokol, Principal Solutions Consultant (Digital Media)
 
 ## Align Text and Images with Glyph Snapping (6:48) {#tutorial2}
 
@@ -69,18 +65,4 @@ In this tutorial, you will learn how to:
 * Quickly snap glyphs to important regions of the document
 
 **Presented by:**
-Patti Sokol, Principal Solution Consultant (Digital Media)
-
-## Create a Seamless Pattern {#tutorial3}
-
->[!VIDEO](https://video.tv.adobe.com/v/326948?hidetitle=true)
-
-**Description**
-Transform a group of elements into a repeating pattern.
-
-In this tutorial, you will learn how to:
-* Transform a group of elements into a repeating pattern
-
-**Presented by:**
-Patti Sokol, Principal Solution Consultant (Digital Media)
-Dave Weinberg, Senior Solution Consultant (Digital Media)
+Patti Sokol, Principal Solutions Consultant (Digital Media)

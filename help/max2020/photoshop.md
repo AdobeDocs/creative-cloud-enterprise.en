@@ -34,13 +34,8 @@ Photoshop is the world’s best imaging and graphic design software, allowing un
     <br>
   </td>
   <td>
-    <a href="photoshop.md#tutorial3">
-      <img alt="Publish your Design to a Zazzle Face Mask" src="../assets/Whitespacer.png" />
-   </a>
+    <img alt="Spacer" src="../assets/Whitespacer.png" />
     <div>
-   <a href="photoshop.md#tutorial3"><strong>Publish your Design to a Zazzle Face Mask</strong></a>
-    </div>
-    <em>Create and publish your designs directly from Photoshop to Zazzle</em>
     <br>
   </td>
 </tr>
@@ -54,13 +49,14 @@ Photoshop is the world’s best imaging and graphic design software, allowing un
 Use the powerful selection and color editing tools in Adobe Photoshop to dramatically change an image to match your corporate branding needs.
 
 In this tutorial, you will learn how to:
-* Feature 1
-* Feature 2
-* Feature 3
-* Feature 4
+* The Object Selection Tool makes selecting items faster and simpler
+* Content-Aware Fill allows more control of sample areas within a source image for better cloning and patching of target areas
+* Brushes can be different shapes for better results
+* Adobe Sensei helps leverage artificial intelligence for mundane tasks
+
 
 **Presented by:**
-A.J Wood, Senior Solution Consultant (Digital Media)
+A.J Wood, Senior Solutions Consultant (Digital Media)
 
 ## Select and Replace the Sky (2:16) {#tutorial2}
 
@@ -70,25 +66,9 @@ A.J Wood, Senior Solution Consultant (Digital Media)
 Automatically select the sky in an image and replace with a sky of your choice, auto-adjusting the colors of the image to match your selection.
 
 In this tutorial, you will learn how to:
-* Feature 1
-* Feature 2
-* Feature 3
-* Feature 4
+* Sky Replacement provides a one-click solution to instantly swap skies in your images
+* Sky Replacement saves its output as a layer group with every mask, adjustment and image for further refinement
+
 
 **Presented by:**
-A.J Wood, Senior Solution Consultant (Digital Media)
-
-## Publish your Design to a Zazzle Face Mask {#tutorial3}
-
->[!VIDEO](https://video.tv.adobe.com/v/326954?hidetitle=true)
-
-**Description**
-Create and publish your designs directly from Photoshop to Zazzle.
-
-In this tutorial, you will learn how to:
-* See a real-time preview of your artwork on a wide range of products and make creative adjustments to your designs, as necessary       
-* Save time and effort in the creative process by visualizing your design on the finished product
-* Make better designs, which means more money!
-
-**Presented by:**
-Patti Sokol, Principal Solution Consultant (Digital Media)
+A.J Wood, Senior Solutions Consultant (Digital Media)

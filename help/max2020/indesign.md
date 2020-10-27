@@ -78,10 +78,12 @@ Cloud Review</strong></a>
 Generate QR code that links to a web site.
 
 In this tutorial, you will learn how:
-* QR Codes help you quickly direct people to additional digital content from your print material
+* Provide hands-free access to web content via mobile devices
+* Make your customers feel safe
+* Digital means it’s easy to keep content current
 
 **Presented by:**
-Patti Sokol, Principal Solution Consultant (Digital Media)
+Patti Sokol, Principal Solutions Consultant (Digital Media)
 
 ## Share for Review from InDesign (4:04) {#tutorial2}
 
@@ -95,6 +97,8 @@ In this tutorial, you will learn how to:
 * Review and comment from a web browser 
 * Gather feedback from multiple stakeholders in one place 
 * Manage feedback in-app where changes can be made immediately.
+
+![Comparison Image](../assets/Adobe_Review_and_Comment_Comparisons.pdf)
 
 **Presented by:**
 Emily Palmer, Solutions Consultant (Digital Media)
@@ -110,8 +114,10 @@ In this tutorial, you will learn how to:
 * Supports existing PDF commenting workflows
 * Works for PDFs combined from multiple sources
 
+[![Comparison Image](../assets/ComparisonPDF_thumbnail.jpg)](../assets/Adobe_Review_and_Comment_Comparisons.pdf)
+
 **Presented by:**
-Michael Murphy, Senior Solution Consultant (Digital Media)
+Michael Murphy, Senior Solutions Consultant (Digital Media)
 
 ## Add Video File to InDesign Document (5:58) {#tutorial4}
 
@@ -125,4 +131,4 @@ In this tutorial, you will learn how to:
 * Output to PDF and publish online
 
 **Presented by:**
-Patti Sokol, Principal Solution Consultant (Digital Media)
+Patti Sokol, Principal Solutions Consultant (Digital Media)

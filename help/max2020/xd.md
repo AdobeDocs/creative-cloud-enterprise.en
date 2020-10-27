@@ -15,7 +15,7 @@ Adobe XD is a user experience design and prototyping tool for designing websit
 <tr>
  <td>
    <a href="xd.md#tutorial1">
-      <img alt="Create Components with Hover States" src="../assets/Whitespacer.png" />
+      <img alt="Create Components with Hover States" src="../assets/Xd_hoverstates_components_thumbnail.jpg" />
    </a>
     <div>
    <a href="xd.md#tutorial1"><strong>Create Components with Hover States</strong></a>
@@ -25,7 +25,7 @@ Adobe XD is a user experience design and prototyping tool for designing websit
   </td>
   <td>
     <a href="xd.md#tutorial2">
-        <img alt="Create and Populate a Repeat Grid" src="../assets/Whitespacer.png" />
+        <img alt="Create and Populate a Repeat Grid" src="../assets/XD_repeatgrid_thumbnail.jpg" />
     </a>
     <div>
     <a href="xd.md#tutorial2"><strong>Create and Populate a Repeat Grid</strong></a>
@@ -35,7 +35,7 @@ Adobe XD is a user experience design and prototyping tool for designing websit
   </td>
   <td>
    <a href="xd.md#tutorial3">
-      <img alt="Work with Stacks" src="../assets/Whitespacer.png" />
+      <img alt="Work with Stacks" src="../assets/xd_Stacks_thumbnail.jpg" />
    </a>
     <div>
     <a href="xd.md#tutorial3"><strong>Work with Stacks</strong></a>
@@ -48,7 +48,7 @@ Adobe XD is a user experience design and prototyping tool for designing websit
  <td>
     <a href="xd.md#tutorial4">
         <img alt="Create a Prototype—Anchor Links and 
-Scroll Groups" src="../assets/Gray_thumbnail.png" />
+Scroll Groups" src="../assets/XD_Scrolls_Thumbnail_Murphy.jpg" />
     </a>
     <div>
     <a href="xd.md#tutorial4"><strong>Create a Prototype—Anchor Links and 
@@ -59,10 +59,10 @@ Scroll Groups</strong></a>
   </td>
   <td>
     <a href="xd.md#tutorial5">
-        <img alt="Create a Prototype—Interactive Component States and Overlays" src="../assets/Gray_thumbnail.png" />
+        <img alt="Create a Prototype—Interactive Component States" src="../assets/XD_interactiveprototypes_enke.jpg" />
     </a>
     <div>
-    <a href="xd.md#tutorial5"><strong>Create a Prototype—Interactive Component States and Overlays</strong></a>
+    <a href="xd.md#tutorial5"><strong>Create a Prototype—Interactive Component States</strong></a>
     </div>
     <em>Add interactivity and an overlay menu to a prototype</em>
     <br>
@@ -160,9 +160,9 @@ In this tutorial, you will learn how to:
 **Presented by:** 
 Michael Murphy, Senior Solutions Consultant (Digital Media)
 
-## Create a Prototype—Interactive Component States and Overlays (8:55) {#tutorial5}
+## Create a Prototype—Interactive Component States (8:55) {#tutorial5}
 
->[!VIDEO](https://video.tv.adobe.com/v/326957?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/326958?hidetitle=true)
 
 **Description**
 Add interactivity and an overlay menu to a prototype.
@@ -172,7 +172,7 @@ In this tutorial, you will learn how to:
 * Author multiple prototype or interaction flows in a single XD document and publish unique shareable links for each flow
 
 **Presented by:**
-Michael Murphy, Senior Solutions Consultant (Digital Media)
+Emilie Enke, Associate Solutions Consultant (Digital Media)
 
 ## Email - Create and Populate a Repeat Grid (4:45) {#tutorial6}
 

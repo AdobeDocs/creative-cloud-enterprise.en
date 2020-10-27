@@ -15,7 +15,7 @@ Adobe Adobe® InDesign® Server  software delivers a robust and scalable engine 
 <tr>
  <td>
    <a href="indesignserver.md#tutorial1">
-      <img alt="Data-Driven InDesign Server Content" src="../assets/Whitespacer.png" />
+      <img alt="Data-Driven InDesign Server Content" src="../assets/dataDriven-InDesign-Server-Content.jpg" />
    </a>
     <div>
    <a href="indesignserver.md#tutorial1"><strong>Data-Driven InDesign Server Content</strong></a>
@@ -49,4 +49,36 @@ In this tutorial, you will learn how to:
 * Generate spot-on PDFs, or tie into other AEM driven output formats, of your layout
 
 **Presented by:**
-Eric Rowse, Senior Solution Consultant (Digital Media)
+Eric Rowse, Senior Solutions Consultant (Digital Media)
+
+## Additional InDesign Server Resources
+
+<table>
+<tr>
+ <td>
+   <a href="https://www.adobe.com/products/indesignserver/buying-guide.html">
+      <img alt="InDesign Server: Buying Guide" src="../assets/IDS_Thumbnail.jpg" />
+   </a>
+    <div>
+   <a href="https://www.adobe.com/products/indesignserver/buying-guide.html"><strong>InDesign Server: Buying Guide</strong></a>
+    </div>
+    <em>Resources available for in house developers or partners</em>
+    <br>
+  </td>
+  <td>
+   <a href="https://www.adobe.com/products/indesignserver/partner.html">
+      <img alt="InDesign Server: Find a Partner" src="../assets/IDS_Thumbnail.jpg" />
+   </a>
+    <div>
+   <a href="https://www.adobe.com/products/indesignserver/partner.html"><strong>InDesign Server: Find a Partner</strong></a>
+    </div>
+    <em>While you have the expertise to develop in house, Adobe recommends working with partners to find the solution to meet your requirements</em>
+    <br>
+  </td>
+  <td>
+    <img alt="Spacer" src="../assets/Whitespacer.png" />
+    <div>
+    <br>
+  </td>
+</tr>
+</table>

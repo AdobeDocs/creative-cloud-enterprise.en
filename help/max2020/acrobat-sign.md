@@ -66,7 +66,7 @@ With Adobe Document Cloud — which includes the world’s leading PDF and elect
     <br>
   </td>
   <td>
-    <img alt="Spacer" src="../assets/Gray_thumbnail.png" />
+    <img alt="Spacer" src="../assets/Whitespacer.png" />
     <div>
     <br>
   </td>
@@ -85,9 +85,11 @@ In this tutorial, you will learn how to:
 * Gather comments in one place
 * Simultaneous commenting encourages collaboration
 
+[![Comparison Image](../assets/ComparisonPDF_thumbnail.jpg)](../assets/Adobe_Review_and_Comment_Comparisons.pdf)
+
 **Presented by:** 
 Dan Armstrong, Solutions Consultant (Digital Media)
-Rick Borstein, Senior Manager Solutions Consulting (Digital Media)
+Rick Borstein, Senior Manager Solution Consulting (Digital Media)
 
 ## Create Online Waiver Forms with Adobe Sign (5:19) {#tutorial2}
 
@@ -99,7 +101,7 @@ Quickly turn documents into online forms and post them online where anyone who n
 In this tutorial, you will learn how to:
 * Go digital by turning paper forms into digital documents
 * Post digital forms to your website where customers can access them from their own device
-* Completed forms are automatically archived for your records.
+* Completed forms are automatically archived for your records
 
 **Presented by:**
 Taylor Kobey, Solutions Consultant (Digital Media)
@@ -116,7 +118,7 @@ In this tutorial, you will learn how to:
 * Leverage the tools you use every day to send digital documents for signature
 
 **Presented by:**
-Rick Borstein, Senior Manager Solutions Consulting (Digital Media)
+Rick Borstein, Senior Manager Solution Consulting (Digital Media)
 
 ## View Menus on Mobile with Liquid Mode (2:57) {#tutorial4}
 
@@ -151,7 +153,9 @@ Emilie Enke, Associate Solutions Consultant (Digital Media)
 ![Max 2020 Hero Image](../assets/Doc-Cloud-256.png)
 
 **Acrobat & Adobe Sign Resources**
+
 [Learn & Support](https://helpx.adobe.com/support/document-cloud.html) is your hub for additional tutorials, What’s New, and links to community forums.
 
 **October 2020 Release**
+
 Start using these features (and more!) by downloading the latest update from your Creative Cloud Desktop App.

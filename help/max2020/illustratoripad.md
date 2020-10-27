@@ -50,5 +50,5 @@ In this tutorial, you will learn how to:
 * Roundtrip workflow across mobile and desktop Illustrator
 
 **Presented by:**
-Dave Weinberg, Senior Solution Consultant (Digital Media)
+Dave Weinberg, Senior Solutions Consultant (Digital Media)
 

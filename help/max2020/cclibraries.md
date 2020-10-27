@@ -53,7 +53,7 @@ In this tutorial, you will learn how to:
 * New! Full integration with Adobe XD
 
 **Presented by:**
-Ashley Dvorin, Senior Solution Consultant (Digital Media)
+Ashley Dvorin, Senior Solutions Consultant (Digital Media)
 
 ## Share CC Libraries (4:14) {#tutorial2}
 
@@ -67,4 +67,4 @@ In this tutorial, you will learn how to:
 * Easily collaborate on projects directly from your favorite apps
 
 **Presented by:**
-Ashley Dvorin, Senior Solution Consultant (Digital Media)
+Ashley Dvorin, Senior Solutions Consultant (Digital Media)

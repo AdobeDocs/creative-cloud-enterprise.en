@@ -25,8 +25,7 @@ Creatives  are  under  pressure  to  quickly  deliver  new, visually compelling 
   </td>
   <td>
    <a href="stock.md#tutorial2">
-      <img alt="Search and License Stock Assets in 
-Adobe Experience Manager" src="../assets/stock_aemintegration_palmer_thumbnail.jpg" />
+      <img alt="Search and License Stock Assets in AEM" src="../assets/stock_aemintegration_palmer_thumbnail.jpg" />
    </a>
     <div>
    <a href="stock.md#tutorial2"><strong>Search and License Stock Assets in 
@@ -43,7 +42,7 @@ Adobe Experience Manager</strong></a>
 </tr>
 </table>
 
-## Find the best assets faster with Adobe Stock (10:19) {#tutorial1}
+## Find the best assets faster with Adobe Stock (10:49) {#tutorial1}
 
 >[!VIDEO](https://video.tv.adobe.com/v/326951?hidetitle=true)
 
@@ -51,22 +50,25 @@ Adobe Experience Manager</strong></a>
 Find the perfect royalty-free stock image to enhance your creative project using better, faster search results powered by Adobe Sensei, our artificial intelligence engine.
 
 In this tutorial, you will learn how to:
-*
-*
-*
+* Take the time and stress out of your search for high-quality images and video
+* Easily manage and track asset licenses and usage across your enterprise
+* Search, preview, and license right inside of your Adobe Creative Cloud Apps
 
 **Presented by:**
 
-## Search and License Stock Assets in Adobe Experience Manager (6:46) {#tutorial2}
+Victoria Torres, Stock Solutions Consultant (Digital Media)
+
+## Search and License Stock Assets in AEM (6:46) {#tutorial2}
 
 >[!VIDEO](https://video.tv.adobe.com/v/326952?hidetitle=true)
 
 **Description**
-Insert description.
+Simplify the process of uploading your licensed Adobe Stock assets into your Digital Asset Management system.
 
 In this tutorial, you will learn how to:
-*
-*
-*
+* Perform Adobe Stock asset search without leaving AEM workspace
+* Save licensed assets directly to an AEM folder at time of licensing
+* View assets licensed from AEM in your Stock license history on the Stock website. 
 
 **Presented by:**
+Emily Palmer, Solutions Consultant (Digital Media)

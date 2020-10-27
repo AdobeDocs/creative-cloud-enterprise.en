@@ -31,7 +31,7 @@ Creatives  are  under  pressure  to  quickly  deliver  new, visually compelling 
    <a href="stock.md#tutorial2"><strong>Search and License Stock Assets in 
 Adobe Experience Manager</strong></a>
     </div>
-    <em>Insert description here</em>
+    <em>Simplify the process of uploading your licensed Adobe Stock assets into your Digital Asset Management system</em>
     <br>
   </td>
   <td>

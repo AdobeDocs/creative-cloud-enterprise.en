@@ -71,7 +71,7 @@ In this tutorial, you will learn how to:
 * Visualize your designs on products like clothing, accessories, stationery, and wall art–in real time!
 * Publish to the Dazzle online marketplace
 
-**Learn Design to Print**
+**Click Image to Download Learn Design to Print PDF**
 
 [![Learn Design to Print](../assets/LearnDesigntoPrint_96.png)](../assets/LearnDesigntoPrint.pdf)
 
@@ -90,7 +90,7 @@ In this tutorial, you will learn how to:
 * Add materials and control lighting for a professional look
 * Import assets to apply your brand or other designs
 
-**Dimension file with 3D model of white mask**
+**Click Image to Download Dimension File with 3D Model of White Mask**
 
 [![Comparison Image](../assets/whitemask_96.png)](../assets/whiteMask.dn.zip)
 

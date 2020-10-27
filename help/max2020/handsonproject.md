@@ -25,7 +25,7 @@ Wouldn’t it be cool if you could customize a face mask with your own artwork? 
   </td>
   <td>
     <a href="handsonproject.md#tutorial2">
-        <img alt="Customize a Face Mask with Design to Print" src="../assets/d2p_faceMask_sokol.jpg" />
+        <img alt="Customize a Face Mask with Design to Print" src="../assets/d2p_faceMask_sokol_thumbnail.jpg" />
     </a>
     <div>
     <a href="handsonproject.md#tutorial2"><strong>Customize a Face Mask with Design to Print</strong></a>

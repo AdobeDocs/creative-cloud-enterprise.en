@@ -174,13 +174,13 @@ As an enterprise creative, you need to collaborate with distributed teams, estab
     <br>
   </td>
   <td>
-    <a href="handsonproject.md">
-      <img alt="Hands-on Project" src="../assets/faceMaskSplash.jpg" />
+    <a href="creativeclouddesktopapp.md">
+      <img alt="Creative Cloud Desktop App" src="../assets/CCDA.jpg" />
     </a>
     <div>
-    <a href="handsonproject.md"><strong>Hands-on Project</strong></a>
+    <a href="creativeclouddesktopapp.md"><strong>Creative Cloud Desktop App</strong></a>
     </div>
-    <em>Customize your own Zazzle face mask</em>
+    <em>The Creative Cloud desktop app is your hub for managing CC apps, services, and collaboration—and more!</em>
     <br>
   </td>
   <td>

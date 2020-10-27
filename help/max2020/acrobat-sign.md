@@ -87,7 +87,7 @@ In this tutorial, you will learn how to:
 
 **Adobe Review and Comment Options Comparison PDF**
 
-[![Comparison Image](../assets/ComparisonPDF_thumbnail_96.jpg)](../assets/Adobe_Review_and_Comment_Comparisons.pdf) 
+[![Comparison Image](../assets/ComparisonPDF_thumbnail_96.png)](../assets/Adobe_Review_and_Comment_Comparisons.pdf) 
 
 **Presented by:** 
 Dan Armstrong, Solutions Consultant (Digital Media)

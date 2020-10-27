@@ -3,7 +3,7 @@ title: Creative Cloud Desktop App
 description: The Creative Cloud desktop app is your hub for managing CC apps, services, and collaboration—and more!
 ---
 
-# Capture
+# Creative Cloud Desktop App
 
 ![Tutorial Hero Image](../assets/CCDA.jpg)
 

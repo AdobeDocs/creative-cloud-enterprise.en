@@ -66,7 +66,7 @@ With Adobe Document Cloud — which includes the world’s leading PDF and elect
     <br>
   </td>
   <td>
-    <img alt="Spacer" src="../assets/Whitespacer.png" />
+    <img alt="Spacer" src="../assets/Gray_thumbnail.png" />
     <div>
     <br>
   </td>
@@ -85,7 +85,9 @@ In this tutorial, you will learn how to:
 * Gather comments in one place
 * Simultaneous commenting encourages collaboration
 
-[![Comparison Image](../assets/ComparisonPDF_thumbnail.jpg)](../assets/Adobe_Review_and_Comment_Comparisons.pdf)
+**Adobe Review and Comment Options Comparison PDF**
+
+[![Comparison Image](../assets/ComparisonPDF_thumbnail_96.jpg)](../assets/Adobe_Review_and_Comment_Comparisons.pdf) 
 
 **Presented by:** 
 Dan Armstrong, Solutions Consultant (Digital Media)

@@ -98,7 +98,9 @@ In this tutorial, you will learn how to:
 * Gather feedback from multiple stakeholders in one place 
 * Manage feedback in-app where changes can be made immediately.
 
-[![Comparison Image](../assets/ComparisonPDF_thumbnail.jpg)](../assets/Adobe_Review_and_Comment_Comparisons.pdf)
+**Adobe Review and Comment Options Comparison PDF**
+
+[![Comparison Image](../assets/ComparisonPDF_thumbnail_96.png)](../assets/Adobe_Review_and_Comment_Comparisons.pdf) 
 
 **Presented by:**
 Emily Palmer, Solutions Consultant (Digital Media)
@@ -114,7 +116,9 @@ In this tutorial, you will learn how to:
 * Supports existing PDF commenting workflows
 * Works for PDFs combined from multiple sources
 
-[![Comparison Image](../assets/ComparisonPDF_thumbnail.jpg)](../assets/Adobe_Review_and_Comment_Comparisons.pdf)
+**Adobe Review and Comment Options Comparison PDF**
+
+[![Comparison Image](../assets/ComparisonPDF_thumbnail_96.png)](../assets/Adobe_Review_and_Comment_Comparisons.pdf) 
 
 **Presented by:**
 Michael Murphy, Senior Solutions Consultant (Digital Media)

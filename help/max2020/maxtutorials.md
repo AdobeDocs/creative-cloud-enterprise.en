@@ -175,7 +175,7 @@ As an enterprise creative, you need to collaborate with distributed teams, estab
   </td>
   <td>
     <a href="handsonproject.md">
-      <img alt="Hands-on Project" src="../assets/DN_faceMaskShare_sokol_thumbnail.jpg" />
+      <img alt="Hands-on Project" src="../assets/faceMaskSplash.jpg" />
     </a>
     <div>
     <a href="handsonproject.md"><strong>Hands-on Project</strong></a>
@@ -229,7 +229,7 @@ As an enterprise creative, you need to collaborate with distributed teams, estab
 <tr>
  <td>
     <a href="handsonproject.md">
-      <img alt="Create your own Face Mask" src="../assets/AEM.jpg" />
+      <img alt="Create your own Face Mask" src="../assets/faceMaskSplash.jpg" />
     </a>
     <div>
     <a href="handsonproject.md"><strong>Create your own Face Mask</strong></a>

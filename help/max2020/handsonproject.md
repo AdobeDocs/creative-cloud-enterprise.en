@@ -5,7 +5,7 @@ description: Hands-on project to customize a face mask
 
 # Create your own Face Mask
 
-![Tutorial Hero Image](../assets/table_placeholder.png)
+![Tutorial Hero Image](../assets/faceMaskSplash.jpg)
 
 Wouldn’t it be cool if you could customize a face mask with your own artwork? With the Adobe Design to Print plug-in, you can visualize your designs on hundreds of Zazzle products, and publish directly to their online marketplace. As a part of attending MAX: The Enterprise Sessions, you received a coupon code from Zazzle worth $30 USD. You can use the coupon to order your own customized face mask.
 
@@ -15,7 +15,7 @@ Wouldn’t it be cool if you could customize a face mask with your own artwork? 
 <tr>
  <td>
    <a href="handsonproject.md#tutorial1">
-      <img alt="Install the Photoshop Design to Print Plug-in" src="../assets/table_placeholder.png" />
+      <img alt="Install the Photoshop Design to Print Plug-in" src="../assets/d2p_install_sokol_thumbnail.jpg" />
    </a>
     <div>
    <a href="handsonproject.md#tutorial1"><strong>Install the Photoshop Design to Print Plug-in</strong></a>
@@ -25,7 +25,7 @@ Wouldn’t it be cool if you could customize a face mask with your own artwork? 
   </td>
   <td>
     <a href="handsonproject.md#tutorial2">
-        <img alt="Customize a Face Mask with Design to Print" src="../assets/table_placeholder.png" />
+        <img alt="Customize a Face Mask with Design to Print" src="../assets/d2p_faceMask_sokol_thumbnail.jpg" />
     </a>
     <div>
     <a href="handsonproject.md#tutorial2"><strong>Customize a Face Mask with Design to Print</strong></a>
@@ -35,7 +35,7 @@ Wouldn’t it be cool if you could customize a face mask with your own artwork? 
   </td>
   <td>
     <a href="handsonproject.md#tutorial3">
-      <img alt="Create a 3D Visualization of your Face Mask" src="../assets/table_placeholder.png" />
+      <img alt="Create a 3D Visualization of your Face Mask" src="../assets/DN_faceMaskShare_sokol_thumbnail.jpg" />
    </a>
     <div>
    <a href="handsonproject.md#tutorial3"><strong>Create a 3D Visualization of your Face Mask</strong></a>
@@ -71,6 +71,10 @@ In this tutorial, you will learn how to:
 * Visualize your designs on products like clothing, accessories, stationery, and wall art–in real time!
 * Publish to the Dazzle online marketplace
 
+**Learn Design to Print**
+
+[![Learn Design to Print](../assets/LearnDesigntoPrint_96.png)](../assets/LearnDesigntoPrint.pdf)
+
 **Presented by:**
 Patti Sokol, Principal Solutions Consultant (Digital Media)
 
@@ -85,6 +89,10 @@ In this tutorial, you will learn how to:
 * Easily create photo-realistic 3D visualizations   
 * Add materials and control lighting for a professional look
 * Import assets to apply your brand or other designs
+
+**Dimension file with 3D model of white mask**
+
+[![Comparison Image](../assets/whitemask_96.png)](../assets/whiteMask.dn.zip)
 
 **Presented by:**
 Patti Sokol, Principal Solutions Consultant (Digital Media)

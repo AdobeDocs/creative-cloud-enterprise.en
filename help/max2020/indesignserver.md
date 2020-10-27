@@ -49,7 +49,7 @@ In this tutorial, you will learn how to:
 * Generate spot-on PDFs, or tie into other AEM driven output formats, of your layout
 
 **Presented by:**
-Eric Rowse, Senior Solution Consultant (Digital Media)
+Eric Rowse, Senior Solutions Consultant (Digital Media)
 
 ## Additional InDesign Server Resources
 
@@ -57,7 +57,7 @@ Eric Rowse, Senior Solution Consultant (Digital Media)
 <tr>
  <td>
    <a href="https://www.adobe.com/products/indesignserver/buying-guide.html">
-      <img alt="InDesign Server: Buying Guide" src="../assets/IDS_thumbnail.jpg" />
+      <img alt="InDesign Server: Buying Guide" src="../assets/IDS_Thumbnail.jpg" />
    </a>
     <div>
    <a href="https://www.adobe.com/products/indesignserver/buying-guide.html"><strong>InDesign Server: Buying Guide</strong></a>
@@ -67,7 +67,7 @@ Eric Rowse, Senior Solution Consultant (Digital Media)
   </td>
   <td>
    <a href="https://www.adobe.com/products/indesignserver/partner.html">
-      <img alt="InDesign Server: Find a Partner" src="../assets/IDS_thumbnail.jpg" />
+      <img alt="InDesign Server: Find a Partner" src="../assets/IDS_Thumbnail.jpg" />
    </a>
     <div>
    <a href="https://www.adobe.com/products/indesignserver/partner.html"><strong>InDesign Server: Find a Partner</strong></a>

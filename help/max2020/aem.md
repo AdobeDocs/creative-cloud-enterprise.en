@@ -75,7 +75,7 @@ Eric Rowse, Senior Solutions Consultant (Digital Media)
 <tr>
  <td>
    <a href="https://www.adobe.com/marketing/experience-manager.html">
-      <img alt="Adobe Experience Manager" src="../assets/AEM_thumbnail.jpg" />
+      <img alt="Adobe Experience Manager" src="../assets/AEM_Thumbnail.jpg" />
    </a>
     <div>
    <a href="https://www.adobe.com/marketing/experience-manager.html"><strong>Adobe Experience Manager</strong></a>
@@ -85,7 +85,7 @@ Eric Rowse, Senior Solutions Consultant (Digital Media)
   </td>
   <td>
    <a href="https://www.adobe.com/marketing/experience-manager-assets.html">
-      <img alt="InDesign Server: Find a Partner" src="../assets/AEM_thumbnail.jpg" />
+      <img alt="InDesign Server: Find a Partner" src="../assets/AEM_Thumbnail.jpg" />
    </a>
     <div>
    <a href="https://www.adobe.com/marketing/experience-manager-assets.html"><strong>AEM Assets</strong></a>
@@ -95,7 +95,7 @@ Eric Rowse, Senior Solutions Consultant (Digital Media)
   </td>
   <td>
    <a href="https://www.adobe.com/marketing/experience-manager-assets/benefits.html">
-      <img alt="InDesign Server: Find a Partner" src="../assets/AEM_thumbnail.jpg" />
+      <img alt="InDesign Server: Find a Partner" src="../assets/AEM_Thumbnail.jpg" />
    </a>
     <div>
    <a href="https://www.adobe.com/marketing/experience-manager-assets/benefits.html"><strong>AEM Assets: Benefits</strong></a>

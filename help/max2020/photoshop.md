@@ -54,7 +54,6 @@ In this tutorial, you will learn how to:
 * Brushes can be different shapes for better results
 * Adobe Sensei helps leverage artificial intelligence for mundane tasks
 
-
 **Presented by:**
 A.J Wood, Senior Solutions Consultant (Digital Media)
 
@@ -72,3 +71,13 @@ In this tutorial, you will learn how to:
 
 **Presented by:**
 A.J Wood, Senior Solutions Consultant (Digital Media)
+
+![Photoshop Logo](../assets/ps_appicon_96.png)
+
+**Photoshop Resources**
+
+[Learn & Support](https://helpx.adobe.com/support/photoshop.html) is your hub for additional tutorials, What’s New, and links to community forums.
+
+**October 2020 Release**
+
+Start using these features (and more!) by downloading the latest update from your Creative Cloud Desktop App.

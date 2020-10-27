@@ -51,4 +51,14 @@ In this tutorial, you will learn how to:
 * Open Rush projects in Adobe Premiere Pro
 
 **Presented by:**
-A.J. Wood, Solution Consultant (Digital Media)
+A.J. Wood, Solutions Consultant (Digital Media)
+
+![Rush Logo](../assets/ru_appicon_96.png)
+
+**Rush Resources**
+
+[Learn & Support](https://helpx.adobe.com/support/premiere-rush.html) is your hub for additional tutorials, What’s New, and links to community forums.
+
+**October 2020 Release**
+
+Start using these features (and more!) by downloading the latest update from your Creative Cloud Desktop App.

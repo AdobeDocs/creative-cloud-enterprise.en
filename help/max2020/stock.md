@@ -72,3 +72,13 @@ In this tutorial, you will learn how to:
 
 **Presented by:**
 Emily Palmer, Solutions Consultant (Digital Media)
+
+![Stock Logo](../assets/st_appicon_96.png)
+
+**Adobe Stock Resources**
+
+[Learn & Support](https://helpx.adobe.com/support/stock.html) is your hub for additional tutorials, What’s New, and links to community forums.
+
+**October 2020 Release**
+
+Start using these features (and more!) by downloading the latest update from your Creative Cloud Desktop App.

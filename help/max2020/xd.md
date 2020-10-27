@@ -202,3 +202,13 @@ In this tutorial, you will learn how to:
 
 **Presented by:**
  Victoria Torres, Solutions Consultant (Digital Media)
+
+ ![XD Logo](../assets/xd_appicon_96.png)
+
+**XD Resources**
+
+[Learn & Support](https://helpx.adobe.com/support/xd.html) is your hub for additional tutorials, What’s New, and links to community forums.
+
+**October 2020 Release**
+
+Start using these features (and more!) by downloading the latest update from your Creative Cloud Desktop App.

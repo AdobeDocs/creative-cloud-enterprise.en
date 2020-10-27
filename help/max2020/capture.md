@@ -50,3 +50,13 @@ In this tutorial, you will learn how to:
 
 **Presented by:**
 Emily Palmer, Solutions Consultant (Digital Media)
+
+![Capture Logo](../assets/ca_appicon_96.png)
+
+**Capture Resources**
+
+[Learn & Support](https://helpx.adobe.com/mobile-apps/help/capture-faq.html) is your hub for additional tutorials, What’s New, and links to community forums.
+
+**October 2020 Release**
+
+Start using these features (and more!) by downloading the latest update from your Creative Cloud Desktop App.

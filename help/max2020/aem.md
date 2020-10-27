@@ -105,3 +105,13 @@ Eric Rowse, Senior Solutions Consultant (Digital Media)
   </td>
 </tr>
 </table>
+
+![AEM Logo](../assets/aem_appicon_noshadow_96.png)
+
+**Acrobat & Adobe Sign Resources**
+
+[Learn & Support](https://helpx.adobe.com/support/document-cloud.html) is your hub for additional tutorials, What’s New, and links to community forums.
+
+**October 2020 Release**
+
+Start using these features (and more!) by downloading the latest update from your Creative Cloud Desktop App.

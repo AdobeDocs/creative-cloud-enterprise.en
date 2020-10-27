@@ -98,7 +98,7 @@ In this tutorial, you will learn how to:
 * Gather feedback from multiple stakeholders in one place 
 * Manage feedback in-app where changes can be made immediately.
 
-![Comparison Image](../assets/Adobe_Review_and_Comment_Comparisons.pdf)
+[![Comparison Image](../assets/ComparisonPDF_thumbnail.jpg)](../assets/Adobe_Review_and_Comment_Comparisons.pdf)
 
 **Presented by:**
 Emily Palmer, Solutions Consultant (Digital Media)
@@ -132,3 +132,13 @@ In this tutorial, you will learn how to:
 
 **Presented by:**
 Patti Sokol, Principal Solutions Consultant (Digital Media)
+
+![InDesignLogo](../assets/id_appicon_96.png)
+
+**InDesign Resources**
+
+[Learn & Support](https://helpx.adobe.com/support/indesign.html) is your hub for additional tutorials, What’s New, and links to community forums.
+
+**October 2020 Release**
+
+Start using these features (and more!) by downloading the latest update from your Creative Cloud Desktop App.

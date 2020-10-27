@@ -51,3 +51,13 @@ In this tutorial, you will learn how to:
 
 **Presented by:**
 Dan Armstrong, Solutions Consultant (Digital Media)
+
+![Photoshop on the iPad Logo](../assets/ps_appicon_96.png)
+
+**Photoshop on the iPad Resources**
+
+[Learn & Support](https://helpx.adobe.com/support/photoshop.html) is your hub for additional tutorials, What’s New, and links to community forums.
+
+**October 2020 Release**
+
+Start using these features (and more!) by downloading the latest update from your Creative Cloud Desktop App.

@@ -68,3 +68,13 @@ In this tutorial, you will learn how to:
 
 **Presented by:**
 Ashley Dvorin, Senior Solutions Consultant (Digital Media)
+
+![CC Libraries Logo](../assets/cc_appicon_96.png)
+
+**CC Libraries Resources**
+
+[Learn & Support](https://helpx.adobe.com/creative-cloud/help/libraries.html) is your hub for additional tutorials, What’s New, and links to community forums.
+
+**October 2020 Release**
+
+Start using these features (and more!) by downloading the latest update from your Creative Cloud Desktop App.

@@ -82,3 +82,13 @@ Eric Rowse, Senior Solutions Consultant (Digital Media)
   </td>
 </tr>
 </table>
+
+![InDesign Server Logo](../assets/id_server_appicon_96.png)
+
+**InDesign Server Resources**
+
+[Learn & Support](https://www.adobe.com/products/indesignserver.html) is your hub for additional tutorials, What’s New, and links to community forums.
+
+**October 2020 Release**
+
+Start using these features (and more!) by downloading the latest update from your Creative Cloud Desktop App.

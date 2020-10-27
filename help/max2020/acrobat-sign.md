@@ -150,7 +150,7 @@ In this tutorial, you will learn how to:
 **Presented by:**
 Emilie Enke, Associate Solutions Consultant (Digital Media)
 
-![Max 2020 Hero Image](../assets/Doc-Cloud-256.png)
+![DC Logo](../assets/Doc-Cloud-256.png)
 
 **Acrobat & Adobe Sign Resources**
 

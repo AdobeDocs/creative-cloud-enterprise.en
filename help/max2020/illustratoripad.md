@@ -52,3 +52,14 @@ In this tutorial, you will learn how to:
 **Presented by:**
 Dave Weinberg, Senior Solutions Consultant (Digital Media)
 
+![Illustrator on iPad Logo](../assets/ai_appicon_96.png)
+
+**Illustrator on iPad Resources**
+
+[Learn & Support](https://helpx.adobe.com/support/illustrator.html) is your hub for additional tutorials, What’s New, and links to community forums.
+
+**October 2020 Release**
+
+Start using these features (and more!) by downloading the latest update from your Creative Cloud Desktop App.
+
+

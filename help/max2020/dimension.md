@@ -47,4 +47,14 @@ In this tutorial, you will learn how to:
 * Create engaging content in 3D faster, with high-quality models, materials, and lighting
 
 **Presented by:**
-Jim Babbage, Senior Solution Consultant (Digital Media)
+Jim Babbage, Senior Solutions Consultant (Digital Media)
+
+![Dimension Logo](../assets/dn_appicon_96.png)
+
+**Dimension Resources**
+
+[Learn & Support](https://helpx.adobe.com/support/dimension.html) is your hub for additional tutorials, What’s New, and links to community forums.
+
+**October 2020 Release**
+
+Start using these features (and more!) by downloading the latest update from your Creative Cloud Desktop App.

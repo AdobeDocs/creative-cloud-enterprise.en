@@ -76,7 +76,7 @@ Liz Tanonis, Solutions Consultant (Digital Media)
 
 **Fresco Resources**
 
-[Learn & Support](https://helpx.adobe.com/support/adobe-fresco.html) is your hub for additional tutorials, What’s New, and links to community forums.
+[Learn & Support](https://helpx.adobe.com/support/adobe-fresco.html) is your hub for additional tutorials, [What’s New](https://helpx.adobe.com/fresco/using/whats-new.html), and links to community forums.
 
 **October 2020 Release**
 

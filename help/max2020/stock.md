@@ -77,7 +77,7 @@ Emily Palmer, Solutions Consultant (Digital Media)
 
 **Adobe Stock Resources**
 
-[Learn & Support](https://helpx.adobe.com/support/stock.html) is your hub for additional tutorials, What’s New, and links to community forums.
+[Learn & Support](https://helpx.adobe.com/support/stock.html) is your hub for additional tutorials and links to community forums.
 
 **October 2020 Release**
 

@@ -55,7 +55,7 @@ Emily Palmer, Solutions Consultant (Digital Media)
 
 **Capture Resources**
 
-[Learn & Support](https://helpx.adobe.com/mobile-apps/help/capture-faq.html) is your hub for additional tutorials, What’s New, and links to community forums.
+[Learn & Support](https://helpx.adobe.com/mobile-apps/help/capture-faq.html) is your hub for additional tutorials and links to community forums.
 
 **October 2020 Release**
 

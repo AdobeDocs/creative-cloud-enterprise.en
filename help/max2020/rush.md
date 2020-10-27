@@ -57,7 +57,7 @@ A.J. Wood, Solutions Consultant (Digital Media)
 
 **Rush Resources**
 
-[Learn & Support](https://helpx.adobe.com/support/premiere-rush.html) is your hub for additional tutorials, What’s New, and links to community forums.
+[Learn & Support](https://helpx.adobe.com/support/premiere-rush.html) is your hub for additional tutorials, [What’s New](https://helpx.adobe.com/premiere-rush/user-guide.html/premiere-rush/help/whats-new.ug.html), and links to community forums.
 
 **October 2020 Release**
 

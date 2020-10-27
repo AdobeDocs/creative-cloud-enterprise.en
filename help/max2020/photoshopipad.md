@@ -56,7 +56,7 @@ Dan Armstrong, Solutions Consultant (Digital Media)
 
 **Photoshop on the iPad Resources**
 
-[Learn & Support](https://helpx.adobe.com/support/photoshop.html) is your hub for additional tutorials, What’s New, and links to community forums.
+[Learn & Support](https://helpx.adobe.com/support/photoshop.html) is your hub for additional tutorials and links to community forums.
 
 **October 2020 Release**
 

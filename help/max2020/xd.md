@@ -207,7 +207,7 @@ In this tutorial, you will learn how to:
 
 **XD Resources**
 
-[Learn & Support](https://helpx.adobe.com/support/xd.html) is your hub for additional tutorials, What’s New, and links to community forums.
+[Learn & Support](https://helpx.adobe.com/support/xd.html) is your hub for additional tutorials, [What’s New](https://helpx.adobe.com/xd/user-guide.html/xd/help/whats-new.ug.html), and links to community forums.
 
 **October 2020 Release**
 

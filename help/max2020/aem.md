@@ -108,9 +108,9 @@ Eric Rowse, Senior Solutions Consultant (Digital Media)
 
 ![AEM Logo](../assets/aem_appicon_noshadow_96.png)
 
-**Acrobat & Adobe Sign Resources**
+**Asset Link & AEM Resources**
 
-[Learn & Support](https://helpx.adobe.com/support/document-cloud.html) is your hub for additional tutorials, What’s New, and links to community forums.
+[Learn & Support](https://helpx.adobe.com/support/experience-manager.html) is your hub for additional tutorials, What’s New, and links to community forums.
 
 **October 2020 Release**
 

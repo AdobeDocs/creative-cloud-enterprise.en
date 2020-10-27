@@ -49,8 +49,7 @@ In this tutorial, you will learn how to:
 **Presented by:**
 Jim Babbage, Senior Solutions Consultant (Digital Media)
 
-
-![Dimension Logo](../assets/dn_appicon_966.png)
+![Dimension Logo](../assets/dn_appicon_96.png)
 
 **Dimension Resources**
 

@@ -72,7 +72,7 @@ In this tutorial, you will learn how to:
 **Presented by:**
 Liz Tanonis, Solutions Consultant (Digital Media)
 
-![Fresco Logo](../assets/Fresco.png)
+![Fresco Logo](../assets/fr_appicon_96.png)
 
 **Fresco Resources**
 

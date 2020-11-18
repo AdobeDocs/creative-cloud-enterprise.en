@@ -1,15 +1,13 @@
 ---
-title: Hands-on Project–Customize a Face Mask
+title: Design to Print Plug-in–Customize a Face Mask
 description: Hands-on project to customize a face mask
 ---
 
-# Create your own Face Mask
+# Design to Print Plug-in–Customize a Face Mask
 
 ![Tutorial Hero Image](../assets/faceMaskSplash.jpg)
 
-Wouldn’t it be cool if you could customize a face mask with your own artwork? With the Adobe Design to Print plug-in, you can visualize your designs on hundreds of Zazzle products, and publish directly to their online marketplace. As a part of attending MAX: The Enterprise Sessions, you received a coupon code from Zazzle worth $30 USD. You can use the coupon to order your own customized face mask.
-
-**Upload your PNG [here](https://www.dropbox.com/request/cjp7JrjvEuOUMtJDVtKx) by EOD Wednesday, 10/28**
+Wouldn’t it be cool if you could customize a face mask with your own artwork? With the Adobe Design to Print plug-in, you can visualize your designs on hundreds of Zazzle products, and publish directly to their online marketplace. 
 
 ## Browse Facemask Project Tutorials
 

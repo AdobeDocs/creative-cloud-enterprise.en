@@ -92,7 +92,7 @@ In this tutorial, you will learn how to:
 
 **Click Image to Download Dimension File with 3D Model of White Mask**
 
-[![Comparison Image](../assets/whitemask_96.png)](../assets/whiteMask.dn.zip)
+[Comparison Image](../assets/whitemask_96.png)](https://stock.adobe.com/search/3d-assets?load_type=search&native_visual_search=&similar_content_id=&is_recent_search=&search_type=usertyped&k=face+mask&asset_id=324075591)
 
 **Presented by:**
 Patti Sokol, Principal Solutions Consultant (Digital Media)

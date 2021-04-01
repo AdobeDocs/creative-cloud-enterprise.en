@@ -1,14 +1,8 @@
 ---
-cloud: creative-cloud
-solution-title: Creative Cloud
-solution-hub-url: https://helpx.adobe.com/support/creative-cloud.html
-getting-started-title: Getting Started
-getting-started-url: https://helpx.adobe.com/creative-cloud/get-started.html
-tutorials-title: Tutorials
-tutorials-url: https://helpx.adobe.com/creative-cloud/tutorials-explore.html
+cloud: Creative Cloud
 mini-toc-levels: 2
 git-repo: https://github.com/AdobeDocs/creative-cloud-enterprise.en
-index: yes
+index: no
 ---
 
 # Metadata for internal use
